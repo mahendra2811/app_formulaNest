@@ -9,10 +9,10 @@
     "icon": "./assets/icon.png",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.formulalearner.app"
+      "bundleIdentifier": "com.pooniya.formulaNest"
     },
     "android": {
-      "package": "com.formulalearner.app",
+      "package": "com.pooniya.formulaNest",
       "adaptiveIcon": {
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundColor": "#eef4f0"
@@ -50,6 +50,17 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "headers": {
+          "Cross-Origin-Embedder-Policy": "credentialless",
+          "Cross-Origin-Opener-Policy": "same-origin"
+        }
+      },
+      "eas": {
+        "projectId": "ccea7e8c-ea9b-4860-b475-500d07fcb56e"
+      }
     }
   }
 }
