@@ -9,10 +9,10 @@
     "icon": "./assets/icon.png",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.pooniya.formulaNest"
+      "bundleIdentifier": "com.pooniya.formulanest"
     },
     "android": {
-      "package": "com.pooniya.formulaNest",
+      "package": "com.pooniya.formulanest",
       "adaptiveIcon": {
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundColor": "#eef4f0"
