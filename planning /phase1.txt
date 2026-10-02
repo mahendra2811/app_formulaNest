@@ -1,0 +1,551 @@
+For the initial phase, I’d build the app as a **small but complete offline-first MVP**. The goal is to finish the architecture and all major user flows with very little sample data first, then scale the content later without changing the app structure.
+
+### Phase 1 goal
+
+Build the full product skeleton with only a small dataset, for example:
+
+- Class 10 → Maths → 2 chapters
+- Class 12 → Physics → 2 chapters
+- JEE Main → Physics → 2 chapters
+- 20–30 formulas
+- 10–15 short notes
+- 20–30 MCQs
+- 2–3 formula sheets
+
+That is enough to test almost every feature.
+
+## Features to complete in Phase 1
+
+1. **Onboarding**
+   - Select mode: School / Competitive Exam
+   - Select class or exam
+   - Select stream if applicable
+   - Select subjects
+   - Save preferences locally
+
+2. **Personalized Home**
+   - Continue studying
+   - Subjects
+   - Recently viewed
+   - Bookmarks
+   - Quick revision
+   - Formula of the day
+   - Practice section
+
+3. **Browse Structure**
+   - Class / Exam
+   - Subject
+   - Chapter
+   - Topic
+   - Content list
+
+4. **Formula Detail**
+   - Formula
+   - Explanation
+   - Variables
+   - Units
+   - Example
+   - Related formulas
+   - Common mistake
+   - Bookmark
+   - Share as image
+   - Mark for revision
+
+5. **Short Notes**
+   - Chapter-wise notes
+   - Searchable
+   - Bookmarkable
+   - Dark-mode compatible
+
+6. **Quick Formula Mode**
+   - Only formula + title
+   - Fast scrolling
+   - Useful before exams
+
+7. **Learn Mode**
+   - Formula + explanation + example + related content
+
+8. **Instant Offline Search**
+   - Search formula title
+   - formula keywords
+   - subject
+   - chapter
+   - topic
+   - notes
+
+9. **Search Filters**
+   - Class
+   - Exam
+   - Subject
+   - Chapter
+   - Content type
+
+10. **Bookmarks**
+   - Save formulas
+   - Save notes
+   - Save questions
+   - Remove bookmark
+
+11. **Recently Viewed**
+   - Store last opened content locally
+
+12. **Practice / MCQ**
+   - Chapter-wise MCQ
+   - Show answer
+   - Explanation
+   - Score
+
+13. **Simple Test Generator**
+   - Select subject
+   - Select chapter
+   - Number of questions
+   - Generate test locally
+
+14. **Revision List**
+   - Mark formula as “Revise”
+   - Dedicated revision screen
+   - No complex spaced repetition yet
+
+15. **Formula Sheets**
+   - Prebuilt formula-sheet screen
+   - View inside app
+   - Later add PDF export
+
+16. **Share Formula as Image**
+   - Generate a clean card
+   - Share through WhatsApp/Telegram/etc.
+
+17. **Dark / Light Mode**
+
+18. **Offline-first**
+   - No login
+   - No API dependency
+   - All sample content bundled inside app
+
+---
+
+# Tech stack
+
+For your case, I recommend:
+
+### App
+**React Native + Expo + TypeScript**
+
+This fits you well because you already work with React/TypeScript, and this app does not need heavy native functionality initially.
+
+### Navigation
+**Expo Router**
+
+Use file-based routing like:
+
+```text
+app/
+  (tabs)/
+    index.tsx
+    learn.tsx
+    practice.tsx
+    search.tsx
+    library.tsx
+
+  formula/[id].tsx
+  note/[id].tsx
+  chapter/[id].tsx
+  test/[id].tsx
+```
+
+### Local database
+**SQLite**
+
+Use:
+
+**expo-sqlite**
+
+Do not use only AsyncStorage for the content database.
+
+SQLite should store:
+
+- formulas
+- notes
+- subjects
+- chapters
+- questions
+- relationships
+- search keywords
+
+This will scale much better when you eventually have thousands of records.
+
+### User preferences
+
+Use either:
+
+**Zustand + AsyncStorage**
+
+for:
+
+- selected class
+- selected exam
+- selected subjects
+- theme
+- onboarding status
+- small UI preferences
+
+SQLite can store larger user state like test history/revision later.
+
+### State management
+**Zustand**
+
+Keep it simple.
+
+You don't need Redux.
+
+Suggested stores:
+
+```text
+useUserStore
+useContentStore
+useBookmarkStore
+useTestStore
+useSettingsStore
+```
+
+### Styling
+
+I would use:
+
+**NativeWind + React Native**
+
+because you're already comfortable with Tailwind-style development.
+
+You can also use a component system, but don't make the UI dependent on a huge library.
+
+### Icons
+
+**Lucide React Native**
+
+### Formulas
+
+Use **LaTeX** as the formula storage format.
+
+For example:
+
+```json
+{
+  "formula": "v = u + at"
+}
+```
+
+and for mathematical equations:
+
+```json
+{
+  "formula": "\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}"
+}
+```
+
+Then render using a React Native-compatible math renderer/WebView solution.
+
+This is very important because formulas should **not be stored as images**.
+
+---
+
+# Recommended content architecture
+
+Your original source files can stay JSON.
+
+For example:
+
+```text
+content/
+  classes/
+  exams/
+  subjects/
+  chapters/
+  formulas/
+  notes/
+  questions/
+```
+
+But during build/import:
+
+```text
+JSON
+   ↓
+validation script
+   ↓
+SQLite database
+   ↓
+app
+```
+
+This gives you the best of both worlds.
+
+You can easily give me or another AI JSON later, but the final app queries SQLite.
+
+---
+
+# Basic entity design
+
+Start with these tables.
+
+```text
+classes
+exams
+streams
+subjects
+chapters
+topics
+
+content
+questions
+content_tags
+
+bookmarks
+recent_items
+revision_items
+test_attempts
+settings
+```
+
+Instead of separate tables for formula/note/theorem, I would initially use a generic `content` table:
+
+```text
+content
+-------
+id
+type
+title
+body
+formula
+explanation
+example
+subject_id
+chapter_id
+topic_id
+difficulty
+importance
+keywords
+```
+
+Where:
+
+```text
+type =
+formula
+note
+definition
+theorem
+shortcut
+graph
+table
+```
+
+Then create relationships for class/exam mappings.
+
+This avoids duplication.
+
+---
+
+# Very important relationship model
+
+A content item should support multiple audiences.
+
+For example:
+
+```text
+Quadratic Formula
+```
+
+may belong to:
+
+```text
+Class 10
+Class 11
+JEE Main
+NDA
+```
+
+So do not directly put only:
+
+```text
+class_id = 10
+```
+
+Use mappings:
+
+```text
+content_classes
+content_exams
+content_subjects
+```
+
+This architecture will save you a lot of problems later.
+
+---
+
+# Folder structure
+
+I would start roughly like this:
+
+```text
+src/
+├── components/
+│   ├── FormulaCard
+│   ├── NoteCard
+│   ├── QuestionCard
+│   ├── SubjectCard
+│   └── SearchBar
+│
+├── features/
+│   ├── onboarding/
+│   ├── learn/
+│   ├── search/
+│   ├── practice/
+│   ├── bookmarks/
+│   └── revision/
+│
+├── db/
+│   ├── schema.ts
+│   ├── migrations/
+│   ├── queries/
+│   └── seed/
+│
+├── data/
+│   └── sample/
+│
+├── stores/
+├── hooks/
+├── types/
+├── utils/
+└── constants/
+```
+
+---
+
+# Development order
+
+I would build it in this order:
+
+### Step 1 — Project foundation
+
+React Native + Expo  
+Expo Router  
+NativeWind  
+Zustand  
+SQLite  
+Theme
+
+### Step 2 — Data model
+
+Create:
+
+- classes
+- exams
+- subjects
+- chapters
+- content
+- questions
+
+Seed only a small sample dataset.
+
+### Step 3 — Onboarding
+
+Make personalization fully functional.
+
+### Step 4 — Learn flow
+
+```text
+Home
+→ Subject
+→ Chapter
+→ Topic
+→ Formula / Note
+```
+
+### Step 5 — Search
+
+Implement offline search early because it will influence the database design.
+
+### Step 6 — Bookmarks + Recent
+
+Both local.
+
+### Step 7 — Practice
+
+MCQ flow + simple scoring.
+
+### Step 8 — Revision
+
+Basic revision list.
+
+### Step 9 — Share
+
+Formula → shareable image.
+
+### Step 10 — Polish
+
+- dark mode
+- loading states
+- empty states
+- animations
+- accessibility
+- app icon/splash
+
+Then the **application itself is basically complete**.
+
+After that, the next major phase becomes mostly:
+
+> Content production and importing.
+
+---
+
+# What I would deliberately NOT build yet
+
+For Phase 1, skip:
+
+- Login
+- Firebase authentication
+- Backend
+- Cloud sync
+- AI solver
+- AI chatbot
+- Video explanations
+- Leaderboards
+- Notifications system beyond basic local notifications
+- PDF generator
+- Complex spaced repetition
+- Live content updates
+- multilingual translations
+- analytics-heavy system
+
+They can come later.
+
+---
+
+# Phase 1 definition of done
+
+I would call the first phase complete when a user can:
+
+> Install app → choose Class 10 → Maths → open a chapter → see formulas → search a formula → read its explanation → bookmark it → add it to revision → solve a few MCQs → generate a small test → share a formula image → close the app → reopen it → everything still works offline.
+
+If that complete loop works with only **30 formulas**, the architecture is ready for **30,000 formulas later**.
+
+### Final recommended stack
+
+```text
+React Native
+Expo
+TypeScript
+Expo Router
+NativeWind
+Zustand
+expo-sqlite
+AsyncStorage
+Lucide React Native
+LaTeX-based formula data
+JSON → validation/import → SQLite
+EAS Build
+```
+
+For this app specifically, I would **not use Next.js, Node.js, PostgreSQL, MongoDB, Firebase backend or Supabase in Phase 1**. They add complexity without solving a real problem yet.
+
+Your first milestone should therefore be **“complete offline engine with tiny sample content,” not “complete content database.”** Once that works, we can define the exact JSON schema and then start generating/importing the large Class 6–12 + JEE/NEET dataset.

@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_optics",
+      "name": "Optics",
+      "subject_id": "jee_main_physics",
+      "order": 10,
+      "keywords": [
+        "optics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_optics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_optics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_physics_ref_physics_lens_formula",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_lens_formula",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "jee_importance": 5,
+      "jee_notes": "Use Cartesian sign convention.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_lens_formula",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_ydse_fringe_width",
+      "type": "formula",
+      "title": "YDSE Fringe Width",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "formula_latex": "\\beta=\\frac{\\lambda D}{d}",
+      "formula_plain": "β = λD/d",
+      "summary": "Distance between successive bright or dark fringes in Young double-slit interference.",
+      "explanation": "Distance between successive bright or dark fringes in Young double-slit interference.",
+      "variables": [
+        {
+          "symbol": "β",
+          "meaning": "fringe width",
+          "unit": "m"
+        },
+        {
+          "symbol": "λ",
+          "meaning": "wavelength",
+          "unit": "m"
+        },
+        {
+          "symbol": "D",
+          "meaning": "screen distance",
+          "unit": "m"
+        },
+        {
+          "symbol": "d",
+          "meaning": "slit separation",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "m"
+      ],
+      "dimensions": "[L]",
+      "when_to_use": "Use for small-angle double-slit interference.",
+      "conditions": [
+        "Coherent sources and suitable geometry."
+      ],
+      "assumptions": [
+        "Slit separation is much smaller than screen distance."
+      ],
+      "example": {
+        "question": "If D doubles, fringe width becomes:",
+        "solution": "β∝D.",
+        "answer": "Double"
+      },
+      "common_mistakes": [
+        "Interchanging d and D."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "ydse fringe width",
+        "β = λD/d",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_optics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Optics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "optics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_optics_diagram",
+      "type": "diagram_reference",
+      "title": "Lens Ray Diagram",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "description": "Principal rays for image construction.",
+      "labels_required": [
+        "optical centre",
+        "focus",
+        "object",
+        "image"
+      ],
+      "asset_required": true,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_physics_q_ydse",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "question": "If screen distance doubles in YDSE, fringe width:",
+      "options": [
+        {
+          "id": "A",
+          "text": "halves"
+        },
+        {
+          "id": "B",
+          "text": "unchanged"
+        },
+        {
+          "id": "C",
+          "text": "doubles"
+        },
+        {
+          "id": "D",
+          "text": "becomes zero"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "β=λD/d.",
+      "linked_formula_ids": [
+        "physics_ydse_fringe_width"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

@@ -1,0 +1,715 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_9_10_math_science",
+    "board": "CBSE",
+    "classes": [
+      9,
+      10
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "CBSE Class X Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf"
+      },
+      {
+        "name": "NCERT Grade 9 Mathematics Ganita Manjari Part I, 2026",
+        "url": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf"
+      },
+      {
+        "name": "NCERT Class IX Science textbook portal",
+        "url": "https://ncert.nic.in/textbook/pdf/iesc1ps.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "The 2026 NCERT Grade 9 Mathematics textbook has a new eight-chapter structure. CBSE assessment mapping should be confirmed before production import.",
+      "The Class X Science curriculum identifies Periodic Classification, Heredity and Evolution, and certain electricity topics as formative/not assessed in the year-end examination; they remain represented with appropriate review status in downstream normalization."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_9",
+      "name": "Class 9",
+      "number": 9,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_10",
+      "name": "Class 10",
+      "number": 10,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class9_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_9"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class9_mathematics_1",
+      "name": "Orienting Yourself: The Use of Coordinates",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 1,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "orienting yourself: the use of coordinates"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_2",
+      "name": "Introduction to Linear Polynomials",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 2,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "introduction to linear polynomials"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_3",
+      "name": "The World of Numbers",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 3,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "the world of numbers"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_4",
+      "name": "Exploring Algebraic Identities",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 4,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "exploring algebraic identities"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_5",
+      "name": "I’m Up and Down, and Round and Round",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 5,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "i’m up and down, and round and round"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_6",
+      "name": "Measuring Space: Perimeter and Area",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 6,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "measuring space: perimeter and area"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_7",
+      "name": "The Mathematics of Maybe: Introduction to Probability",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 7,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "the mathematics of maybe: introduction to probability"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_8",
+      "name": "Predicting What Comes Next: Exploring Sequences and Progressions",
+      "subject_id": "cbse_class9_mathematics",
+      "class_id": "cbse_class_9",
+      "order": 8,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "predicting what comes next: exploring sequences and progressions"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class9_mathematics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_mathematics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "math_triangle_area_heron",
+      "type": "formula",
+      "title": "Heron’s Formula",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_6",
+      "topic_id": "cbse_class9_mathematics_6_core",
+      "formula_latex": "A = \\sqrt{s(s-a)(s-b)(s-c)},\\quad s = \\frac{a+b+c}{2}",
+      "formula_plain": "A = √[s(s−a)(s−b)(s−c)], s = (a+b+c)/2",
+      "summary": "Finds the area of a triangle when all three sides are known.",
+      "explanation": "Finds the area of a triangle when all three sides are known.",
+      "variables": [
+        {
+          "symbol": "A",
+          "meaning": "area",
+          "unit": "square units"
+        },
+        {
+          "symbol": "a,b,c",
+          "meaning": "side lengths",
+          "unit": "length units"
+        },
+        {
+          "symbol": "s",
+          "meaning": "semiperimeter",
+          "unit": "length units"
+        }
+      ],
+      "when_to_use": "Use when the three side lengths are known.",
+      "conditions": [
+        "Triangle inequality must hold."
+      ],
+      "example": {
+        "question": "Find the area of a 3,4,5 triangle.",
+        "solution": "s = 6; A = √(6×3×2×1).",
+        "answer": "6 square units"
+      },
+      "common_mistakes": [
+        "Using perimeter instead of semiperimeter."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "heron’s formula",
+        "A = √[s(s−a)(s−b)(s−c)], s = (a+b+c)/2"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_mathematics_1_quick_revision",
+      "type": "short_note",
+      "title": "Orienting Yourself: The Use of Coordinates — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_1",
+      "topic_id": "cbse_class9_mathematics_1_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "orienting yourself: the use of coordinates — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    },
+    {
+      "id": "cbse_class9_mathematics_2_quick_revision",
+      "type": "short_note",
+      "title": "Introduction to Linear Polynomials — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_2",
+      "topic_id": "cbse_class9_mathematics_2_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "introduction to linear polynomials — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    },
+    {
+      "id": "cbse_class9_mathematics_3_quick_revision",
+      "type": "short_note",
+      "title": "The World of Numbers — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_3",
+      "topic_id": "cbse_class9_mathematics_3_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "the world of numbers — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    },
+    {
+      "id": "cbse_class9_mathematics_4_quick_revision",
+      "type": "short_note",
+      "title": "Exploring Algebraic Identities — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_4",
+      "topic_id": "cbse_class9_mathematics_4_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "exploring algebraic identities — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    },
+    {
+      "id": "cbse_class9_mathematics_5_quick_revision",
+      "type": "short_note",
+      "title": "I’m Up and Down, and Round and Round — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_5",
+      "topic_id": "cbse_class9_mathematics_5_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "i’m up and down, and round and round — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    },
+    {
+      "id": "cbse_class9_mathematics_6_quick_revision",
+      "type": "short_note",
+      "title": "Measuring Space: Perimeter and Area — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_6",
+      "topic_id": "cbse_class9_mathematics_6_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "measuring space: perimeter and area — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    },
+    {
+      "id": "cbse_class9_mathematics_7_quick_revision",
+      "type": "short_note",
+      "title": "The Mathematics of Maybe: Introduction to Probability — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_7",
+      "topic_id": "cbse_class9_mathematics_7_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "the mathematics of maybe: introduction to probability — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    },
+    {
+      "id": "cbse_class9_mathematics_8_quick_revision",
+      "type": "short_note",
+      "title": "Predicting What Comes Next: Exploring Sequences and Progressions — Chapter Quick Revision",
+      "subject_id": "cbse_class9_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_mathematics_8",
+      "topic_id": "cbse_class9_mathematics_8_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "predicting what comes next: exploring sequences and progressions — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "NCERT Grade 9 mathematics was reorganised into Ganita Manjari in 2026; verify the CBSE assessment mapping."
+    }
+  ],
+  "questions": []
+}

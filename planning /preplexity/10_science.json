@@ -1,0 +1,1657 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_9_10_math_science",
+    "board": "CBSE",
+    "classes": [
+      9,
+      10
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "CBSE Class X Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf"
+      },
+      {
+        "name": "NCERT Grade 9 Mathematics Ganita Manjari Part I, 2026",
+        "url": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf"
+      },
+      {
+        "name": "NCERT Class IX Science textbook portal",
+        "url": "https://ncert.nic.in/textbook/pdf/iesc1ps.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "The 2026 NCERT Grade 9 Mathematics textbook has a new eight-chapter structure. CBSE assessment mapping should be confirmed before production import.",
+      "The Class X Science curriculum identifies Periodic Classification, Heredity and Evolution, and certain electricity topics as formative/not assessed in the year-end examination; they remain represented with appropriate review status in downstream normalization."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_9",
+      "name": "Class 9",
+      "number": 9,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_10",
+      "name": "Class 10",
+      "number": 10,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class10_science",
+      "name": "Science",
+      "class_id": "cbse_class_10"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class10_science_1",
+      "name": "Chemical Reactions and Equations",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 1,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "chemical reactions and equations"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_2",
+      "name": "Acids, Bases and Salts",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 2,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "acids, bases and salts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_3",
+      "name": "Metals and Non-metals",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 3,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "metals and non-metals"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_4",
+      "name": "Carbon and its Compounds",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 4,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "carbon and its compounds"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_5",
+      "name": "Periodic Classification of Elements",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 5,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "periodic classification of elements"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_6",
+      "name": "Life Processes",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 6,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "life processes"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_7",
+      "name": "Control and Coordination",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 7,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "control and coordination"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_8",
+      "name": "How do Organisms Reproduce?",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 8,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "how do organisms reproduce?"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_9",
+      "name": "Heredity",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 9,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "heredity"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_10",
+      "name": "Light – Reflection and Refraction",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 10,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "light – reflection and refraction"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_11",
+      "name": "The Human Eye and the Colourful World",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 11,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "the human eye and the colourful world"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_12",
+      "name": "Electricity",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 12,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "electricity"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_13",
+      "name": "Magnetic Effects of Electric Current",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 13,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "magnetic effects of electric current"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_14",
+      "name": "Sources of Energy",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 14,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "sources of energy"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_15",
+      "name": "Our Environment",
+      "subject_id": "cbse_class10_science",
+      "class_id": "cbse_class_10",
+      "order": 15,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "our environment"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class10_science_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_science_15_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_science_15",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_ohms_law",
+      "type": "formula",
+      "title": "Ohm’s Law",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_12",
+      "topic_id": "cbse_class10_science_12_core",
+      "formula_latex": "V = IR",
+      "formula_plain": "V = I R",
+      "summary": "Potential difference equals current multiplied by resistance for an ohmic conductor.",
+      "explanation": "Potential difference equals current multiplied by resistance for an ohmic conductor.",
+      "variables": [
+        {
+          "symbol": "V",
+          "meaning": "potential difference",
+          "unit": "V"
+        },
+        {
+          "symbol": "I",
+          "meaning": "current",
+          "unit": "A"
+        },
+        {
+          "symbol": "R",
+          "meaning": "resistance",
+          "unit": "Ω"
+        }
+      ],
+      "when_to_use": "Use to relate voltage, current and resistance.",
+      "conditions": [
+        "Physical conditions should remain constant."
+      ],
+      "example": {
+        "question": "A 4 Ω resistor carries 2 A. Find V.",
+        "solution": "V = 2 × 4.",
+        "answer": "8 V"
+      },
+      "common_mistakes": [
+        "Confusing current and voltage.",
+        "Ignoring unit conversion."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "ohm’s law",
+        "V = I R"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision",
+        "numerical"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "physics_electric_power",
+      "type": "formula",
+      "title": "Electric Power",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_12",
+      "topic_id": "cbse_class10_science_12_core",
+      "formula_latex": "P = VI = I^2R = \\frac{V^2}{R}",
+      "formula_plain": "P = VI = I²R = V²/R",
+      "summary": "Power is the rate of electrical energy transfer.",
+      "explanation": "Power is the rate of electrical energy transfer.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "power",
+          "unit": "W"
+        },
+        {
+          "symbol": "V",
+          "meaning": "potential difference",
+          "unit": "V"
+        },
+        {
+          "symbol": "I",
+          "meaning": "current",
+          "unit": "A"
+        },
+        {
+          "symbol": "R",
+          "meaning": "resistance",
+          "unit": "Ω"
+        }
+      ],
+      "when_to_use": "Use according to the quantities given.",
+      "conditions": [
+        "Use compatible SI units."
+      ],
+      "example": {
+        "question": "A device uses 2 A at 10 V. Find its power.",
+        "solution": "P = VI = 10 × 2.",
+        "answer": "20 W"
+      },
+      "common_mistakes": [
+        "Confusing power with energy."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "electric power",
+        "P = VI = I²R = V²/R"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision",
+        "numerical"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "physics_lens_formula",
+      "type": "formula",
+      "title": "Lens Formula",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_10",
+      "topic_id": "cbse_class10_science_10_core",
+      "formula_latex": "\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}",
+      "formula_plain": "1/f = 1/v − 1/u",
+      "summary": "Relates focal length, object distance and image distance for a spherical lens using the Cartesian sign convention.",
+      "explanation": "Relates focal length, object distance and image distance for a spherical lens using the Cartesian sign convention.",
+      "variables": [
+        {
+          "symbol": "f",
+          "meaning": "focal length",
+          "unit": "m"
+        },
+        {
+          "symbol": "u",
+          "meaning": "object distance",
+          "unit": "m"
+        },
+        {
+          "symbol": "v",
+          "meaning": "image distance",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for image formation by a spherical lens.",
+      "conditions": [
+        "Use the Cartesian sign convention consistently."
+      ],
+      "example": {
+        "question": "If f = 10 cm and u = −20 cm, find v.",
+        "solution": "1/10 = 1/v + 1/20, so 1/v = 1/20.",
+        "answer": "v = 20 cm"
+      },
+      "common_mistakes": [
+        "Mixing mirror and lens sign conventions."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "lens formula",
+        "1/f = 1/v − 1/u"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision",
+        "numerical"
+      ],
+      "difficulty": "hard",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "physics_mirror_formula",
+      "type": "formula",
+      "title": "Mirror Formula",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_10",
+      "topic_id": "cbse_class10_science_10_core",
+      "formula_latex": "\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}",
+      "formula_plain": "1/f = 1/v + 1/u",
+      "summary": "Relates focal length, object distance and image distance for a spherical mirror.",
+      "explanation": "Relates focal length, object distance and image distance for a spherical mirror.",
+      "variables": [
+        {
+          "symbol": "f",
+          "meaning": "focal length",
+          "unit": "m"
+        },
+        {
+          "symbol": "u",
+          "meaning": "object distance",
+          "unit": "m"
+        },
+        {
+          "symbol": "v",
+          "meaning": "image distance",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for spherical mirrors with the Cartesian sign convention.",
+      "conditions": [
+        "Use signed distances."
+      ],
+      "example": {
+        "question": "For a concave mirror, u = −20 cm and f = −10 cm. Find v.",
+        "solution": "−1/10 = 1/v − 1/20, so 1/v = −1/20.",
+        "answer": "v = −20 cm"
+      },
+      "common_mistakes": [
+        "Using the lens formula for a mirror."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "mirror formula",
+        "1/f = 1/v + 1/u"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision",
+        "numerical"
+      ],
+      "difficulty": "hard",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "physics_electric_energy",
+      "type": "formula",
+      "title": "Electrical Energy",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_12",
+      "topic_id": "cbse_class10_science_12_core",
+      "formula_latex": "E = Pt = VIt",
+      "formula_plain": "E = P t = V I t",
+      "summary": "Electrical energy is power multiplied by time.",
+      "explanation": "Electrical energy is power multiplied by time.",
+      "variables": [
+        {
+          "symbol": "E",
+          "meaning": "electrical energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "P",
+          "meaning": "power",
+          "unit": "W"
+        },
+        {
+          "symbol": "t",
+          "meaning": "time",
+          "unit": "s"
+        }
+      ],
+      "when_to_use": "Use to calculate energy consumed over time.",
+      "conditions": [
+        "For commercial units, 1 kWh = 3.6 × 10⁶ J."
+      ],
+      "example": {
+        "question": "A 100 W bulb works for 10 s. Find energy used.",
+        "solution": "E = 100 × 10.",
+        "answer": "1000 J"
+      },
+      "common_mistakes": [
+        "Using hours without converting when joules are required."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "electrical energy",
+        "E = P t = V I t"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision",
+        "numerical"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_1_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Reactions and Equations — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_1",
+      "topic_id": "cbse_class10_science_1_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "chemical reactions and equations — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_2_quick_revision",
+      "type": "short_note",
+      "title": "Acids, Bases and Salts — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_2",
+      "topic_id": "cbse_class10_science_2_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "acids, bases and salts — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_3_quick_revision",
+      "type": "short_note",
+      "title": "Metals and Non-metals — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_3",
+      "topic_id": "cbse_class10_science_3_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "metals and non-metals — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_4_quick_revision",
+      "type": "short_note",
+      "title": "Carbon and its Compounds — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_4",
+      "topic_id": "cbse_class10_science_4_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "carbon and its compounds — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_5_quick_revision",
+      "type": "short_note",
+      "title": "Periodic Classification of Elements — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_5",
+      "topic_id": "cbse_class10_science_5_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "periodic classification of elements — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_6_quick_revision",
+      "type": "short_note",
+      "title": "Life Processes — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_6",
+      "topic_id": "cbse_class10_science_6_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "life processes — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_7_quick_revision",
+      "type": "short_note",
+      "title": "Control and Coordination — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_7",
+      "topic_id": "cbse_class10_science_7_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "control and coordination — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_8_quick_revision",
+      "type": "short_note",
+      "title": "How do Organisms Reproduce? — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_8",
+      "topic_id": "cbse_class10_science_8_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "how do organisms reproduce? — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_9_quick_revision",
+      "type": "short_note",
+      "title": "Heredity — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_9",
+      "topic_id": "cbse_class10_science_9_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "heredity — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_10_quick_revision",
+      "type": "short_note",
+      "title": "Light – Reflection and Refraction — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_10",
+      "topic_id": "cbse_class10_science_10_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "light – reflection and refraction — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_11_quick_revision",
+      "type": "short_note",
+      "title": "The Human Eye and the Colourful World — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_11",
+      "topic_id": "cbse_class10_science_11_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "the human eye and the colourful world — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_12_quick_revision",
+      "type": "short_note",
+      "title": "Electricity — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_12",
+      "topic_id": "cbse_class10_science_12_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "electricity — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_13_quick_revision",
+      "type": "short_note",
+      "title": "Magnetic Effects of Electric Current — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_13",
+      "topic_id": "cbse_class10_science_13_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "magnetic effects of electric current — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_14_quick_revision",
+      "type": "short_note",
+      "title": "Sources of Energy — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_14",
+      "topic_id": "cbse_class10_science_14_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "sources of energy — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_15_quick_revision",
+      "type": "short_note",
+      "title": "Our Environment — Chapter Quick Revision",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_15",
+      "topic_id": "cbse_class10_science_15_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "our environment — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_1_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Reactions and Equations",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_1",
+      "topic_id": "cbse_class10_science_1_core",
+      "summary": "High-yield science revision note.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Balance equations by changing coefficients, not subscripts.",
+            "Recognise combination, decomposition, displacement and double displacement reactions.",
+            "Oxidation and reduction occur together in redox reactions."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Balance equations by changing coefficients, not subscripts.",
+        "Recognise combination, decomposition, displacement and double displacement reactions.",
+        "Oxidation and reduction occur together in redox reactions."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "chemical reactions and equations",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_science_6_quick_revision",
+      "type": "short_note",
+      "title": "Life Processes",
+      "subject_id": "cbse_class10_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_science_6",
+      "topic_id": "cbse_class10_science_6_core",
+      "summary": "High-yield science revision note.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Nutrition, respiration, transport and excretion maintain life.",
+            "Photosynthesis converts light energy into chemical energy.",
+            "Different organisms use specialised organs and tissues for life processes."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Nutrition, respiration, transport and excretion maintain life.",
+        "Photosynthesis converts light energy into chemical energy.",
+        "Different organisms use specialised organs and tissues for life processes."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "life processes",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_sci10_ohm",
+      "type": "mcq",
+      "subject_id": "cbse_class10_science",
+      "chapter_id": "cbse_class10_science_12",
+      "topic_id": "cbse_class10_science_12_core",
+      "question": "A 6 Ω resistor is connected to 12 V. Current is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 A"
+        },
+        {
+          "id": "B",
+          "text": "2 A"
+        },
+        {
+          "id": "C",
+          "text": "6 A"
+        },
+        {
+          "id": "D",
+          "text": "72 A"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "I = V/R = 12/6 = 2 A.",
+      "linked_formula_ids": [
+        "physics_ohms_law"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "q_sci10_life",
+      "type": "mcq",
+      "subject_id": "cbse_class10_science",
+      "chapter_id": "cbse_class10_science_6",
+      "topic_id": "cbse_class10_science_6_core",
+      "question": "Which process releases energy from food in cells?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respiration"
+        },
+        {
+          "id": "B",
+          "text": "Transpiration"
+        },
+        {
+          "id": "C",
+          "text": "Excretion"
+        },
+        {
+          "id": "D",
+          "text": "Reproduction"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Respiration releases usable energy from food.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ]
+}

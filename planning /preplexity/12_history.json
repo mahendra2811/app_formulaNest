@@ -1,0 +1,1093 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_humanities",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Humanities",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Geography",
+      "Sociology",
+      "Psychology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE History Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/History_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Political Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/PoliticalScience_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Geography Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Geography_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Sociology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Sociology_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Psychology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Psychology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Economics is not duplicated because canonical Economics content is maintained by the Commerce dataset; a mapping file records this decision.",
+      "The extracted official PDFs contain some legacy session labels; explicit 2026-27 chapter structures should be checked against final school circulars before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_history",
+      "name": "History",
+      "class_id": "cbse_class_12",
+      "stream": "humanities"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_history_1",
+      "name": "Bricks, Beads and Bones",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "bricks, beads and bones"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_2",
+      "name": "Kings, Farmers and Towns",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "kings, farmers and towns"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_3",
+      "name": "Kinship, Caste and Class",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "kinship, caste and class"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_4",
+      "name": "Thinkers, Beliefs and Buildings",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "thinkers, beliefs and buildings"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_5",
+      "name": "Through the Eyes of Travellers",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "through the eyes of travellers"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_6",
+      "name": "Bhakti-Sufi Traditions",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "bhakti-sufi traditions"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_7",
+      "name": "An Imperial Capital: Vijayanagara",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "an imperial capital: vijayanagara"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_8",
+      "name": "Peasants, Zamindars and the State",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "peasants, zamindars and the state"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_9",
+      "name": "Colonialism and the Countryside",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "colonialism and the countryside"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_10",
+      "name": "Rebels and the Raj",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "rebels and the raj"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_11",
+      "name": "Mahatma Gandhi and the Nationalist Movement",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "mahatma gandhi and the nationalist movement"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_12",
+      "name": "Framing the Constitution",
+      "subject_id": "cbse_class12_history",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "framing the constitution"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_history_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_history_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_history_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class12_history_1_quick_revision",
+      "type": "short_note",
+      "title": "Bricks, Beads and Bones — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_1",
+      "topic_id": "cbse_class12_history_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "bricks, beads and bones — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_2_quick_revision",
+      "type": "short_note",
+      "title": "Kings, Farmers and Towns — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_2",
+      "topic_id": "cbse_class12_history_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "kings, farmers and towns — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_3_quick_revision",
+      "type": "short_note",
+      "title": "Kinship, Caste and Class — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_3",
+      "topic_id": "cbse_class12_history_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "kinship, caste and class — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_4_quick_revision",
+      "type": "short_note",
+      "title": "Thinkers, Beliefs and Buildings — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_4",
+      "topic_id": "cbse_class12_history_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "thinkers, beliefs and buildings — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_5_quick_revision",
+      "type": "short_note",
+      "title": "Through the Eyes of Travellers — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_5",
+      "topic_id": "cbse_class12_history_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "through the eyes of travellers — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_6_quick_revision",
+      "type": "short_note",
+      "title": "Bhakti-Sufi Traditions — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_6",
+      "topic_id": "cbse_class12_history_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "bhakti-sufi traditions — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_7_quick_revision",
+      "type": "short_note",
+      "title": "An Imperial Capital: Vijayanagara — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_7",
+      "topic_id": "cbse_class12_history_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "an imperial capital: vijayanagara — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_8_quick_revision",
+      "type": "short_note",
+      "title": "Peasants, Zamindars and the State — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_8",
+      "topic_id": "cbse_class12_history_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "peasants, zamindars and the state — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_9_quick_revision",
+      "type": "short_note",
+      "title": "Colonialism and the Countryside — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_9",
+      "topic_id": "cbse_class12_history_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "colonialism and the countryside — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_10_quick_revision",
+      "type": "short_note",
+      "title": "Rebels and the Raj — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_10",
+      "topic_id": "cbse_class12_history_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "rebels and the raj — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_11_quick_revision",
+      "type": "short_note",
+      "title": "Mahatma Gandhi and the Nationalist Movement — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_11",
+      "topic_id": "cbse_class12_history_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "mahatma gandhi and the nationalist movement — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_history_12_quick_revision",
+      "type": "short_note",
+      "title": "Framing the Constitution — Chapter Quick Revision",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_12",
+      "topic_id": "cbse_class12_history_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "framing the constitution — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "history_gandhi_national_movement_timeline",
+      "type": "timeline",
+      "title": "Gandhi and the Nationalist Movement Timeline",
+      "subject_id": "cbse_class12_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_history_11",
+      "topic_id": "cbse_class12_history_11_core",
+      "summary": "Selected milestones in the nationalist movement.",
+      "keywords": [
+        "gandhi timeline",
+        "national movement",
+        "salt march"
+      ],
+      "tags": [
+        "timeline",
+        "history",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "events": [
+        {
+          "date_or_period": "1915",
+          "event": "M. K. Gandhi returned to India.",
+          "importance": 4
+        },
+        {
+          "date_or_period": "1917",
+          "event": "Champaran movement.",
+          "importance": 4
+        },
+        {
+          "date_or_period": "1919",
+          "event": "Rowlatt Satyagraha and Jallianwala Bagh context.",
+          "importance": 5
+        },
+        {
+          "date_or_period": "1920–22",
+          "event": "Non-Cooperation Movement.",
+          "importance": 5
+        },
+        {
+          "date_or_period": "1930",
+          "event": "Civil Disobedience Movement began with the Salt March.",
+          "importance": 5
+        },
+        {
+          "date_or_period": "1942",
+          "event": "Quit India Movement.",
+          "importance": 5
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_history_gandhi",
+      "type": "mcq",
+      "subject_id": "cbse_class12_history",
+      "chapter_id": "cbse_class12_history_11",
+      "topic_id": "cbse_class12_history_11_core",
+      "question": "The Salt March is associated with the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-Cooperation Movement"
+        },
+        {
+          "id": "B",
+          "text": "Civil Disobedience Movement"
+        },
+        {
+          "id": "C",
+          "text": "Quit India Movement"
+        },
+        {
+          "id": "D",
+          "text": "Swadeshi Movement"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The Salt March initiated the Civil Disobedience Movement in 1930.",
+      "linked_content_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "chronology",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 10,
+    "total_units": 0,
+    "total_chapters": 124,
+    "total_topics": 124,
+    "total_content_items": 132,
+    "total_short_notes": 124,
+    "total_definitions": 1,
+    "total_timelines": 1,
+    "total_comparisons": 1,
+    "total_maps": 1,
+    "total_diagram_references": 0,
+    "total_formulas": 1,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

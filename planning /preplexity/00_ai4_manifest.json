@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class12_science",
+    "board": "CBSE",
+    "class": 12,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "NCERT Textbook PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "CBSE Senior Secondary Physics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Chemistry curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Mathematics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Biology curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Exact chapter and formative-assessment treatment should be checked against the final subject PDFs and school implementation before production import."
+    ]
+  },
+  "files": [
+    "01_class12_physics.json",
+    "02_class12_chemistry.json",
+    "03_class12_mathematics.json",
+    "04_class12_biology.json",
+    "05_ai4_validation.json"
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_6_7_8_math_science",
+    "board": "CBSE",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "date_researched": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "NCERT Textbooks PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "NCERT Grade 8 Mathematics Ganita Prakash Part I, Reprint 2026-27",
+        "url": "https://ncert.nic.in/textbook/pdf/hegp1ps.pdf"
+      },
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      }
+    ],
+    "scope_note": "This generated artifact is a structured starter dataset. The 2026-27 transition to new middle-stage NCERT books means all chapter mappings marked needs_review should be checked against the school-adopted book set."
+  },
+  "classes": [
+    {
+      "id": "cbse_class_6",
+      "name": "Class 6",
+      "number": 6,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_7",
+      "name": "Class 7",
+      "number": 7,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_8",
+      "name": "Class 8",
+      "number": 8,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class6_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_6"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class6_mathematics_1",
+      "name": "Knowing Our Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "knowing our numbers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_2",
+      "name": "Whole Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "whole numbers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_3",
+      "name": "Playing with Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "playing with numbers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_4",
+      "name": "Basic Geometrical Ideas",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "basic geometrical ideas"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_5",
+      "name": "Understanding Elementary Shapes",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "understanding elementary shapes"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_6",
+      "name": "Integers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "integers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_7",
+      "name": "Fractions",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "fractions"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_8",
+      "name": "Decimals",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 8,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "decimals"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_9",
+      "name": "Data Handling",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 9,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "data handling"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_10",
+      "name": "Mensuration",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 10,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "mensuration"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_11",
+      "name": "Algebra",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 11,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "algebra"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class6_mathematics_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_8_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_9_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_10_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_11_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class6_mathematics_1_revision_note",
+      "type": "short_note",
+      "title": "Knowing Our Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "knowing our numbers",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "cbse_class6_mathematics_2_revision_note",
+      "type": "short_note",
+      "title": "Whole Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_2",
+      "topic_id": "cbse_class6_mathematics_2_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "whole numbers",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "math_percentage",
+      "type": "formula",
+      "title": "Percentage",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "formula_latex": "Percentage = (part / whole) × 100",
+      "formula_plain": "Percentage = (Part / Whole) × 100",
+      "summary": "Percentage compares a part with the whole.",
+      "explanation": "Percentage compares a part with the whole.",
+      "variables": [],
+      "when_to_use": "Use when the whole quantity is known and the relative size of a part is required.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "percentage",
+        "Percentage = (Part / Whole) × 100"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6,
+        7,
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    },
+    {
+      "id": "math_rectangle_area",
+      "type": "formula",
+      "title": "Area of a Rectangle",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "formula_latex": "A = l \\times b",
+      "formula_plain": "A = l × b",
+      "summary": "Area is the surface covered by a rectangle.",
+      "explanation": "Area is the surface covered by a rectangle.",
+      "variables": [],
+      "when_to_use": "Use for rectangular regions.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "area of a rectangle",
+        "A = l × b"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6,
+        7,
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    },
+    {
+      "id": "math_rectangle_perimeter",
+      "type": "formula",
+      "title": "Perimeter of a Rectangle",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "formula_latex": "P = 2(l+b)",
+      "formula_plain": "P = 2(l + b)",
+      "summary": "Perimeter is the total boundary length of a rectangle.",
+      "explanation": "Perimeter is the total boundary length of a rectangle.",
+      "variables": [],
+      "when_to_use": "Use for the boundary of a rectangle.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "perimeter of a rectangle",
+        "P = 2(l + b)"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6,
+        7,
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q6_math_whole_numbers",
+      "type": "mcq",
+      "subject_id": "cbse_class6_mathematics",
+      "chapter_id": "cbse_class6_mathematics_2",
+      "topic_id": "cbse_class6_mathematics_2_core_topics",
+      "question": "Which number is the successor of 99?",
+      "options": [
+        {
+          "id": "A",
+          "text": "98"
+        },
+        {
+          "id": "B",
+          "text": "99"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "101"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "The successor is the next number, so 99 + 1 = 100",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 3,
+      "question_style": "numerical",
+      "classes": [
+        6
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 3,
+    "total_subjects": 6,
+    "total_chapters": 69,
+    "total_topics": 69,
+    "total_content_items": 11,
+    "total_formulas": 5,
+    "total_short_notes": 6,
+    "total_definitions": 0,
+    "total_questions": 3,
+    "duplicate_ids_found": 0,
+    "broken_references_found": 0,
+    "items_needing_review": 11
+  }
+}

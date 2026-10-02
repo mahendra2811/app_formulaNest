@@ -1,0 +1,494 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_mechanics",
+      "name": "Mechanics",
+      "subject_id": "jee_main_physics",
+      "order": 2,
+      "keywords": [
+        "mechanics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_mechanics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_mechanics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_physics_ref_physics_newtons_second_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_newtons_second_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "jee_importance": 5,
+      "jee_notes": "Use net force, not an individual force.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_newtons_second_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_physics_ref_physics_kinetic_energy",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_kinetic_energy",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "jee_importance": 5,
+      "jee_notes": "Energy is scalar; speed is squared.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_kinetic_energy",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_projectile_range",
+      "type": "formula",
+      "title": "Projectile Range",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "formula_latex": "R=\\frac{u^2\\sin 2\\theta}{g}",
+      "formula_plain": "R = u² sin(2θ)/g",
+      "summary": "Horizontal range of a projectile landing at the same level from which it was projected.",
+      "explanation": "Horizontal range of a projectile landing at the same level from which it was projected.",
+      "variables": [
+        {
+          "symbol": "R",
+          "meaning": "horizontal range",
+          "unit": "m"
+        },
+        {
+          "symbol": "u",
+          "meaning": "initial speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "θ",
+          "meaning": "projection angle",
+          "unit": "radian or degree"
+        },
+        {
+          "symbol": "g",
+          "meaning": "acceleration due to gravity",
+          "unit": "m/s²"
+        }
+      ],
+      "si_units": [
+        "m",
+        "m/s",
+        "m/s²"
+      ],
+      "dimensions": "[L]",
+      "when_to_use": "Use for ideal projectile motion with equal launch and landing levels.",
+      "conditions": [
+        "No air resistance.",
+        "Constant g."
+      ],
+      "assumptions": [
+        "Launch and landing heights are equal."
+      ],
+      "example": {
+        "question": "For u=10 m/s, θ=45°, g=10 m/s².",
+        "solution": "R=100×1/10.",
+        "answer": "10 m"
+      },
+      "common_mistakes": [
+        "Using this formula for unequal heights."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "projectile range",
+        "R = u² sin(2θ)/g",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_centripetal_acceleration",
+      "type": "formula",
+      "title": "Centripetal Acceleration",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "formula_latex": "a_c=\\frac{v^2}{r}=\\omega^2r",
+      "formula_plain": "a_c = v²/r = ω²r",
+      "summary": "Radial acceleration required for circular motion.",
+      "explanation": "Radial acceleration required for circular motion.",
+      "variables": [
+        {
+          "symbol": "a_c",
+          "meaning": "centripetal acceleration",
+          "unit": "m/s²"
+        },
+        {
+          "symbol": "v",
+          "meaning": "speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "r",
+          "meaning": "radius",
+          "unit": "m"
+        },
+        {
+          "symbol": "ω",
+          "meaning": "angular speed",
+          "unit": "rad/s"
+        }
+      ],
+      "si_units": [
+        "m/s²"
+      ],
+      "dimensions": "[LT⁻²]",
+      "when_to_use": "Use for circular motion.",
+      "conditions": [
+        "Velocity direction changes even at constant speed."
+      ],
+      "assumptions": [
+        "Motion is along a circle of radius r."
+      ],
+      "example": {
+        "question": "v=4 m/s,r=2 m.",
+        "solution": "a=16/2.",
+        "answer": "8 m/s²"
+      },
+      "common_mistakes": [
+        "Calling centripetal acceleration tangential."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "centripetal acceleration",
+        "a_c = v²/r = ω²r",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_orbital_velocity",
+      "type": "formula",
+      "title": "Orbital Velocity",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "formula_latex": "v_o=\\sqrt{\\frac{GM}{r}}",
+      "formula_plain": "vₒ = √(GM/r)",
+      "summary": "Speed of a circular satellite orbit around a central mass.",
+      "explanation": "Speed of a circular satellite orbit around a central mass.",
+      "variables": [
+        {
+          "symbol": "G",
+          "meaning": "gravitational constant",
+          "unit": "N m²/kg²"
+        },
+        {
+          "symbol": "M",
+          "meaning": "central mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "r",
+          "meaning": "orbital radius",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "m/s"
+      ],
+      "dimensions": "[LT⁻¹]",
+      "when_to_use": "Use for circular orbit.",
+      "conditions": [
+        "Orbit is circular and gravitational force supplies centripetal force."
+      ],
+      "assumptions": [
+        "Neglect atmosphere and other perturbations."
+      ],
+      "example": {
+        "question": "How does orbital speed change if r increases fourfold?",
+        "solution": "v∝1/√r.",
+        "answer": "It becomes half."
+      },
+      "common_mistakes": [
+        "Using escape-speed formula instead."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "orbital velocity",
+        "vₒ = √(GM/r)",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_mechanics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Mechanics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "mechanics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_trap_friction_direction",
+      "type": "common_trap",
+      "title": "Friction Direction",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "wrong_approach": "Friction always opposes velocity.",
+      "why_wrong": "Friction opposes relative or impending relative motion, not necessarily the centre-of-mass velocity.",
+      "correct_approach": "Determine the relative tendency at the contact and draw the free-body diagram.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_shortcut_projectile_max_range",
+      "type": "shortcut",
+      "title": "Maximum Projectile Range",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "shortcut": "For equal launch and landing levels, maximum range occurs at θ=45° and Rmax=u²/g.",
+      "why_it_works": "sin 2θ is at most 1.",
+      "conditions": [
+        "No air resistance.",
+        "Equal launch and landing levels."
+      ],
+      "do_not_use_when": [
+        "Launch and landing heights differ."
+      ],
+      "example": "For u=20 m/s,g=10 m/s², Rmax=40 m.",
+      "keywords": [
+        "maximum projectile range",
+        "45 degree projectile"
+      ],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_mechanics_graph",
+      "type": "graph",
+      "title": "Velocity-Time Graph",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "x_axis": "time",
+      "y_axis": "velocity",
+      "relationship": "Slope gives acceleration; area gives displacement.",
+      "interpretation": [
+        "Read slope and area according to axis definitions."
+      ],
+      "important_points": [
+        "Use consistent units."
+      ],
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_mechanics_diagram",
+      "type": "diagram_reference",
+      "title": "Free-Body Diagram",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "description": "Forces acting on a body with chosen axes.",
+      "labels_required": [
+        "weight",
+        "normal",
+        "friction",
+        "tension"
+      ],
+      "asset_required": true,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_physics_q_projectile_range",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "question": "For u=10 m/s, θ=45°, g=10 m/s², range is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 m"
+        },
+        {
+          "id": "B",
+          "text": "10 m"
+        },
+        {
+          "id": "C",
+          "text": "20 m"
+        },
+        {
+          "id": "D",
+          "text": "100 m"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "R=u²/g=10 m.",
+      "linked_formula_ids": [
+        "physics_projectile_range"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

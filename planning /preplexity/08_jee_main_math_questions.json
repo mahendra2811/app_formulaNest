@@ -1,0 +1,154 @@
+[
+  {
+    "id": "jee_q_trig_general",
+    "type": "mcq",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_trigonometry",
+    "topic_id": "jee_main_math_trigonometry_core",
+    "question": "The general solution of sin x=0 is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=2nπ"
+      },
+      {
+        "id": "B",
+        "text": "x=nπ"
+      },
+      {
+        "id": "C",
+        "text": "x=(2n+1)π/2"
+      },
+      {
+        "id": "D",
+        "text": "x=π/2"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "All integer multiples of π solve the equation.",
+    "linked_formula_ids": [
+      "math_trig_general_solution_sin"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "direct",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_q_chain_rule",
+    "type": "mcq",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_calculus",
+    "topic_id": "jee_main_math_calculus_core",
+    "question": "d/dx[sin(x²)] equals:",
+    "options": [
+      {
+        "id": "A",
+        "text": "cos x"
+      },
+      {
+        "id": "B",
+        "text": "2x sin x"
+      },
+      {
+        "id": "C",
+        "text": "2x cos(x²)"
+      },
+      {
+        "id": "D",
+        "text": "cos(x²)"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Apply the chain rule.",
+    "linked_formula_ids": [
+      "math_derivative_chain_rule"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "direct",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_q_parabola_tangent",
+    "type": "mcq",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_coordinate_geometry",
+    "topic_id": "jee_main_math_coordinate_geometry_core",
+    "question": "The tangent to y²=4x at (1,2) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "y=x−1"
+      },
+      {
+        "id": "B",
+        "text": "y=x+1"
+      },
+      {
+        "id": "C",
+        "text": "y=2x+1"
+      },
+      {
+        "id": "D",
+        "text": "y=2x−1"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "yy₁=2a(x+x₁): 2y=2(x+1).",
+    "linked_formula_ids": [
+      "math_parabola_tangent"
+    ],
+    "difficulty": "medium",
+    "importance": 4,
+    "question_style": "application",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_q_independence",
+    "type": "mcq",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_probability_and_statistics",
+    "topic_id": "jee_main_math_probability_and_statistics_core",
+    "question": "If A and B are independent, P(A)=1/2 and P(B)=1/3, P(A∩B) is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/5"
+      },
+      {
+        "id": "B",
+        "text": "1/6"
+      },
+      {
+        "id": "C",
+        "text": "2/3"
+      },
+      {
+        "id": "D",
+        "text": "5/6"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Multiply the probabilities.",
+    "linked_formula_ids": [
+      "math_probability_independence"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "numerical",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  }
+]

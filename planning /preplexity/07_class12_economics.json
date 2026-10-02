@@ -1,0 +1,902 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_commerce",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Commerce",
+    "subjects": [
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Accountancy Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Accountancy_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Business Studies Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/BusinessStudies_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Economics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Economics_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Applied Mathematics was not included because its official 2026-27 PDF was not confidently retrieved in this research pass; no Applied Mathematics records are invented.",
+      "The official PDFs display some legacy session labels in their extracted text; chapter mappings use the explicitly labelled Class XI/XII 2026-27 sections."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_economics",
+      "name": "Economics",
+      "class_id": "cbse_class_12",
+      "stream": "commerce"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_economics_1",
+      "name": "National Income and Related Aggregates",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "national income and related aggregates"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_2",
+      "name": "Money and Banking",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "money and banking"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_3",
+      "name": "Determination of Income and Employment",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "determination of income and employment"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_4",
+      "name": "Government Budget and the Economy",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "government budget and the economy"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_5",
+      "name": "Balance of Payments",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "balance of payments"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_6",
+      "name": "Development Experience and Economic Reforms",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "development experience and economic reforms"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_7",
+      "name": "Current Challenges Facing Indian Economy",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "current challenges facing indian economy"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_8",
+      "name": "Development Experience: Comparison with Neighbours",
+      "subject_id": "cbse_class12_economics",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "development experience: comparison with neighbours"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_economics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_economics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_economics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "economics_gdp_deflator",
+      "type": "formula",
+      "title": "GDP Deflator",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_1",
+      "topic_id": "cbse_class12_economics_1_core",
+      "summary": "Broad price index for domestically produced final goods and services.",
+      "keywords": [
+        "gdp deflator",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "GDP\\ Deflator=\\frac{Nominal\\ GDP}{Real\\ GDP}\\times100",
+      "formula_plain": "GDP deflator = Nominal GDP / Real GDP × 100",
+      "explanation": "Broad price index for domestically produced final goods and services.",
+      "variables": [
+        {
+          "symbol": "Nominal GDP",
+          "meaning": "GDP at current prices",
+          "unit": "currency"
+        },
+        {
+          "symbol": "Real GDP",
+          "meaning": "GDP at base-year prices",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use to compare nominal and real GDP.",
+      "conditions": [
+        "The same base-year convention must be used."
+      ],
+      "example": {
+        "question": "Nominal GDP 120 and real GDP 100.",
+        "solution": "120/100×100.",
+        "answer": "120"
+      },
+      "common_mistakes": [
+        "Reversing numerator and denominator."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "economics_multiplier",
+      "type": "formula",
+      "title": "Investment Multiplier",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_3",
+      "topic_id": "cbse_class12_economics_3_core",
+      "summary": "Shows the change in equilibrium income relative to autonomous investment change in the simple model.",
+      "keywords": [
+        "investment multiplier",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "k=\\frac{1}{1-MPC}=\\frac{1}{MPS}",
+      "formula_plain": "k = 1/(1−MPC) = 1/MPS",
+      "explanation": "Shows the change in equilibrium income relative to autonomous investment change in the simple model.",
+      "variables": [
+        {
+          "symbol": "k",
+          "meaning": "multiplier",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "MPC",
+          "meaning": "marginal propensity to consume",
+          "unit": "dimensionless"
+        },
+        {
+          "symbol": "MPS",
+          "meaning": "marginal propensity to save",
+          "unit": "dimensionless"
+        }
+      ],
+      "when_to_use": "Use under the simple Keynesian assumptions.",
+      "conditions": [
+        "MPC+MPS=1."
+      ],
+      "example": {
+        "question": "If MPC=0.75, find k.",
+        "solution": "1/(1−0.75).",
+        "answer": "4"
+      },
+      "common_mistakes": [
+        "Using APC in place of MPC."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "economics_national_income_identity",
+      "type": "formula",
+      "title": "National Income Identity",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_1",
+      "topic_id": "cbse_class12_economics_1_core",
+      "summary": "A standard conversion relationship between GDP at market price and national income.",
+      "keywords": [
+        "national income identity",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "NNP_{FC}=GDP_{MP}-Depreciation+NFIA-Net\\ Indirect\\ Taxes",
+      "formula_plain": "NNP at factor cost = GDP at market price − depreciation + NFIA − net indirect taxes",
+      "explanation": "A standard conversion relationship between GDP at market price and national income.",
+      "variables": [
+        {
+          "symbol": "NFIA",
+          "meaning": "net factor income from abroad",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use when the listed adjustments are provided.",
+      "conditions": [
+        "Net indirect taxes = indirect taxes − subsidies."
+      ],
+      "example": {
+        "question": "GDPMP=500, depreciation=50, NFIA=20, NIT=30.",
+        "solution": "500−50+20−30.",
+        "answer": "440"
+      },
+      "common_mistakes": [
+        "Adding net indirect taxes instead of subtracting."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_1_quick_revision",
+      "type": "short_note",
+      "title": "National Income and Related Aggregates — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_1",
+      "topic_id": "cbse_class12_economics_1_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "national income and related aggregates — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_2_quick_revision",
+      "type": "short_note",
+      "title": "Money and Banking — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_2",
+      "topic_id": "cbse_class12_economics_2_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "money and banking — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_3_quick_revision",
+      "type": "short_note",
+      "title": "Determination of Income and Employment — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_3",
+      "topic_id": "cbse_class12_economics_3_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "determination of income and employment — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_4_quick_revision",
+      "type": "short_note",
+      "title": "Government Budget and the Economy — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_4",
+      "topic_id": "cbse_class12_economics_4_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "government budget and the economy — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_5_quick_revision",
+      "type": "short_note",
+      "title": "Balance of Payments — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_5",
+      "topic_id": "cbse_class12_economics_5_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "balance of payments — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_6_quick_revision",
+      "type": "short_note",
+      "title": "Development Experience and Economic Reforms — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_6",
+      "topic_id": "cbse_class12_economics_6_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "development experience and economic reforms — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_7_quick_revision",
+      "type": "short_note",
+      "title": "Current Challenges Facing Indian Economy — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_7",
+      "topic_id": "cbse_class12_economics_7_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "current challenges facing indian economy — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_economics_8_quick_revision",
+      "type": "short_note",
+      "title": "Development Experience: Comparison with Neighbours — Chapter Quick Revision",
+      "subject_id": "cbse_class12_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_economics_8",
+      "topic_id": "cbse_class12_economics_8_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "development experience: comparison with neighbours — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_econ_multiplier",
+      "type": "mcq",
+      "subject_id": "cbse_class12_economics",
+      "chapter_id": "cbse_class12_economics_3",
+      "topic_id": "cbse_class12_economics_3_core",
+      "question": "If MPC is 0.75, the investment multiplier is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "k=1/(1−0.75)=4.",
+      "linked_formula_ids": [
+        "economics_multiplier"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 6,
+    "total_units": 0,
+    "total_chapters": 44,
+    "total_topics": 44,
+    "total_content_items": 61,
+    "total_formulas": 13,
+    "total_short_notes": 44,
+    "total_accounting_entries": 2,
+    "total_tables": 1,
+    "total_graphs": 1,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

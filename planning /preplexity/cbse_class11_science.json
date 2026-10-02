@@ -1,0 +1,6218 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class11_science",
+    "board": "CBSE",
+    "class": 11,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Physics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Chemistry Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Mathematics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Biology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "Chemistry gaseous state and s/p block topics are listed as formative-only in the 2026-27 CBSE document and are marked for review where included.",
+      "Some Mathematics topics are formative-only; this starter dataset does not mark every formative mapping individually."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_physics",
+      "name": "Physics",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    },
+    {
+      "id": "cbse_class11_chemistry",
+      "name": "Chemistry",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    },
+    {
+      "id": "cbse_class11_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    },
+    {
+      "id": "cbse_class11_biology",
+      "name": "Biology",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_physics_1",
+      "name": "Units and Measurements",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "units and measurements"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_2",
+      "name": "Motion in a Straight Line",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "motion in a straight line"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_3",
+      "name": "Motion in a Plane",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "motion in a plane"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_4",
+      "name": "Laws of Motion",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "laws of motion"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_5",
+      "name": "Work, Energy and Power",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "work, energy and power"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_6",
+      "name": "System of Particles and Rotational Motion",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "system of particles and rotational motion"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_7",
+      "name": "Gravitation",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "gravitation"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_8",
+      "name": "Mechanical Properties of Solids",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "mechanical properties of solids"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_9",
+      "name": "Mechanical Properties of Fluids",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "mechanical properties of fluids"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_10",
+      "name": "Thermal Properties of Matter",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 10,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "thermal properties of matter"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_11",
+      "name": "Thermodynamics",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 11,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "thermodynamics"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_12",
+      "name": "Kinetic Theory",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 12,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "kinetic theory"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_13",
+      "name": "Oscillations",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 13,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "oscillations"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_14",
+      "name": "Waves",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 14,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "waves"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_1",
+      "name": "Some Basic Concepts of Chemistry",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "some basic concepts of chemistry"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_2",
+      "name": "Structure of Atom",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "structure of atom"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_3",
+      "name": "Classification of Elements and Periodicity in Properties",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "classification of elements and periodicity in properties"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_4",
+      "name": "Chemical Bonding and Molecular Structure",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "chemical bonding and molecular structure"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_5",
+      "name": "Chemical Thermodynamics",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "chemical thermodynamics"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_6",
+      "name": "Equilibrium",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "equilibrium"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_7",
+      "name": "Redox Reactions",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "redox reactions"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_8",
+      "name": "Organic Chemistry: Some Basic Principles and Techniques",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "organic chemistry: some basic principles and techniques"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_9",
+      "name": "Hydrocarbons",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "hydrocarbons"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_1",
+      "name": "Sets",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "sets"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_2",
+      "name": "Relations and Functions",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "relations and functions"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_3",
+      "name": "Trigonometric Functions",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "trigonometric functions"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_4",
+      "name": "Complex Numbers and Quadratic Equations",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "complex numbers and quadratic equations"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_5",
+      "name": "Linear Inequalities",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "linear inequalities"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_6",
+      "name": "Permutations and Combinations",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "permutations and combinations"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_7",
+      "name": "Binomial Theorem",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "binomial theorem"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_8",
+      "name": "Sequence and Series",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "sequence and series"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_9",
+      "name": "Straight Lines",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "straight lines"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_10",
+      "name": "Conic Sections",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 10,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "conic sections"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_11",
+      "name": "Introduction to Three-dimensional Geometry",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 11,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "introduction to three-dimensional geometry"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_12",
+      "name": "Limits and Derivatives",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 12,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "limits and derivatives"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_13",
+      "name": "Statistics",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 13,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "statistics"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_14",
+      "name": "Probability",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 14,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "probability"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_1",
+      "name": "The Living World",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "the living world"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_2",
+      "name": "Biological Classification",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "biological classification"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_3",
+      "name": "Plant Kingdom",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "plant kingdom"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_4",
+      "name": "Animal Kingdom",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "animal kingdom"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_5",
+      "name": "Morphology of Flowering Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "morphology of flowering plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_6",
+      "name": "Anatomy of Flowering Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "anatomy of flowering plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_7",
+      "name": "Structural Organisation in Animals",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "structural organisation in animals"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_8",
+      "name": "Cell: The Unit of Life",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "cell: the unit of life"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_9",
+      "name": "Biomolecules",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "biomolecules"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_10",
+      "name": "Cell Cycle and Cell Division",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 10,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "cell cycle and cell division"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_11",
+      "name": "Photosynthesis in Higher Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 11,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "photosynthesis in higher plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_12",
+      "name": "Respiration in Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 12,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "respiration in plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_13",
+      "name": "Plant Growth and Development",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 13,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "plant growth and development"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_14",
+      "name": "Breathing and Exchange of Gases",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 14,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "breathing and exchange of gases"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_15",
+      "name": "Body Fluids and Circulation",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 15,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "body fluids and circulation"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_16",
+      "name": "Excretory Products and their Elimination",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 16,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "excretory products and their elimination"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_17",
+      "name": "Locomotion and Movement",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 17,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "locomotion and movement"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_18",
+      "name": "Neural Control and Coordination",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 18,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "neural control and coordination"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_19",
+      "name": "Chemical Coordination and Integration",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 19,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "chemical coordination and integration"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_physics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_15_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_15",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_16_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_16",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_17_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_17",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_18_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_18",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_19_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_19",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_speed",
+      "type": "formula",
+      "title": "Average Speed",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Average speed uses total distance and total time.",
+      "keywords": [
+        "average speed",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "v_{avg}=\\frac{\\text{total distance}}{\\text{total time}}",
+      "formula_plain": "average speed = total distance / total time",
+      "explanation": "Average speed uses total distance and total time.",
+      "variables": [
+        {
+          "symbol": "v_avg",
+          "meaning": "average speed",
+          "unit": "m/s"
+        }
+      ],
+      "when_to_use": "Use for total-trip average speed.",
+      "conditions": [
+        "Distance and time must use compatible units."
+      ],
+      "example": {
+        "question": "A body covers 100 m in 20 s.",
+        "solution": "v = 100/20.",
+        "answer": "5 m/s"
+      },
+      "common_mistakes": [
+        "Confusing average speed with average velocity."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_uniform_motion",
+      "type": "formula",
+      "title": "Uniform Acceleration Equations",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Relations for one-dimensional motion with constant acceleration.",
+      "keywords": [
+        "uniform acceleration equations",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "v=u+at;\\quad s=ut+\\frac{1}{2}at^2;\\quad v^2=u^2+2as",
+      "formula_plain": "v = u + at; s = ut + ½at²; v² = u² + 2as",
+      "explanation": "Relations for one-dimensional motion with constant acceleration.",
+      "variables": [
+        {
+          "symbol": "u",
+          "meaning": "initial velocity",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "v",
+          "meaning": "final velocity",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "a",
+          "meaning": "acceleration",
+          "unit": "m/s²"
+        },
+        {
+          "symbol": "t",
+          "meaning": "time",
+          "unit": "s"
+        },
+        {
+          "symbol": "s",
+          "meaning": "displacement",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for constant acceleration.",
+      "conditions": [
+        "Acceleration must be constant."
+      ],
+      "example": {
+        "question": "u=0, a=2 m/s², t=3 s.",
+        "solution": "v=6 m/s; s=½×2×9.",
+        "answer": "v=6 m/s, s=9 m"
+      },
+      "common_mistakes": [
+        "Using equations for variable acceleration."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_newtons_second_law",
+      "type": "formula",
+      "title": "Newton’s Second Law",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_4",
+      "topic_id": "cbse_class11_physics_4_core",
+      "summary": "Net force equals rate of change of momentum.",
+      "keywords": [
+        "newton’s second law",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\vec{F}=\\frac{d\\vec{p}}{dt};\\quad F=ma",
+      "formula_plain": "F = dp/dt; for constant mass F = ma",
+      "explanation": "Net force equals rate of change of momentum.",
+      "variables": [
+        {
+          "symbol": "F",
+          "meaning": "net force",
+          "unit": "N"
+        },
+        {
+          "symbol": "p",
+          "meaning": "momentum",
+          "unit": "kg m/s"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "a",
+          "meaning": "acceleration",
+          "unit": "m/s²"
+        }
+      ],
+      "when_to_use": "Use for dynamics problems.",
+      "conditions": [
+        "F is net force; vectors require direction."
+      ],
+      "example": {
+        "question": "A 2 kg body accelerates at 3 m/s².",
+        "solution": "F = ma = 2×3.",
+        "answer": "6 N"
+      },
+      "common_mistakes": [
+        "Using one force instead of net force."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_kinetic_energy",
+      "type": "formula",
+      "title": "Kinetic Energy",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_5",
+      "topic_id": "cbse_class11_physics_5_core",
+      "summary": "Energy due to motion.",
+      "keywords": [
+        "kinetic energy",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "K=\\frac{1}{2}mv^2",
+      "formula_plain": "K = ½mv²",
+      "explanation": "Energy due to motion.",
+      "variables": [
+        {
+          "symbol": "K",
+          "meaning": "kinetic energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "v",
+          "meaning": "speed",
+          "unit": "m/s"
+        }
+      ],
+      "when_to_use": "Use for translational kinetic energy.",
+      "conditions": [
+        "Speed is squared."
+      ],
+      "example": {
+        "question": "m=2 kg, v=3 m/s.",
+        "solution": "K=½×2×9.",
+        "answer": "9 J"
+      },
+      "common_mistakes": [
+        "Forgetting the square on speed."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_work_constant_force",
+      "type": "formula",
+      "title": "Work by a Constant Force",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_5",
+      "topic_id": "cbse_class11_physics_5_core",
+      "summary": "Work is the component of force along displacement multiplied by displacement.",
+      "keywords": [
+        "work by a constant force",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "W=Fs\\cos\\theta",
+      "formula_plain": "W = F s cos θ",
+      "explanation": "Work is the component of force along displacement multiplied by displacement.",
+      "variables": [
+        {
+          "symbol": "W",
+          "meaning": "work",
+          "unit": "J"
+        },
+        {
+          "symbol": "F",
+          "meaning": "force",
+          "unit": "N"
+        },
+        {
+          "symbol": "s",
+          "meaning": "displacement",
+          "unit": "m"
+        },
+        {
+          "symbol": "θ",
+          "meaning": "angle between force and displacement",
+          "unit": "degree or radian"
+        }
+      ],
+      "when_to_use": "Use for constant force and straight displacement.",
+      "conditions": [
+        "Work can be negative or zero."
+      ],
+      "example": {
+        "question": "F=10 N, s=2 m, same direction.",
+        "solution": "W=10×2×1.",
+        "answer": "20 J"
+      },
+      "common_mistakes": [
+        "Using F s without the angle factor."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_gravitational_potential",
+      "type": "formula",
+      "title": "Gravitational Potential Energy Near Earth",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_7",
+      "topic_id": "cbse_class11_physics_7_core",
+      "summary": "Potential energy relative to a chosen reference level near Earth’s surface.",
+      "keywords": [
+        "gravitational potential energy near earth",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "U=mgh",
+      "formula_plain": "U = mgh",
+      "explanation": "Potential energy relative to a chosen reference level near Earth’s surface.",
+      "variables": [
+        {
+          "symbol": "U",
+          "meaning": "potential energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "g",
+          "meaning": "acceleration due to gravity",
+          "unit": "m/s²"
+        },
+        {
+          "symbol": "h",
+          "meaning": "height difference",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for small height changes near Earth.",
+      "conditions": [
+        "Reference level must be stated."
+      ],
+      "example": {
+        "question": "m=2 kg, g=10 m/s², h=3 m.",
+        "solution": "U=2×10×3.",
+        "answer": "60 J"
+      },
+      "common_mistakes": [
+        "Confusing height with path length."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_escape_velocity",
+      "type": "formula",
+      "title": "Escape Speed",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_7",
+      "topic_id": "cbse_class11_physics_7_core",
+      "summary": "Minimum speed needed to escape a spherical body without further propulsion, neglecting atmosphere and rotation.",
+      "keywords": [
+        "escape speed",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "hard",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "v_e=\\sqrt{\\frac{2GM}{R}}=\\sqrt{2gR}",
+      "formula_plain": "vₑ = √(2GM/R) = √(2gR)",
+      "explanation": "Minimum speed needed to escape a spherical body without further propulsion, neglecting atmosphere and rotation.",
+      "variables": [
+        {
+          "symbol": "G",
+          "meaning": "gravitational constant",
+          "unit": "N m²/kg²"
+        },
+        {
+          "symbol": "M",
+          "meaning": "mass of body",
+          "unit": "kg"
+        },
+        {
+          "symbol": "R",
+          "meaning": "radius of body",
+          "unit": "m"
+        },
+        {
+          "symbol": "g",
+          "meaning": "surface acceleration due to gravity",
+          "unit": "m/s²"
+        }
+      ],
+      "when_to_use": "Use for ideal escape from a spherical body.",
+      "conditions": [
+        "Neglect atmosphere and Earth rotation."
+      ],
+      "example": {
+        "question": "For g=10 m/s² and R=6.4×10⁶ m, estimate vₑ.",
+        "solution": "vₑ=√(2×10×6.4×10⁶).",
+        "answer": "Approximately 11.3 km/s"
+      },
+      "common_mistakes": [
+        "Confusing escape speed with orbital speed."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_fluid_pressure",
+      "type": "formula",
+      "title": "Pressure",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_9",
+      "topic_id": "cbse_class11_physics_9_core",
+      "summary": "Pressure is normal force per unit area.",
+      "keywords": [
+        "pressure",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "P=\\frac{F}{A}",
+      "formula_plain": "P = F/A",
+      "explanation": "Pressure is normal force per unit area.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "F",
+          "meaning": "normal force",
+          "unit": "N"
+        },
+        {
+          "symbol": "A",
+          "meaning": "area",
+          "unit": "m²"
+        }
+      ],
+      "when_to_use": "Use for force distributed over an area.",
+      "conditions": [
+        "Force must be normal to area for this simple form."
+      ],
+      "example": {
+        "question": "F=100 N over 2 m².",
+        "solution": "P=100/2.",
+        "answer": "50 Pa"
+      },
+      "common_mistakes": [
+        "Using length instead of area."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_thermodynamics_first_law",
+      "type": "formula",
+      "title": "First Law of Thermodynamics",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_11",
+      "topic_id": "cbse_class11_physics_11_core",
+      "summary": "Heat supplied equals increase in internal energy plus work done by the system.",
+      "keywords": [
+        "first law of thermodynamics",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\Delta Q=\\Delta U+W",
+      "formula_plain": "ΔQ = ΔU + W",
+      "explanation": "Heat supplied equals increase in internal energy plus work done by the system.",
+      "variables": [
+        {
+          "symbol": "ΔQ",
+          "meaning": "heat supplied",
+          "unit": "J"
+        },
+        {
+          "symbol": "ΔU",
+          "meaning": "change in internal energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "W",
+          "meaning": "work done by system",
+          "unit": "J"
+        }
+      ],
+      "when_to_use": "Use with the stated sign convention.",
+      "conditions": [
+        "Sign convention must be consistent."
+      ],
+      "example": {
+        "question": "If ΔQ=100 J and W=30 J, find ΔU.",
+        "solution": "ΔU=100−30.",
+        "answer": "70 J"
+      },
+      "common_mistakes": [
+        "Reversing work sign conventions."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_shm_period",
+      "type": "formula",
+      "title": "Time Period of a Simple Pendulum",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_13",
+      "topic_id": "cbse_class11_physics_13_core",
+      "summary": "Time period of a simple pendulum for small angular oscillations.",
+      "keywords": [
+        "time period of a simple pendulum",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "T=2\\pi\\sqrt{\\frac{l}{g}}",
+      "formula_plain": "T = 2π√(l/g)",
+      "explanation": "Time period of a simple pendulum for small angular oscillations.",
+      "variables": [
+        {
+          "symbol": "T",
+          "meaning": "time period",
+          "unit": "s"
+        },
+        {
+          "symbol": "l",
+          "meaning": "effective length",
+          "unit": "m"
+        },
+        {
+          "symbol": "g",
+          "meaning": "acceleration due to gravity",
+          "unit": "m/s²"
+        }
+      ],
+      "when_to_use": "Use for small-amplitude oscillations.",
+      "conditions": [
+        "Small angle approximation; independent of bob mass."
+      ],
+      "example": {
+        "question": "How does T change if l becomes four times?",
+        "solution": "T is proportional to √l.",
+        "answer": "T becomes twice."
+      },
+      "common_mistakes": [
+        "Including bob mass in the formula."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_permutation",
+      "type": "formula",
+      "title": "Permutations",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "summary": "Counts ordered selections of r objects from n distinct objects.",
+      "keywords": [
+        "permutations",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "{}^nP_r=\\frac{n!}{(n-r)!}",
+      "formula_plain": "nPr = n!/(n−r)!",
+      "explanation": "Counts ordered selections of r objects from n distinct objects.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "number of objects",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "objects selected",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when order matters.",
+      "conditions": [
+        "0 ≤ r ≤ n."
+      ],
+      "example": {
+        "question": "Find 5P2.",
+        "solution": "5!/(3!) = 5×4.",
+        "answer": "20"
+      },
+      "common_mistakes": [
+        "Using combinations when order matters."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_combination",
+      "type": "formula",
+      "title": "Combinations",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "summary": "Counts unordered selections.",
+      "keywords": [
+        "combinations",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "{}^nC_r=\\frac{n!}{r!(n-r)!}",
+      "formula_plain": "nCr = n!/[r!(n−r)!]",
+      "explanation": "Counts unordered selections.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "number of objects",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "objects selected",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when order does not matter.",
+      "conditions": [
+        "0 ≤ r ≤ n."
+      ],
+      "example": {
+        "question": "Find 5C2.",
+        "solution": "5!/(2!3!) = 10.",
+        "answer": "10"
+      },
+      "common_mistakes": [
+        "Confusing selection with arrangement."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_binomial_general_term",
+      "type": "formula",
+      "title": "Binomial General Term",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_7",
+      "topic_id": "cbse_class11_mathematics_7_core",
+      "summary": "General term in the expansion of (a+b)^n.",
+      "keywords": [
+        "binomial general term",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "T_{r+1}=\\binom{n}{r}a^{n-r}b^r",
+      "formula_plain": "T(r+1) = nCr a^(n−r)b^r",
+      "explanation": "General term in the expansion of (a+b)^n.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "non-negative integer index",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "term index starting at 0",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use to find a particular term.",
+      "conditions": [
+        "The term number is r+1, not r."
+      ],
+      "example": {
+        "question": "Find the second term of (x+2)^3.",
+        "solution": "r=1: 3C1 x²×2.",
+        "answer": "6x²"
+      },
+      "common_mistakes": [
+        "Using r equal to the displayed term number."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_gp_sum",
+      "type": "formula",
+      "title": "Sum of a Finite Geometric Progression",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "topic_id": "cbse_class11_mathematics_8_core",
+      "summary": "Sum of the first n terms of a GP.",
+      "keywords": [
+        "sum of a finite geometric progression",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "S_n=\\frac{a(r^n-1)}{r-1},\\quad r\\ne1",
+      "formula_plain": "Sₙ = a(rⁿ−1)/(r−1), r≠1",
+      "explanation": "Sum of the first n terms of a GP.",
+      "variables": [
+        {
+          "symbol": "a",
+          "meaning": "first term",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "common ratio",
+          "unit": ""
+        },
+        {
+          "symbol": "n",
+          "meaning": "number of terms",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for a finite GP with r ≠ 1.",
+      "conditions": [
+        "For r=1, Sₙ=na."
+      ],
+      "example": {
+        "question": "Find 1+2+4.",
+        "solution": "a=1,r=2,n=3; S=1(8−1)/(1).",
+        "answer": "7"
+      },
+      "common_mistakes": [
+        "Sign error in denominator."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_mole_relationship",
+      "type": "formula",
+      "title": "Mole Relationship",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Connects mass, molar mass and number of entities.",
+      "keywords": [
+        "mole relationship",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "n=\\frac{m}{M}=\\frac{N}{N_A}",
+      "formula_plain": "n = m/M = N/Nₐ",
+      "explanation": "Connects mass, molar mass and number of entities.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "amount of substance",
+          "unit": "mol"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "g"
+        },
+        {
+          "symbol": "M",
+          "meaning": "molar mass",
+          "unit": "g/mol"
+        },
+        {
+          "symbol": "N_A",
+          "meaning": "Avogadro constant",
+          "unit": "mol⁻¹"
+        }
+      ],
+      "when_to_use": "Use for stoichiometric conversions.",
+      "conditions": [
+        "Use compatible mass units."
+      ],
+      "example": {
+        "question": "How many moles are in 18 g water?",
+        "solution": "n=18/18.",
+        "answer": "1 mol"
+      },
+      "common_mistakes": [
+        "Confusing molar mass with mass."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_molarity",
+      "type": "formula",
+      "title": "Molarity",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Molarity is moles of solute per litre of solution.",
+      "keywords": [
+        "molarity",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "M=\\frac{n}{V}",
+      "formula_plain": "M = n/V",
+      "explanation": "Molarity is moles of solute per litre of solution.",
+      "variables": [
+        {
+          "symbol": "M",
+          "meaning": "molarity",
+          "unit": "mol/L"
+        },
+        {
+          "symbol": "n",
+          "meaning": "moles of solute",
+          "unit": "mol"
+        },
+        {
+          "symbol": "V",
+          "meaning": "solution volume",
+          "unit": "L"
+        }
+      ],
+      "when_to_use": "Use for concentration based on solution volume.",
+      "conditions": [
+        "Volume must be in litres."
+      ],
+      "example": {
+        "question": "0.5 mol solute in 2 L solution.",
+        "solution": "M=0.5/2.",
+        "answer": "0.25 mol/L"
+      },
+      "common_mistakes": [
+        "Using solvent volume instead of solution volume."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_molality",
+      "type": "formula",
+      "title": "Molality",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Molality is moles of solute per kilogram of solvent.",
+      "keywords": [
+        "molality",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "m=\\frac{n}{w}",
+      "formula_plain": "molality = moles of solute / mass of solvent in kg",
+      "explanation": "Molality is moles of solute per kilogram of solvent.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "moles of solute",
+          "unit": "mol"
+        },
+        {
+          "symbol": "w",
+          "meaning": "mass of solvent",
+          "unit": "kg"
+        }
+      ],
+      "when_to_use": "Use when solvent mass is specified.",
+      "conditions": [
+        "Solvent mass, not solution mass."
+      ],
+      "example": {
+        "question": "2 mol solute in 4 kg solvent.",
+        "solution": "m=2/4.",
+        "answer": "0.5 mol/kg"
+      },
+      "common_mistakes": [
+        "Using solution mass."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_ideal_gas",
+      "type": "formula",
+      "title": "Ideal Gas Equation",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Relates pressure, volume, amount and temperature for an ideal gas.",
+      "keywords": [
+        "ideal gas equation",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "formula",
+        "formative",
+        "needs_review"
+      ],
+      "difficulty": "medium",
+      "importance": 3,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": true,
+      "formula_latex": "PV=nRT",
+      "formula_plain": "P V = n R T",
+      "explanation": "Relates pressure, volume, amount and temperature for an ideal gas.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "V",
+          "meaning": "volume",
+          "unit": "m³"
+        },
+        {
+          "symbol": "n",
+          "meaning": "amount",
+          "unit": "mol"
+        },
+        {
+          "symbol": "T",
+          "meaning": "absolute temperature",
+          "unit": "K"
+        }
+      ],
+      "when_to_use": "Use for ideal-gas calculations; formative syllabus status should be checked.",
+      "conditions": [
+        "Use kelvin temperature."
+      ],
+      "example": {
+        "question": "What temperature scale is required?",
+        "solution": "T(K)=T(°C)+273.15.",
+        "answer": "Kelvin"
+      },
+      "common_mistakes": [
+        "Using Celsius directly."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_gibbs_energy",
+      "type": "formula",
+      "title": "Gibbs Energy Relation",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_5",
+      "topic_id": "cbse_class11_chemistry_5_core",
+      "summary": "Relates enthalpy, entropy and spontaneity at constant temperature and pressure.",
+      "keywords": [
+        "gibbs energy relation",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\Delta G=\\Delta H-T\\Delta S",
+      "formula_plain": "ΔG = ΔH − TΔS",
+      "explanation": "Relates enthalpy, entropy and spontaneity at constant temperature and pressure.",
+      "variables": [
+        {
+          "symbol": "ΔG",
+          "meaning": "Gibbs energy change",
+          "unit": "J/mol"
+        },
+        {
+          "symbol": "ΔH",
+          "meaning": "enthalpy change",
+          "unit": "J/mol"
+        },
+        {
+          "symbol": "T",
+          "meaning": "absolute temperature",
+          "unit": "K"
+        },
+        {
+          "symbol": "ΔS",
+          "meaning": "entropy change",
+          "unit": "J/(mol K)"
+        }
+      ],
+      "when_to_use": "Use for spontaneity under constant T and P.",
+      "conditions": [
+        "Use consistent energy units."
+      ],
+      "example": {
+        "question": "If ΔH=10 kJ/mol, TΔS=15 kJ/mol, find ΔG.",
+        "solution": "ΔG=10−15.",
+        "answer": "−5 kJ/mol"
+      },
+      "common_mistakes": [
+        "Mixing J and kJ."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_1_quick_revision",
+      "type": "short_note",
+      "title": "Units and Measurements — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_1",
+      "topic_id": "cbse_class11_physics_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "units and measurements — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_2_quick_revision",
+      "type": "short_note",
+      "title": "Motion in a Straight Line — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "motion in a straight line — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_3_quick_revision",
+      "type": "short_note",
+      "title": "Motion in a Plane — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_3",
+      "topic_id": "cbse_class11_physics_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "motion in a plane — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_4_quick_revision",
+      "type": "short_note",
+      "title": "Laws of Motion — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_4",
+      "topic_id": "cbse_class11_physics_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "laws of motion — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_5_quick_revision",
+      "type": "short_note",
+      "title": "Work, Energy and Power — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_5",
+      "topic_id": "cbse_class11_physics_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "work, energy and power — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_6_quick_revision",
+      "type": "short_note",
+      "title": "System of Particles and Rotational Motion — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_6",
+      "topic_id": "cbse_class11_physics_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "system of particles and rotational motion — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_7_quick_revision",
+      "type": "short_note",
+      "title": "Gravitation — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_7",
+      "topic_id": "cbse_class11_physics_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "gravitation — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_8_quick_revision",
+      "type": "short_note",
+      "title": "Mechanical Properties of Solids — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_8",
+      "topic_id": "cbse_class11_physics_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "mechanical properties of solids — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_9_quick_revision",
+      "type": "short_note",
+      "title": "Mechanical Properties of Fluids — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_9",
+      "topic_id": "cbse_class11_physics_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "mechanical properties of fluids — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_10_quick_revision",
+      "type": "short_note",
+      "title": "Thermal Properties of Matter — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_10",
+      "topic_id": "cbse_class11_physics_10_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "thermal properties of matter — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_11_quick_revision",
+      "type": "short_note",
+      "title": "Thermodynamics — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_11",
+      "topic_id": "cbse_class11_physics_11_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "thermodynamics — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_12_quick_revision",
+      "type": "short_note",
+      "title": "Kinetic Theory — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_12",
+      "topic_id": "cbse_class11_physics_12_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "kinetic theory — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_13_quick_revision",
+      "type": "short_note",
+      "title": "Oscillations — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_13",
+      "topic_id": "cbse_class11_physics_13_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "oscillations — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_14_quick_revision",
+      "type": "short_note",
+      "title": "Waves — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_14",
+      "topic_id": "cbse_class11_physics_14_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "waves — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_1_quick_revision",
+      "type": "short_note",
+      "title": "Some Basic Concepts of Chemistry — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "some basic concepts of chemistry — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_2_quick_revision",
+      "type": "short_note",
+      "title": "Structure of Atom — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_2",
+      "topic_id": "cbse_class11_chemistry_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "structure of atom — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_3_quick_revision",
+      "type": "short_note",
+      "title": "Classification of Elements and Periodicity in Properties — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_3",
+      "topic_id": "cbse_class11_chemistry_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "classification of elements and periodicity in properties — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_4_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Bonding and Molecular Structure — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_4",
+      "topic_id": "cbse_class11_chemistry_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "chemical bonding and molecular structure — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_5_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Thermodynamics — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_5",
+      "topic_id": "cbse_class11_chemistry_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "chemical thermodynamics — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_6_quick_revision",
+      "type": "short_note",
+      "title": "Equilibrium — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_6",
+      "topic_id": "cbse_class11_chemistry_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "equilibrium — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_7_quick_revision",
+      "type": "short_note",
+      "title": "Redox Reactions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_7",
+      "topic_id": "cbse_class11_chemistry_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "redox reactions — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_8_quick_revision",
+      "type": "short_note",
+      "title": "Organic Chemistry: Some Basic Principles and Techniques — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_8",
+      "topic_id": "cbse_class11_chemistry_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "organic chemistry: some basic principles and techniques — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_9_quick_revision",
+      "type": "short_note",
+      "title": "Hydrocarbons — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "topic_id": "cbse_class11_chemistry_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "hydrocarbons — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_1_quick_revision",
+      "type": "short_note",
+      "title": "Sets — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_1",
+      "topic_id": "cbse_class11_mathematics_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "sets — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_2_quick_revision",
+      "type": "short_note",
+      "title": "Relations and Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_2",
+      "topic_id": "cbse_class11_mathematics_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "relations and functions — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_3_quick_revision",
+      "type": "short_note",
+      "title": "Trigonometric Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_3",
+      "topic_id": "cbse_class11_mathematics_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "trigonometric functions — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_4_quick_revision",
+      "type": "short_note",
+      "title": "Complex Numbers and Quadratic Equations — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_4",
+      "topic_id": "cbse_class11_mathematics_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "complex numbers and quadratic equations — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_5_quick_revision",
+      "type": "short_note",
+      "title": "Linear Inequalities — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_5",
+      "topic_id": "cbse_class11_mathematics_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "linear inequalities — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_6_quick_revision",
+      "type": "short_note",
+      "title": "Permutations and Combinations — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "permutations and combinations — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_7_quick_revision",
+      "type": "short_note",
+      "title": "Binomial Theorem — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_7",
+      "topic_id": "cbse_class11_mathematics_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "binomial theorem — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_8_quick_revision",
+      "type": "short_note",
+      "title": "Sequence and Series — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "topic_id": "cbse_class11_mathematics_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "sequence and series — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_9_quick_revision",
+      "type": "short_note",
+      "title": "Straight Lines — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_9",
+      "topic_id": "cbse_class11_mathematics_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "straight lines — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_10_quick_revision",
+      "type": "short_note",
+      "title": "Conic Sections — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_10",
+      "topic_id": "cbse_class11_mathematics_10_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "conic sections — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_11_quick_revision",
+      "type": "short_note",
+      "title": "Introduction to Three-dimensional Geometry — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_11",
+      "topic_id": "cbse_class11_mathematics_11_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "introduction to three-dimensional geometry — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_12_quick_revision",
+      "type": "short_note",
+      "title": "Limits and Derivatives — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_12",
+      "topic_id": "cbse_class11_mathematics_12_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "limits and derivatives — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_13_quick_revision",
+      "type": "short_note",
+      "title": "Statistics — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_13",
+      "topic_id": "cbse_class11_mathematics_13_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "statistics — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_14_quick_revision",
+      "type": "short_note",
+      "title": "Probability — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_14",
+      "topic_id": "cbse_class11_mathematics_14_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "probability — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_1_quick_revision",
+      "type": "short_note",
+      "title": "The Living World — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_1",
+      "topic_id": "cbse_class11_biology_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "the living world — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_2_quick_revision",
+      "type": "short_note",
+      "title": "Biological Classification — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_2",
+      "topic_id": "cbse_class11_biology_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "biological classification — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_3_quick_revision",
+      "type": "short_note",
+      "title": "Plant Kingdom — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_3",
+      "topic_id": "cbse_class11_biology_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "plant kingdom — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_4_quick_revision",
+      "type": "short_note",
+      "title": "Animal Kingdom — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_4",
+      "topic_id": "cbse_class11_biology_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "animal kingdom — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_5_quick_revision",
+      "type": "short_note",
+      "title": "Morphology of Flowering Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_5",
+      "topic_id": "cbse_class11_biology_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "morphology of flowering plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_6_quick_revision",
+      "type": "short_note",
+      "title": "Anatomy of Flowering Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_6",
+      "topic_id": "cbse_class11_biology_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "anatomy of flowering plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_7_quick_revision",
+      "type": "short_note",
+      "title": "Structural Organisation in Animals — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_7",
+      "topic_id": "cbse_class11_biology_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "structural organisation in animals — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_8_quick_revision",
+      "type": "short_note",
+      "title": "Cell: The Unit of Life — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "cell: the unit of life — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_9_quick_revision",
+      "type": "short_note",
+      "title": "Biomolecules — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_9",
+      "topic_id": "cbse_class11_biology_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "biomolecules — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_10_quick_revision",
+      "type": "short_note",
+      "title": "Cell Cycle and Cell Division — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_10",
+      "topic_id": "cbse_class11_biology_10_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "cell cycle and cell division — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_11_quick_revision",
+      "type": "short_note",
+      "title": "Photosynthesis in Higher Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_11",
+      "topic_id": "cbse_class11_biology_11_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "photosynthesis in higher plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_12_quick_revision",
+      "type": "short_note",
+      "title": "Respiration in Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_12",
+      "topic_id": "cbse_class11_biology_12_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "respiration in plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_13_quick_revision",
+      "type": "short_note",
+      "title": "Plant Growth and Development — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_13",
+      "topic_id": "cbse_class11_biology_13_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "plant growth and development — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_14_quick_revision",
+      "type": "short_note",
+      "title": "Breathing and Exchange of Gases — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_14",
+      "topic_id": "cbse_class11_biology_14_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "breathing and exchange of gases — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_15_quick_revision",
+      "type": "short_note",
+      "title": "Body Fluids and Circulation — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_15",
+      "topic_id": "cbse_class11_biology_15_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "body fluids and circulation — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_16_quick_revision",
+      "type": "short_note",
+      "title": "Excretory Products and their Elimination — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_16",
+      "topic_id": "cbse_class11_biology_16_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "excretory products and their elimination — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_17_quick_revision",
+      "type": "short_note",
+      "title": "Locomotion and Movement — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_17",
+      "topic_id": "cbse_class11_biology_17_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "locomotion and movement — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_18_quick_revision",
+      "type": "short_note",
+      "title": "Neural Control and Coordination — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_18",
+      "topic_id": "cbse_class11_biology_18_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "neural control and coordination — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_19_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Coordination and Integration — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_19",
+      "topic_id": "cbse_class11_biology_19_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "chemical coordination and integration — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "prokaryotic_and_eukaryotic_cells",
+      "type": "table",
+      "title": "Prokaryotic and Eukaryotic Cells",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "summary": "High-yield comparison table.",
+      "keywords": [
+        "prokaryotic and eukaryotic cells",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "Prokaryotic",
+        "Eukaryotic"
+      ],
+      "rows": [
+        [
+          "Nucleus",
+          "No membrane-bound nucleus",
+          "Membrane-bound nucleus"
+        ],
+        [
+          "Organelles",
+          "Few non-membranous organelles",
+          "Membrane-bound organelles present"
+        ],
+        [
+          "Examples",
+          "Bacteria",
+          "Plants, animals, fungi"
+        ]
+      ]
+    },
+    {
+      "id": "mitosis_and_meiosis",
+      "type": "table",
+      "title": "Mitosis and Meiosis",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_10",
+      "topic_id": "cbse_class11_biology_10_core",
+      "summary": "High-yield comparison table.",
+      "keywords": [
+        "mitosis and meiosis",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "Mitosis",
+        "Meiosis"
+      ],
+      "rows": [
+        [
+          "Divisions",
+          "One",
+          "Two"
+        ],
+        [
+          "Daughter cells",
+          "Two",
+          "Four"
+        ],
+        [
+          "Chromosome number",
+          "Maintained",
+          "Halved"
+        ]
+      ]
+    },
+    {
+      "id": "arteries_and_veins",
+      "type": "table",
+      "title": "Arteries and Veins",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_15",
+      "topic_id": "cbse_class11_biology_15_core",
+      "summary": "High-yield comparison table.",
+      "keywords": [
+        "arteries and veins",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "Arteries",
+        "Veins"
+      ],
+      "rows": [
+        [
+          "Direction",
+          "Away from heart",
+          "Towards heart"
+        ],
+        [
+          "Walls",
+          "Thick and elastic",
+          "Thinner and less elastic"
+        ],
+        [
+          "Valves",
+          "Usually absent",
+          "Usually present"
+        ]
+      ]
+    },
+    {
+      "id": "physics_velocity_time_graph",
+      "type": "graph",
+      "title": "Velocity-Time Graph",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Interpretation of a velocity-time graph.",
+      "keywords": [
+        "velocity-time graph",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "graph",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "x_axis": "time",
+      "y_axis": "velocity",
+      "relationship": "Slope gives acceleration; area under curve gives displacement.",
+      "interpretation": [
+        "Horizontal line indicates constant velocity.",
+        "Positive slope indicates positive acceleration."
+      ],
+      "important_points": [
+        "Units must be consistent."
+      ]
+    },
+    {
+      "id": "typical_eukaryotic_cell",
+      "type": "diagram_reference",
+      "title": "Typical Eukaryotic Cell",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "summary": "Visual reference for quick understanding.",
+      "keywords": [
+        "typical eukaryotic cell",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram of a cell showing membrane, cytoplasm, nucleus and major organelles.",
+      "labels_required": [
+        "cell membrane",
+        "cytoplasm",
+        "nucleus",
+        "mitochondrion",
+        "endoplasmic reticulum",
+        "Golgi apparatus"
+      ],
+      "asset_required": true
+    },
+    {
+      "id": "human_heart",
+      "type": "diagram_reference",
+      "title": "Human Heart",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_15",
+      "topic_id": "cbse_class11_biology_15_core",
+      "summary": "Visual reference for quick understanding.",
+      "keywords": [
+        "human heart",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram showing chambers, valves and major blood vessels.",
+      "labels_required": [
+        "right atrium",
+        "right ventricle",
+        "left atrium",
+        "left ventricle",
+        "aorta",
+        "pulmonary artery"
+      ],
+      "asset_required": true
+    },
+    {
+      "id": "transverse_and_longitudinal_waves",
+      "type": "diagram_reference",
+      "title": "Transverse and Longitudinal Waves",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_14",
+      "topic_id": "cbse_class11_physics_14_core",
+      "summary": "Visual reference for quick understanding.",
+      "keywords": [
+        "transverse and longitudinal waves",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram comparing particle vibration direction with wave propagation.",
+      "labels_required": [
+        "crest",
+        "trough",
+        "compression",
+        "rarefaction",
+        "wavelength"
+      ],
+      "asset_required": true
+    },
+    {
+      "id": "chemistry_alkane_combustion",
+      "type": "reaction",
+      "title": "Complete Combustion of Methane",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "topic_id": "cbse_class11_chemistry_9_core",
+      "summary": "Combustion of an alkane in oxygen.",
+      "keywords": [
+        "complete combustion of methane",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "reaction",
+        "organic",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "chemistry_branch": "organic",
+      "reactants": [
+        "CH₄",
+        "O₂"
+      ],
+      "reagents_conditions": [
+        "excess oxygen",
+        "ignition"
+      ],
+      "products": [
+        "CO₂",
+        "H₂O"
+      ],
+      "reaction_text": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+      "reaction_latex": "\\mathrm{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O}",
+      "reaction_type": "combustion",
+      "explanation": "Complete combustion produces carbon dioxide and water.",
+      "important_points": [
+        "Equation is balanced.",
+        "Limited oxygen may produce carbon monoxide or soot."
+      ],
+      "common_mistakes": [
+        "Not balancing oxygen atoms."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_physics_newton",
+      "type": "mcq",
+      "subject_id": "cbse_class11_physics",
+      "chapter_id": "cbse_class11_physics_4",
+      "topic_id": "cbse_class11_physics_4_core",
+      "question": "A 2 kg body accelerates at 3 m/s². Net force is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5 N"
+        },
+        {
+          "id": "B",
+          "text": "5 N"
+        },
+        {
+          "id": "C",
+          "text": "6 N"
+        },
+        {
+          "id": "D",
+          "text": "9 N"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "F=ma=2×3=6 N",
+      "linked_formula_ids": [
+        "physics_newtons_second_law"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_physics_shm",
+      "type": "mcq",
+      "subject_id": "cbse_class11_physics",
+      "chapter_id": "cbse_class11_physics_13",
+      "topic_id": "cbse_class11_physics_13_core",
+      "question": "The period of a simple pendulum depends on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "mass only"
+        },
+        {
+          "id": "B",
+          "text": "length and g"
+        },
+        {
+          "id": "C",
+          "text": "amplitude only"
+        },
+        {
+          "id": "D",
+          "text": "bob colour"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "For small oscillations T=2π√(l/g).",
+      "linked_formula_ids": [
+        "physics_shm_period"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_math_perm",
+      "type": "mcq",
+      "subject_id": "cbse_class11_mathematics",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "question": "The value of 5P2 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "5P2=5×4=20.",
+      "linked_formula_ids": [
+        "math_permutation"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_math_gp",
+      "type": "mcq",
+      "subject_id": "cbse_class11_mathematics",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "topic_id": "cbse_class11_mathematics_8_core",
+      "question": "The common ratio of 2, 6, 18 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Each term is multiplied by 3.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_chem_mole",
+      "type": "mcq",
+      "subject_id": "cbse_class11_chemistry",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "question": "18 g of water corresponds to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 mol"
+        },
+        {
+          "id": "B",
+          "text": "1 mol"
+        },
+        {
+          "id": "C",
+          "text": "2 mol"
+        },
+        {
+          "id": "D",
+          "text": "18 mol"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "n=m/M=18/18=1 mol.",
+      "linked_formula_ids": [
+        "chemistry_mole_relationship"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_chem_combustion",
+      "type": "mcq",
+      "subject_id": "cbse_class11_chemistry",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "topic_id": "cbse_class11_chemistry_9_core",
+      "question": "Complete combustion of methane produces:",
+      "options": [
+        {
+          "id": "A",
+          "text": "CO and H₂"
+        },
+        {
+          "id": "B",
+          "text": "CO₂ and H₂O"
+        },
+        {
+          "id": "C",
+          "text": "C and H₂"
+        },
+        {
+          "id": "D",
+          "text": "CH₃OH only"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Complete combustion in excess oxygen gives CO₂ and H₂O.",
+      "linked_formula_ids": [
+        "chemistry_alkane_combustion"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_bio_cell",
+      "type": "mcq",
+      "subject_id": "cbse_class11_biology",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "question": "Which structure contains the genetic material in a typical eukaryotic cell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cell wall"
+        },
+        {
+          "id": "B",
+          "text": "Nucleus"
+        },
+        {
+          "id": "C",
+          "text": "Vacuole"
+        },
+        {
+          "id": "D",
+          "text": "Golgi body"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The nucleus contains chromosomes in a typical eukaryotic cell.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_bio_mitosis",
+      "type": "mcq",
+      "subject_id": "cbse_class11_biology",
+      "chapter_id": "cbse_class11_biology_10",
+      "topic_id": "cbse_class11_biology_10_core",
+      "question": "Meiosis generally produces:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two identical diploid cells"
+        },
+        {
+          "id": "B",
+          "text": "Four genetically varied haploid cells"
+        },
+        {
+          "id": "C",
+          "text": "One triploid cell"
+        },
+        {
+          "id": "D",
+          "text": "Four identical diploid cells"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Meiosis has two divisions and produces four haploid products with variation.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 56,
+    "total_topics": 56,
+    "total_content_items": 83,
+    "total_formulas": 19,
+    "total_short_notes": 56,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 3,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 1
+  }
+}

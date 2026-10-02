@@ -1,0 +1,1348 @@
+prompt for phase 1 
+
+You are working as the primary implementation agent for a new React Native mobile app.
+
+Your task is to complete **Phase 1 only** of an offline-first educational formula and revision app.
+
+Do not continue into Phase 2 after Phase 1 is complete.
+
+The app will eventually support large educational datasets for:
+
+- Classes 6–12
+- Science
+- Commerce
+- Competitive exams
+- JEE Main
+- JEE Advanced
+- NEET
+- Other exams later
+
+However, in Phase 1 we intentionally use only a **small sample dataset**.
+
+The purpose of Phase 1 is to build and validate the entire application architecture and major user flows before importing large amounts of educational content.
+
+---
+
+# EXECUTION STRATEGY
+
+Use a two-stage model strategy.
+
+## Stage A — Planning
+
+Before making significant code changes:
+
+Use the strongest/best reasoning model available to you.
+
+Inspect the existing repository completely.
+
+Understand:
+
+- current project structure
+- installed packages
+- existing screens
+- current styling
+- Expo configuration
+- TypeScript configuration
+- navigation
+- existing components
+- whether NativeWind is configured
+- whether SQLite exists
+- whether Zustand exists
+- current assets
+- build configuration
+
+Then create an internal implementation plan.
+
+The plan should identify:
+
+- existing reusable code
+- files to create
+- files to modify
+- database architecture
+- navigation architecture
+- state architecture
+- content schema
+- sample dataset
+- implementation order
+- likely integration risks
+
+Do not over-engineer.
+
+Once the architecture and implementation plan are clear, move to Stage B.
+
+## Stage B — Implementation
+
+For straightforward implementation work, file creation, repetitive coding, UI wiring, seed data, simple CRUD, and mechanical fixes, use the lowest-cost GPT model that can perform the work reliably.
+
+Escalate back to the stronger model only if:
+
+- an architectural conflict appears
+- a non-trivial bug cannot be resolved
+- TypeScript architecture becomes inconsistent
+- navigation/database integration requires deeper reasoning
+- a build/runtime issue cannot be solved efficiently
+
+Do not waste the strongest model on repetitive coding.
+
+---
+
+# PRIMARY OBJECTIVE
+
+Complete a fully functional **Phase 1 offline MVP**.
+
+The Phase 1 app must allow a user to:
+
+Install/open app
+
+→ complete onboarding
+
+→ choose school or competitive-exam mode
+
+→ choose a class or exam
+
+→ choose subjects
+
+→ reach a personalized homepage
+
+→ browse subjects
+
+→ browse chapters
+
+→ browse topics/content
+
+→ open formulas and short notes
+
+→ search content instantly offline
+
+→ bookmark content
+
+→ see recent content
+
+→ mark formulas for revision
+
+→ practice MCQs
+
+→ generate a simple offline test
+
+→ view results
+
+→ share a formula
+
+→ use light/dark mode
+
+→ close and reopen the app
+
+→ keep all relevant preferences and local state
+
+All of this must work without requiring a backend.
+
+---
+
+# REQUIRED TECH STACK
+
+Use:
+
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+- Zustand
+- expo-sqlite
+- AsyncStorage where appropriate
+- NativeWind if already configured or practical to add
+- Lucide React Native
+- EAS-compatible configuration
+
+Do NOT add:
+
+- Node.js backend
+- Firebase backend
+- Supabase backend
+- PostgreSQL
+- MongoDB
+- authentication
+- cloud sync
+
+Phase 1 must work offline.
+
+---
+
+# IMPORTANT ARCHITECTURE PRINCIPLE
+
+Do not hardcode separate apps or duplicate educational content for Class 10, Class 12, JEE, etc.
+
+The system must be metadata-driven.
+
+One content item can belong to multiple:
+
+- classes
+- exams
+- subjects
+- chapters
+- topics
+
+Example:
+
+A trigonometric identity may belong to:
+
+- Class 10
+- Class 11
+- Class 12
+- JEE Main
+- JEE Advanced
+- NDA
+
+Store the formula once and map it to multiple audiences.
+
+---
+
+# PHASE 1 SAMPLE DATA
+
+Use only enough data to validate functionality.
+
+Create sample content approximately like:
+
+## School
+
+Class 10
+
+Subject:
+- Mathematics
+
+Chapters:
+- Quadratic Equations
+- Trigonometry
+
+Class 12
+
+Subject:
+- Physics
+
+Chapters:
+- Current Electricity
+- Electrostatics
+
+## Competitive Exam
+
+JEE Main
+
+Subjects:
+- Physics
+- Mathematics
+
+Use a few chapters from the same sample dataset where practical.
+
+Target approximately:
+
+- 25–35 formulas
+- 10–15 short notes
+- 20–30 MCQs
+- 4–6 chapters
+- 2–4 subjects
+- 2–3 prebuilt formula sheets
+
+Do not spend large amounts of time generating educational content.
+
+The content is only for testing the engine.
+
+---
+
+# APP NAVIGATION
+
+Use five main bottom tabs:
+
+1. Home
+2. Learn
+3. Practice
+4. Search
+5. Library
+
+Settings/profile can be accessible from the header.
+
+Expected route examples:
+
+/onboarding
+
+/(tabs)/home
+/(tabs)/learn
+/(tabs)/practice
+/(tabs)/search
+/(tabs)/library
+
+/subject/[id]
+/chapter/[id]
+/topic/[id]
+/formula/[id]
+/note/[id]
+/test/[id]
+/test-result/[id]
+
+Use Expo Router conventions properly.
+
+---
+
+# 1. ONBOARDING
+
+Create first-launch onboarding.
+
+Ask:
+
+## Step 1
+
+What are you preparing for?
+
+Options:
+
+- School
+- Competitive Exam
+
+## School path
+
+Choose:
+
+- Class 6
+- Class 7
+- Class 8
+- Class 9
+- Class 10
+- Class 11
+- Class 12
+
+Only Class 10 and 12 need sample content for Phase 1.
+
+The other class options may exist but show a clean "content coming soon" state.
+
+For Class 11/12 support architecture for:
+
+- Science
+- Commerce
+- Arts
+
+Only Science sample content is required now.
+
+Allow optional board selection architecture:
+
+- CBSE
+- RBSE
+- ICSE
+- Other
+
+Only CBSE content is required initially.
+
+## Competitive path
+
+Options may include:
+
+- JEE Main
+- JEE Advanced
+- NEET
+
+Only JEE Main needs complete Phase 1 sample content.
+
+Then allow subject selection.
+
+Persist onboarding selections locally.
+
+Provide ability to change these preferences later.
+
+---
+
+# 2. PERSONALIZED HOME SCREEN
+
+Home should react to onboarding preferences.
+
+Include:
+
+## Continue Studying
+
+Show latest opened chapter/formula/note if available.
+
+## Subjects
+
+Show relevant selected subjects.
+
+## Quick Revision
+
+Show items marked for revision.
+
+## Formula of the Day
+
+Select deterministically from relevant local content.
+
+No backend.
+
+## Quick Practice
+
+Button for a 5-question quiz.
+
+## Recently Viewed
+
+Show recent items.
+
+## Bookmarks
+
+Show preview.
+
+## Formula Sheets
+
+Show relevant prebuilt formula sheets.
+
+Use proper empty states if no data exists.
+
+---
+
+# 3. LEARN FLOW
+
+Create hierarchy:
+
+Class or Exam
+→ Subject
+→ Chapter
+→ Topic if applicable
+→ Content
+
+Content types must support:
+
+- formula
+- short_note
+- definition
+- theorem
+- shortcut
+- important_fact
+
+Only formulas and short notes need polished rendering in Phase 1.
+
+The architecture must allow other content types later.
+
+---
+
+# 4. FORMULA DETAIL SCREEN
+
+Each formula should support:
+
+- title
+- rendered formula/equation
+- short explanation
+- variables
+- units if applicable
+- when to use
+- example
+- common mistake
+- related formulas
+- tags
+- subject
+- chapter
+- class/exam mapping
+- importance
+- difficulty
+
+Actions:
+
+- Bookmark
+- Remove bookmark
+- Mark for revision
+- Remove from revision
+- Share
+- Copy formula if possible
+- Mark as learned
+
+If LaTeX rendering is practical, use LaTeX-compatible rendering.
+
+Do not store formula graphics as static images when text/LaTeX is sufficient.
+
+---
+
+# 5. TWO CONTENT MODES
+
+Support:
+
+## Quick Formula Mode
+
+Designed for fast revision.
+
+Display primarily:
+
+- title
+- formula
+- one-line description
+
+Allow fast vertical scrolling.
+
+## Learn Mode
+
+Display:
+
+- formula
+- explanation
+- variables
+- units
+- example
+- common mistake
+- related formulas
+
+Provide a simple mode toggle where appropriate.
+
+Persist user preference locally.
+
+---
+
+# 6. SHORT NOTES
+
+Short notes must be structured content, not PDF-only content.
+
+Each note supports:
+
+- title
+- summary
+- sections
+- bullet points
+- important facts
+- formulas referenced
+- tags
+- chapter
+- subject
+- exam/class mappings
+
+Allow:
+
+- bookmark
+- mark for revision
+- sharing
+- search
+
+---
+
+# 7. OFFLINE SEARCH
+
+Build a fast universal search.
+
+Search across:
+
+- formula title
+- formula expression
+- keywords
+- note title
+- note content
+- subject
+- chapter
+- topic
+- tags
+
+Support filters:
+
+- School / Competitive
+- Class
+- Exam
+- Subject
+- Chapter
+- Content type
+
+Search must work fully offline.
+
+Use SQLite indexes where appropriate.
+
+If full-text search is practical with expo-sqlite and stable in the current setup, use SQLite FTS.
+
+Otherwise implement an indexed query approach that is safe and maintainable.
+
+Do not overcomplicate it.
+
+---
+
+# 8. BOOKMARKS
+
+Users can bookmark:
+
+- formulas
+- short notes
+- questions if useful
+
+Persist bookmarks locally.
+
+Library screen must show bookmarks grouped or filterable by content type.
+
+---
+
+# 9. RECENTLY VIEWED
+
+Maintain a recent-items list.
+
+Track formulas and notes.
+
+Limit to a reasonable number such as 20–50.
+
+Display on Home and Library.
+
+---
+
+# 10. REVISION
+
+Allow users to mark formulas or notes as:
+
+- Need Revision
+- Learned
+
+For Phase 1, do not implement complex spaced repetition.
+
+Create a Revision screen/list.
+
+Allow:
+
+- remove from revision
+- mark learned
+- open item
+
+Persist everything locally.
+
+---
+
+# 11. PRACTICE / MCQ
+
+Create MCQ functionality.
+
+Each question should support:
+
+- question
+- four options
+- correct answer
+- explanation
+- subject
+- chapter
+- topic
+- linked formula IDs
+- difficulty
+
+Practice options:
+
+- Quick 5 Questions
+- Subject Practice
+- Chapter Practice
+
+After each answer:
+
+- show whether correct
+- show explanation
+
+At end show:
+
+- score
+- total questions
+- correct
+- incorrect
+- accuracy percentage
+
+Persist recent test attempts locally.
+
+---
+
+# 12. SIMPLE TEST GENERATOR
+
+Allow users to configure a test:
+
+Subject
+Chapter
+Question count
+
+Question count options:
+
+- 5
+- 10
+- 20
+
+Difficulty options:
+
+- Easy
+- Medium
+- Hard
+- Mixed
+
+If sample content is insufficient for a selected configuration, gracefully generate the maximum available set instead of failing.
+
+Randomize questions locally.
+
+No server.
+
+---
+
+# 13. FORMULA SHEETS
+
+Create simple prebuilt formula sheet functionality.
+
+Examples:
+
+- Class 10 Trigonometry Formula Sheet
+- Class 12 Current Electricity Formula Sheet
+- JEE Main Physics Quick Formula Sheet
+
+For Phase 1:
+
+- display the formula sheet inside the app
+- allow bookmark/share where practical
+
+Do NOT spend significant time building advanced PDF generation unless it is trivial.
+
+PDF export belongs to a later phase if it risks delaying Phase 1.
+
+---
+
+# 14. SHARE FORMULA
+
+Implement basic formula sharing.
+
+Preferred approach:
+
+Create a clean formula card containing:
+
+- formula title
+- equation
+- subject
+- chapter
+- app branding
+
+Allow the user to share the generated card through the native share sheet.
+
+If image generation introduces excessive complexity, first implement high-quality text sharing and only add image card generation if stable.
+
+Do not block Phase 1 completion because of advanced share-image rendering.
+
+---
+
+# 15. THEME
+
+Support:
+
+- Light mode
+- Dark mode
+- System mode if easy
+
+Persist setting.
+
+All major screens must look acceptable in both themes.
+
+---
+
+# 16. LOCAL DATABASE
+
+Use expo-sqlite.
+
+Create migrations.
+
+Suggested tables:
+
+classes
+boards
+streams
+exams
+subjects
+chapters
+topics
+content
+questions
+formula_sheets
+
+content_classes
+content_exams
+content_subjects
+content_chapters
+content_topics
+
+question_content_links
+
+bookmarks
+recent_items
+revision_items
+test_attempts
+test_attempt_answers
+
+settings
+
+You may adjust schema if there is a cleaner implementation.
+
+The core requirement is:
+
+one content record must be reusable across multiple classes/exams.
+
+---
+
+# 17. CONTENT MODEL
+
+Content should support at least:
+
+id
+type
+title
+slug
+formula
+summary
+body
+explanation
+example
+when_to_use
+common_mistake
+variables
+units
+keywords
+tags
+difficulty
+importance
+
+Use normalized tables where useful, but avoid needless normalization.
+
+JSON fields inside SQLite are acceptable for structured secondary properties such as:
+
+- variables
+- units
+- tags
+- section arrays
+
+provided the important searchable/filterable fields remain queryable.
+
+---
+
+# 18. SOURCE CONTENT FORMAT
+
+Maintain sample content in developer-friendly JSON or TypeScript source files.
+
+Preferred flow:
+
+JSON/content source
+→ schema validation
+→ SQLite seed/import
+→ app queries SQLite
+
+Do not manually insert large amounts of SQL.
+
+Create reusable import/seed logic that can later process thousands of records.
+
+This is very important.
+
+The future content team/AI should be able to provide structured JSON files and import them without touching UI code.
+
+---
+
+# 19. CONTENT VALIDATION
+
+Create a schema validation layer.
+
+Use an appropriate validation library if already installed or reasonable to add.
+
+Validate fields such as:
+
+- unique IDs
+- required title
+- valid content type
+- valid mappings
+- valid question answers
+- valid linked IDs
+
+The seed/import process should fail clearly when content data is malformed.
+
+---
+
+# 20. STATE MANAGEMENT
+
+Use Zustand for application/UI state.
+
+Examples:
+
+user preferences
+current learning mode
+theme choice
+temporary test state
+filters
+
+Do not put the entire educational dataset in Zustand.
+
+Educational content should come from SQLite queries.
+
+Use AsyncStorage only for lightweight settings where SQLite is unnecessary.
+
+---
+
+# 21. UI COMPONENTS
+
+Create reusable components where appropriate.
+
+Examples:
+
+FormulaCard
+NoteCard
+QuestionCard
+SubjectCard
+ChapterCard
+ContentTypeBadge
+SearchBar
+FilterChip
+EmptyState
+SectionHeader
+ProgressCard
+FormulaRenderer
+
+Keep component APIs clean and typed.
+
+---
+
+# 22. DESIGN
+
+Use a clean modern education-app style.
+
+Prioritize:
+
+- readability
+- formulas
+- spacing
+- easy one-hand usage
+- clear hierarchy
+- high contrast
+- simple cards
+- fast scanning
+
+Do not create excessive gradients or visual clutter.
+
+The content must remain the main focus.
+
+---
+
+# 23. EMPTY STATES
+
+Because the Phase 1 dataset is intentionally small, empty states matter.
+
+Examples:
+
+"No formulas available yet."
+
+"This class is ready, but content will be added soon."
+
+"No bookmarks yet."
+
+"No revision items."
+
+"No matching formulas."
+
+"Not enough questions for this test configuration."
+
+Never allow blank or broken screens.
+
+---
+
+# 24. ERROR HANDLING
+
+Handle:
+
+- SQLite initialization failure
+- seed failure
+- malformed sample data
+- missing formula ID
+- missing chapter
+- empty search
+- insufficient test questions
+- invalid navigation ID
+
+The application should fail gracefully.
+
+---
+
+# 25. PERFORMANCE
+
+Avoid loading the entire database into memory.
+
+Query only required data.
+
+Add indexes for commonly searched/filterable fields.
+
+Use FlatList where lists can grow.
+
+Avoid unnecessary re-renders.
+
+Assume future database size may be:
+
+- 30,000+ formulas
+- thousands of notes
+- tens of thousands of MCQs
+
+The Phase 1 architecture should not prevent this scale.
+
+---
+
+# 26. OFFLINE REQUIREMENT
+
+After first installation, all Phase 1 educational features must work without internet.
+
+No API should be required to:
+
+- browse formulas
+- search
+- read notes
+- bookmark
+- revise
+- take tests
+- see results
+- use formula sheets
+
+Do not introduce hidden internet dependencies.
+
+---
+
+# 27. DO NOT IMPLEMENT IN PHASE 1
+
+Explicitly do not implement:
+
+- authentication
+- user accounts
+- cloud sync
+- Firebase backend
+- Supabase backend
+- Node backend
+- social networking
+- teacher accounts
+- leaderboards
+- AI chatbot
+- AI solver
+- OpenAI integration
+- server-side question generation
+- live classes
+- video hosting
+- YouTube integration
+- payments
+- subscriptions
+- AdMob
+- analytics
+- push-notification backend
+- advanced spaced repetition
+- large content import
+- all classes/exams content
+- advanced PDF generator
+
+These belong to later phases.
+
+Do not begin Phase 2.
+
+---
+
+# 28. BASIC LOCAL NOTIFICATION OPTIONAL
+
+If extremely easy and already supported by the project, you may add a local daily revision reminder.
+
+However:
+
+It is OPTIONAL.
+
+Do not delay the project to implement it.
+
+---
+
+# 29. TESTING REQUIREMENTS
+
+Before considering Phase 1 complete:
+
+Run all available checks.
+
+At minimum:
+
+- TypeScript check
+- lint
+- Expo project validation if available
+- run/build app locally where environment permits
+- verify routes
+- verify SQLite initialization
+- verify seed
+- verify onboarding persistence
+- verify search
+- verify bookmarks
+- verify revision
+- verify MCQ scoring
+- verify test generation
+- verify dark mode
+
+Fix errors instead of leaving known failures.
+
+---
+
+# 30. MANUAL ACCEPTANCE TEST
+
+Verify this exact journey:
+
+Fresh install
+
+→ onboarding opens
+
+→ choose School
+
+→ Class 10
+
+→ CBSE
+
+→ Mathematics
+
+→ Home is personalized
+
+→ open Mathematics
+
+→ open Trigonometry
+
+→ open a formula
+
+→ switch Quick/Learn mode
+
+→ bookmark formula
+
+→ mark formula for revision
+
+→ return Home
+
+→ formula appears where appropriate
+
+→ Search for "sin"
+
+→ correct result appears
+
+→ open note
+
+→ return
+
+→ Practice
+
+→ create 5-question test
+
+→ answer test
+
+→ result screen shows score
+
+→ Library
+
+→ bookmark exists
+
+→ revision item exists
+
+→ switch dark mode
+
+→ restart app
+
+→ onboarding remains completed
+
+→ preferences remain
+
+→ bookmark remains
+
+→ revision state remains
+
+→ recent items remain
+
+Then test:
+
+Competitive Exam
+→ change profile to JEE Main
+→ Physics + Mathematics
+→ Home updates appropriately
+
+All above must work offline.
+
+---
+
+# 31. PROJECT QUALITY
+
+Keep:
+
+- strict TypeScript typing
+- logical directory structure
+- reusable database helpers
+- reusable hooks
+- reasonable comments
+- no giant monolithic files
+- no unnecessary abstractions
+- no placeholder code that breaks flows
+- no TODOs for required Phase 1 functionality
+
+TODOs are allowed only for explicitly future-phase features.
+
+---
+
+# 32. DOCUMENTATION
+
+Create/update a README or Phase 1 document containing:
+
+## Architecture
+
+Explain:
+
+- Expo Router
+- Zustand
+- SQLite
+- content import
+- local persistence
+
+## Running app
+
+Commands to:
+
+install
+start
+run Android
+typecheck
+lint
+
+## Content import
+
+Explain how future JSON data should be added.
+
+## Database
+
+Brief schema overview.
+
+## Phase 1 scope
+
+List completed features.
+
+## Future work
+
+Only list Phase 2 ideas.
+
+Do not implement them.
+
+---
+
+# 33. FINAL CLEANUP
+
+Before finishing:
+
+Remove:
+
+- dead code
+- unused imports
+- temporary console logs
+- experimental files
+- duplicate components
+- broken seed content
+
+Ensure naming is consistent.
+
+---
+
+# PHASE 1 COMPLETION CRITERIA
+
+Phase 1 is complete only when the project provides:
+
+✅ React Native + Expo application
+
+✅ TypeScript
+
+✅ Expo Router navigation
+
+✅ offline SQLite content storage
+
+✅ reusable content import system
+
+✅ onboarding
+
+✅ user preference persistence
+
+✅ personalized home
+
+✅ class/exam architecture
+
+✅ subject navigation
+
+✅ chapter navigation
+
+✅ formula rendering
+
+✅ short notes
+
+✅ Quick Formula Mode
+
+✅ Learn Mode
+
+✅ offline search
+
+✅ search filters
+
+✅ bookmarks
+
+✅ recent history
+
+✅ revision list
+
+✅ MCQ practice
+
+✅ offline test generator
+
+✅ result screen
+
+✅ basic formula sharing
+
+✅ formula sheets
+
+✅ light/dark mode
+
+✅ sample data
+
+✅ empty states
+
+✅ error states
+
+✅ TypeScript clean
+
+✅ lint clean
+
+✅ persistence verified
+
+✅ documentation
+
+---
+
+# IMPORTANT WORKING RULES
+
+Do not stop after creating a plan.
+
+Do not only scaffold screens.
+
+Do not leave the major features partially wired.
+
+Continue implementing until the Phase 1 acceptance criteria are satisfied.
+
+Use the strongest reasoning model initially for architecture and difficult problems.
+
+Use the lowest-cost capable model for repetitive implementation work.
+
+Inspect the repository before modifying it.
+
+Reuse existing code where it is good.
+
+Do not replace working architecture unnecessarily.
+
+When uncertain, choose the simplest maintainable offline-first solution.
+
+Do not ask me questions unless absolutely impossible to continue.
+
+Make reasonable engineering decisions yourself.
+
+Do not wait for me between implementation steps.
+
+Complete Phase 1 end-to-end in this run.
+
+---
+
+# STOP CONDITION
+
+When and ONLY when Phase 1 is complete:
+
+1. Run final checks.
+2. Fix any remaining Phase 1 errors.
+3. Summarize what was implemented.
+4. List important files created/modified.
+5. Give exact commands I should run to test the app.
+6. Mention any minor non-blocking limitations.
+7. State clearly:
+
+**PHASE 1 COMPLETE — STOPPING HERE.**
+
+After writing that statement:
+
+DO NOT start Phase 2.
+DO NOT add more content.
+DO NOT implement monetization.
+DO NOT implement backend.
+DO NOT implement AI features.
+DO NOT continue improving the app unless required to fix a Phase 1 bug.
+
+Stop execution.

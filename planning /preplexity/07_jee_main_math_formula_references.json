@@ -1,0 +1,184 @@
+[
+  {
+    "id": "jee_main_math_ref_math_quadratic_formula",
+    "type": "formula_reference",
+    "canonical_content_id": "math_quadratic_formula",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_algebra",
+    "topic_id": "jee_main_math_algebra_core",
+    "jee_importance": 5,
+    "jee_notes": "Use with discriminant and root relations.",
+    "common_traps": [
+      "Check conditions, domain and sign conventions."
+    ],
+    "keywords": [
+      "math_quadratic_formula",
+      "jee main formula",
+      "formula revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_math_ref_math_matrix_inverse",
+    "type": "formula_reference",
+    "canonical_content_id": "math_matrix_inverse",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_algebra",
+    "topic_id": "jee_main_math_algebra_core",
+    "jee_importance": 5,
+    "jee_notes": "Verify determinant is non-zero.",
+    "common_traps": [
+      "Check conditions, domain and sign conventions."
+    ],
+    "keywords": [
+      "math_matrix_inverse",
+      "jee main formula",
+      "formula revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_math_ref_math_binomial_general_term",
+    "type": "formula_reference",
+    "canonical_content_id": "math_binomial_general_term",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_algebra",
+    "topic_id": "jee_main_math_algebra_core",
+    "jee_importance": 5,
+    "jee_notes": "Term number is r+1.",
+    "common_traps": [
+      "Check conditions, domain and sign conventions."
+    ],
+    "keywords": [
+      "math_binomial_general_term",
+      "jee main formula",
+      "formula revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_math_ref_math_derivative_product_rule",
+    "type": "formula_reference",
+    "canonical_content_id": "math_derivative_product_rule",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_calculus",
+    "topic_id": "jee_main_math_calculus_core",
+    "jee_importance": 5,
+    "jee_notes": "Apply to products.",
+    "common_traps": [
+      "Check conditions, domain and sign conventions."
+    ],
+    "keywords": [
+      "math_derivative_product_rule",
+      "jee main formula",
+      "formula revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_math_ref_math_integration_by_parts",
+    "type": "formula_reference",
+    "canonical_content_id": "math_integration_by_parts",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_calculus",
+    "topic_id": "jee_main_math_calculus_core",
+    "jee_importance": 5,
+    "jee_notes": "Choose u to simplify the remaining integral.",
+    "common_traps": [
+      "Check conditions, domain and sign conventions."
+    ],
+    "keywords": [
+      "math_integration_by_parts",
+      "jee main formula",
+      "formula revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_math_ref_math_bayes_theorem",
+    "type": "formula_reference",
+    "canonical_content_id": "math_bayes_theorem",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_probability_and_statistics",
+    "topic_id": "jee_main_math_probability_and_statistics_core",
+    "jee_importance": 5,
+    "jee_notes": "Keep conditional probability direction correct.",
+    "common_traps": [
+      "Check conditions, domain and sign conventions."
+    ],
+    "keywords": [
+      "math_bayes_theorem",
+      "jee main formula",
+      "formula revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_math_ref_math_vector_dot_product",
+    "type": "formula_reference",
+    "canonical_content_id": "math_vector_dot_product",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_mathematics",
+    "chapter_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry",
+    "topic_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry_core",
+    "jee_importance": 5,
+    "jee_notes": "The result is scalar.",
+    "common_traps": [
+      "Check conditions, domain and sign conventions."
+    ],
+    "keywords": [
+      "math_vector_dot_product",
+      "jee main formula",
+      "formula revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  }
+]

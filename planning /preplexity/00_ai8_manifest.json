@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "files": [
+    "01_jee_main_physics_units_measurements.json",
+    "02_jee_main_physics_mechanics.json",
+    "03_jee_main_physics_properties_of_matter.json",
+    "04_jee_main_physics_thermal.json",
+    "05_jee_main_physics_shm_waves.json",
+    "06_jee_main_physics_electrostatics.json",
+    "07_jee_main_physics_current_electricity.json",
+    "08_jee_main_physics_magnetism.json",
+    "09_jee_main_physics_emi_ac.json",
+    "10_jee_main_physics_optics.json",
+    "11_jee_main_physics_modern.json",
+    "12_jee_main_physics_formula_references.json",
+    "13_jee_main_physics_questions.json",
+    "14_ai8_validation.json"
+  ]
+}

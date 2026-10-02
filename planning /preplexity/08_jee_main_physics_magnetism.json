@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_magnetism",
+      "name": "Magnetism",
+      "subject_id": "jee_main_physics",
+      "order": 8,
+      "keywords": [
+        "magnetism"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_magnetism_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_magnetism",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [],
+  "content": [
+    {
+      "id": "jee_main_physics_magnetism_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Magnetism Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_magnetism",
+      "topic_id": "jee_main_physics_magnetism_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "magnetism"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "questions": [],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

@@ -1,0 +1,5633 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class12_science",
+    "board": "CBSE",
+    "class": 12,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "NCERT Textbook PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "CBSE Senior Secondary Physics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Chemistry curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Mathematics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Biology curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Exact chapter and formative-assessment treatment should be checked against the final subject PDFs and school implementation before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_physics",
+      "name": "Physics",
+      "class_id": "cbse_class_12",
+      "stream": "science"
+    },
+    {
+      "id": "cbse_class12_chemistry",
+      "name": "Chemistry",
+      "class_id": "cbse_class_12",
+      "stream": "science"
+    },
+    {
+      "id": "cbse_class12_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_12",
+      "stream": "science"
+    },
+    {
+      "id": "cbse_class12_biology",
+      "name": "Biology",
+      "class_id": "cbse_class_12",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_physics_1",
+      "name": "Electric Charges and Fields",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "electric charges and fields"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_2",
+      "name": "Electrostatic Potential and Capacitance",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "electrostatic potential and capacitance"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_3",
+      "name": "Current Electricity",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "current electricity"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_4",
+      "name": "Moving Charges and Magnetism",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "moving charges and magnetism"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_5",
+      "name": "Magnetism and Matter",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "magnetism and matter"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_6",
+      "name": "Electromagnetic Induction",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "electromagnetic induction"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_7",
+      "name": "Alternating Current",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "alternating current"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_8",
+      "name": "Electromagnetic Waves",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "electromagnetic waves"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_9",
+      "name": "Ray Optics and Optical Instruments",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "ray optics and optical instruments"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_10",
+      "name": "Wave Optics",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "wave optics"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_11",
+      "name": "Dual Nature of Radiation and Matter",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "dual nature of radiation and matter"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_12",
+      "name": "Atoms",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "atoms"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_13",
+      "name": "Nuclei",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 13,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "nuclei"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_14",
+      "name": "Semiconductor Electronics",
+      "subject_id": "cbse_class12_physics",
+      "class_id": "cbse_class_12",
+      "order": 14,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "semiconductor electronics"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_1",
+      "name": "Solutions",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "solutions"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_2",
+      "name": "Electrochemistry",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "electrochemistry"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_3",
+      "name": "Chemical Kinetics",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "chemical kinetics"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_4",
+      "name": "d- and f-Block Elements",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "d- and f-block elements"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_5",
+      "name": "Coordination Compounds",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "coordination compounds"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_6",
+      "name": "Haloalkanes and Haloarenes",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "haloalkanes and haloarenes"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_7",
+      "name": "Alcohols, Phenols and Ethers",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "alcohols, phenols and ethers"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_8",
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "aldehydes, ketones and carboxylic acids"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_9",
+      "name": "Amines",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "amines"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_10",
+      "name": "Biomolecules",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biomolecules"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_1",
+      "name": "Relations and Functions",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "relations and functions"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_2",
+      "name": "Inverse Trigonometric Functions",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "inverse trigonometric functions"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_3",
+      "name": "Matrices",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "matrices"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_4",
+      "name": "Determinants",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "determinants"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_5",
+      "name": "Continuity and Differentiability",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "continuity and differentiability"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_6",
+      "name": "Applications of Derivatives",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "applications of derivatives"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_7",
+      "name": "Integrals",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "integrals"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_8",
+      "name": "Applications of Integrals",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "applications of integrals"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_9",
+      "name": "Differential Equations",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "differential equations"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_10",
+      "name": "Vector Algebra",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "vector algebra"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_11",
+      "name": "Three-dimensional Geometry",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "three-dimensional geometry"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_12",
+      "name": "Linear Programming",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "linear programming"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_13",
+      "name": "Probability",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 13,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "probability"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_1",
+      "name": "Sexual Reproduction in Flowering Plants",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "sexual reproduction in flowering plants"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_2",
+      "name": "Human Reproduction",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "human reproduction"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_3",
+      "name": "Reproductive Health",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "reproductive health"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_4",
+      "name": "Principles of Inheritance and Variation",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "principles of inheritance and variation"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_5",
+      "name": "Molecular Basis of Inheritance",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "molecular basis of inheritance"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_6",
+      "name": "Evolution",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "evolution"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_7",
+      "name": "Human Health and Disease",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "human health and disease"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_8",
+      "name": "Strategies for Enhancement in Food Production",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "strategies for enhancement in food production"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_9",
+      "name": "Microbes in Human Welfare",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "microbes in human welfare"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_10",
+      "name": "Biotechnology: Principles and Processes",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biotechnology: principles and processes"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_11",
+      "name": "Biotechnology and its Applications",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biotechnology and its applications"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_12",
+      "name": "Organisms and Populations",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "organisms and populations"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_13",
+      "name": "Ecosystem",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 13,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "ecosystem"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_14",
+      "name": "Biodiversity and Conservation",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 14,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biodiversity and conservation"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_15",
+      "name": "Environmental Issues",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 15,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "environmental issues"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_physics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_physics_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_physics_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_15_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_15",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_coulombs_law",
+      "type": "formula",
+      "title": "Coulomb’s Law",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_1",
+      "topic_id": "cbse_class12_physics_1_core",
+      "summary": "Magnitude of electrostatic force between two point charges.",
+      "keywords": [
+        "coulomb’s law",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "F=\\frac{1}{4\\pi\\varepsilon_0}\\frac{|q_1q_2|}{r^2}",
+      "formula_plain": "F = (1/4πε₀)|q₁q₂|/r²",
+      "explanation": "Magnitude of electrostatic force between two point charges.",
+      "variables": [
+        {
+          "symbol": "F",
+          "meaning": "force",
+          "unit": "N"
+        },
+        {
+          "symbol": "q₁,q₂",
+          "meaning": "charges",
+          "unit": "C"
+        },
+        {
+          "symbol": "r",
+          "meaning": "separation",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for point charges in vacuum or a uniform medium.",
+      "conditions": [
+        "Charges are treated as point charges."
+      ],
+      "example": {
+        "question": "If both charges are doubled, how does F change?",
+        "solution": "F is proportional to q₁q₂.",
+        "answer": "It becomes four times."
+      },
+      "common_mistakes": [
+        "Forgetting inverse-square dependence."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_electric_field",
+      "type": "formula",
+      "title": "Electric Field Definition",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_1",
+      "topic_id": "cbse_class12_physics_1_core",
+      "summary": "Electric field is force per unit positive test charge.",
+      "keywords": [
+        "electric field definition",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\vec E=\\frac{\\vec F}{q_0}",
+      "formula_plain": "E = F/q₀",
+      "explanation": "Electric field is force per unit positive test charge.",
+      "variables": [
+        {
+          "symbol": "E",
+          "meaning": "electric field",
+          "unit": "N/C or V/m"
+        },
+        {
+          "symbol": "F",
+          "meaning": "force",
+          "unit": "N"
+        },
+        {
+          "symbol": "q₀",
+          "meaning": "test charge",
+          "unit": "C"
+        }
+      ],
+      "when_to_use": "Use to relate force and field.",
+      "conditions": [
+        "Test charge is sufficiently small."
+      ],
+      "example": {
+        "question": "A 2 N force acts on a 1 C test charge.",
+        "solution": "E=2/1.",
+        "answer": "2 N/C"
+      },
+      "common_mistakes": [
+        "Confusing field with force."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_capacitance_definition",
+      "type": "formula",
+      "title": "Capacitance",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_2",
+      "topic_id": "cbse_class12_physics_2_core",
+      "summary": "Capacitance is charge stored per unit potential difference.",
+      "keywords": [
+        "capacitance",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "C=\\frac{Q}{V}",
+      "formula_plain": "C = Q/V",
+      "explanation": "Capacitance is charge stored per unit potential difference.",
+      "variables": [
+        {
+          "symbol": "C",
+          "meaning": "capacitance",
+          "unit": "F"
+        },
+        {
+          "symbol": "Q",
+          "meaning": "charge",
+          "unit": "C"
+        },
+        {
+          "symbol": "V",
+          "meaning": "potential difference",
+          "unit": "V"
+        }
+      ],
+      "when_to_use": "Use for capacitors.",
+      "conditions": [
+        "Capacitance is a property of geometry and medium."
+      ],
+      "example": {
+        "question": "A capacitor stores 2 C at 4 V.",
+        "solution": "C=2/4.",
+        "answer": "0.5 F"
+      },
+      "common_mistakes": [
+        "Confusing capacitance with charge."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_capacitor_energy",
+      "type": "formula",
+      "title": "Energy Stored in Capacitor",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_2",
+      "topic_id": "cbse_class12_physics_2_core",
+      "summary": "Energy stored in the electric field of a capacitor.",
+      "keywords": [
+        "energy stored in capacitor",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "U=\\frac{1}{2}CV^2=\\frac{1}{2}QV=\\frac{Q^2}{2C}",
+      "formula_plain": "U = ½CV² = ½QV = Q²/(2C)",
+      "explanation": "Energy stored in the electric field of a capacitor.",
+      "variables": [
+        {
+          "symbol": "U",
+          "meaning": "energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "C",
+          "meaning": "capacitance",
+          "unit": "F"
+        },
+        {
+          "symbol": "V",
+          "meaning": "potential difference",
+          "unit": "V"
+        },
+        {
+          "symbol": "Q",
+          "meaning": "charge",
+          "unit": "C"
+        }
+      ],
+      "when_to_use": "Choose the form matching known quantities.",
+      "conditions": [
+        "The capacitor must be charged as specified."
+      ],
+      "example": {
+        "question": "C=2 F,V=3 V.",
+        "solution": "U=½×2×9.",
+        "answer": "9 J"
+      },
+      "common_mistakes": [
+        "Using CV² without one-half."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_ohms_law",
+      "type": "formula",
+      "title": "Ohm’s Law",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_3",
+      "topic_id": "cbse_class12_physics_3_core",
+      "summary": "For an ohmic conductor at constant physical conditions, voltage is proportional to current.",
+      "keywords": [
+        "ohm’s law",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "V=IR",
+      "formula_plain": "V = IR",
+      "explanation": "For an ohmic conductor at constant physical conditions, voltage is proportional to current.",
+      "variables": [
+        {
+          "symbol": "V",
+          "meaning": "potential difference",
+          "unit": "V"
+        },
+        {
+          "symbol": "I",
+          "meaning": "current",
+          "unit": "A"
+        },
+        {
+          "symbol": "R",
+          "meaning": "resistance",
+          "unit": "Ω"
+        }
+      ],
+      "when_to_use": "Use for ohmic conductors.",
+      "conditions": [
+        "Temperature and physical conditions remain constant."
+      ],
+      "example": {
+        "question": "I=2 A,R=5 Ω.",
+        "solution": "V=2×5.",
+        "answer": "10 V"
+      },
+      "common_mistakes": [
+        "Applying blindly to non-ohmic devices."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_magnetic_force_charge",
+      "type": "formula",
+      "title": "Magnetic Force on Moving Charge",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_4",
+      "topic_id": "cbse_class12_physics_4_core",
+      "summary": "Force on a charge moving in a magnetic field.",
+      "keywords": [
+        "magnetic force on moving charge",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "F=qvB\\sin\\theta",
+      "formula_plain": "F = qvB sin θ",
+      "explanation": "Force on a charge moving in a magnetic field.",
+      "variables": [
+        {
+          "symbol": "q",
+          "meaning": "charge",
+          "unit": "C"
+        },
+        {
+          "symbol": "v",
+          "meaning": "speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "B",
+          "meaning": "magnetic field",
+          "unit": "T"
+        }
+      ],
+      "when_to_use": "Use for a moving charge in a magnetic field.",
+      "conditions": [
+        "Force is zero for parallel motion."
+      ],
+      "example": {
+        "question": "When is force maximum?",
+        "solution": "sin θ is maximum at 90°.",
+        "answer": "When velocity is perpendicular to B."
+      },
+      "common_mistakes": [
+        "Ignoring angle."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_faraday_law",
+      "type": "formula",
+      "title": "Faraday’s Law of Induction",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_6",
+      "topic_id": "cbse_class12_physics_6_core",
+      "summary": "Induced emf is related to the rate of change of magnetic flux.",
+      "keywords": [
+        "faraday’s law of induction",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\mathcal{E}=-\\frac{d\\Phi_B}{dt}",
+      "formula_plain": "ε = −dΦB/dt",
+      "explanation": "Induced emf is related to the rate of change of magnetic flux.",
+      "variables": [
+        {
+          "symbol": "ε",
+          "meaning": "induced emf",
+          "unit": "V"
+        },
+        {
+          "symbol": "ΦB",
+          "meaning": "magnetic flux",
+          "unit": "Wb"
+        },
+        {
+          "symbol": "t",
+          "meaning": "time",
+          "unit": "s"
+        }
+      ],
+      "when_to_use": "Use for changing magnetic flux.",
+      "conditions": [
+        "Minus sign represents Lenz’s law."
+      ],
+      "example": {
+        "question": "What does the negative sign indicate?",
+        "solution": "It gives the direction opposing the change.",
+        "answer": "Lenz’s law"
+      },
+      "common_mistakes": [
+        "Dropping the physical meaning of minus sign."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_ac_rms",
+      "type": "formula",
+      "title": "RMS Value of AC",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_7",
+      "topic_id": "cbse_class12_physics_7_core",
+      "summary": "RMS values give equivalent heating effect for sinusoidal AC.",
+      "keywords": [
+        "rms value of ac",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "V_{rms}=\\frac{V_0}{\\sqrt2},\\quad I_{rms}=\\frac{I_0}{\\sqrt2}",
+      "formula_plain": "Vrms = V₀/√2; Irms = I₀/√2",
+      "explanation": "RMS values give equivalent heating effect for sinusoidal AC.",
+      "variables": [
+        {
+          "symbol": "V₀",
+          "meaning": "peak voltage",
+          "unit": "V"
+        },
+        {
+          "symbol": "I₀",
+          "meaning": "peak current",
+          "unit": "A"
+        }
+      ],
+      "when_to_use": "Use for sinusoidal alternating current or voltage.",
+      "conditions": [
+        "Only for sinusoidal waveforms."
+      ],
+      "example": {
+        "question": "If V₀=100 V, find Vrms.",
+        "solution": "Vrms=100/√2.",
+        "answer": "Approximately 70.7 V"
+      },
+      "common_mistakes": [
+        "Confusing peak and RMS values."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_lens_formula",
+      "type": "formula",
+      "title": "Lens Formula",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_9",
+      "topic_id": "cbse_class12_physics_9_core",
+      "summary": "Relates focal length, object distance and image distance using Cartesian sign convention.",
+      "keywords": [
+        "lens formula",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\frac1f=\\frac1v-\\frac1u",
+      "formula_plain": "1/f = 1/v − 1/u",
+      "explanation": "Relates focal length, object distance and image distance using Cartesian sign convention.",
+      "variables": [
+        {
+          "symbol": "f",
+          "meaning": "focal length",
+          "unit": "m"
+        },
+        {
+          "symbol": "u",
+          "meaning": "object distance",
+          "unit": "m"
+        },
+        {
+          "symbol": "v",
+          "meaning": "image distance",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for thin spherical lenses.",
+      "conditions": [
+        "Use signed distances consistently."
+      ],
+      "example": {
+        "question": "f=10 cm,u=−20 cm.",
+        "solution": "1/10=1/v+1/20, hence v=20 cm.",
+        "answer": "20 cm"
+      },
+      "common_mistakes": [
+        "Mixing lens and mirror conventions."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_photoelectric_equation",
+      "type": "formula",
+      "title": "Einstein Photoelectric Equation",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_11",
+      "topic_id": "cbse_class12_physics_11_core",
+      "summary": "Photon energy is used for work function and maximum photoelectron kinetic energy.",
+      "keywords": [
+        "einstein photoelectric equation",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "h\\nu=\\phi+K_{max}=\\phi+eV_0",
+      "formula_plain": "hν = φ + Kmax = φ + eV₀",
+      "explanation": "Photon energy is used for work function and maximum photoelectron kinetic energy.",
+      "variables": [
+        {
+          "symbol": "hν",
+          "meaning": "photon energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "φ",
+          "meaning": "work function",
+          "unit": "J"
+        },
+        {
+          "symbol": "V₀",
+          "meaning": "stopping potential",
+          "unit": "V"
+        }
+      ],
+      "when_to_use": "Use for photoelectric-effect energy balance.",
+      "conditions": [
+        "Frequency must exceed threshold for emission."
+      ],
+      "example": {
+        "question": "If hν=5 eV and φ=2 eV, find Kmax.",
+        "solution": "Kmax=5−2.",
+        "answer": "3 eV"
+      },
+      "common_mistakes": [
+        "Confusing intensity with photon energy."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_radioactive_decay",
+      "type": "formula",
+      "title": "Radioactive Decay Law",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_13",
+      "topic_id": "cbse_class12_physics_13_core",
+      "summary": "Number of undecayed nuclei decreases exponentially with time.",
+      "keywords": [
+        "radioactive decay law",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "N=N_0e^{-\\lambda t}",
+      "formula_plain": "N = N₀e^(−λt)",
+      "explanation": "Number of undecayed nuclei decreases exponentially with time.",
+      "variables": [
+        {
+          "symbol": "N",
+          "meaning": "remaining nuclei",
+          "unit": "count"
+        },
+        {
+          "symbol": "N₀",
+          "meaning": "initial nuclei",
+          "unit": "count"
+        },
+        {
+          "symbol": "λ",
+          "meaning": "decay constant",
+          "unit": "s⁻¹"
+        },
+        {
+          "symbol": "t",
+          "meaning": "time",
+          "unit": "s"
+        }
+      ],
+      "when_to_use": "Use for ideal radioactive decay.",
+      "conditions": [
+        "Decay is statistical and unaffected by ordinary physical conditions."
+      ],
+      "example": {
+        "question": "At t=0, N equals:",
+        "solution": "Substitute t=0.",
+        "answer": "N₀"
+      },
+      "common_mistakes": [
+        "Confusing decay constant with half-life."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_derivative_product_rule",
+      "type": "formula",
+      "title": "Product Rule",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "topic_id": "cbse_class12_mathematics_5_core",
+      "summary": "Derivative rule for a product of differentiable functions.",
+      "keywords": [
+        "product rule",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\frac{d}{dx}(uv)=u\\frac{dv}{dx}+v\\frac{du}{dx}",
+      "formula_plain": "d(uv)/dx = u dv/dx + v du/dx",
+      "explanation": "Derivative rule for a product of differentiable functions.",
+      "variables": [
+        {
+          "symbol": "u,v",
+          "meaning": "functions of x",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when two functions are multiplied.",
+      "conditions": [
+        "Both functions must be differentiable."
+      ],
+      "example": {
+        "question": "Differentiate x² sin x.",
+        "solution": "2x sin x + x² cos x.",
+        "answer": "2x sin x + x² cos x"
+      },
+      "common_mistakes": [
+        "Differentiating only one factor."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_integration_by_parts",
+      "type": "formula",
+      "title": "Integration by Parts",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_7",
+      "topic_id": "cbse_class12_mathematics_7_core",
+      "summary": "Integrates a product by selecting u and dv strategically.",
+      "keywords": [
+        "integration by parts",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\int u\\,dv=uv-\\int v\\,du",
+      "formula_plain": "∫u dv = uv − ∫v du",
+      "explanation": "Integrates a product by selecting u and dv strategically.",
+      "variables": [
+        {
+          "symbol": "u",
+          "meaning": "chosen function",
+          "unit": ""
+        },
+        {
+          "symbol": "dv",
+          "meaning": "remaining differential",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for products such as x sin x or x log x.",
+      "conditions": [
+        "Choice of u affects simplicity."
+      ],
+      "example": {
+        "question": "Evaluate ∫x dx.",
+        "solution": "Take u=x,dv=dx; result x²/2.",
+        "answer": "x²/2+C"
+      },
+      "common_mistakes": [
+        "Forgetting the constant of integration."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_differential_equation_linear",
+      "type": "formula",
+      "title": "First-Order Linear Differential Equation",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_9",
+      "topic_id": "cbse_class12_mathematics_9_core",
+      "summary": "Standard linear first-order differential equation form.",
+      "keywords": [
+        "first-order linear differential equation",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\frac{dy}{dx}+Py=Q",
+      "formula_plain": "dy/dx + Py = Q",
+      "explanation": "Standard linear first-order differential equation form.",
+      "variables": [
+        {
+          "symbol": "P,Q",
+          "meaning": "functions of x",
+          "unit": ""
+        },
+        {
+          "symbol": "y",
+          "meaning": "dependent variable",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use integrating factor method.",
+      "conditions": [
+        "P and Q are functions of the independent variable."
+      ],
+      "example": {
+        "question": "What is the integrating factor?",
+        "solution": "IF=e^(∫P dx).",
+        "answer": "e^(∫P dx)"
+      },
+      "common_mistakes": [
+        "Using an incorrect integrating factor."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_vector_dot_product",
+      "type": "formula",
+      "title": "Dot Product",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_10",
+      "topic_id": "cbse_class12_mathematics_10_core",
+      "summary": "Scalar product of two vectors.",
+      "keywords": [
+        "dot product",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\vec a\\cdot\\vec b=|\\vec a||\\vec b|\\cos\\theta",
+      "formula_plain": "a·b = |a||b| cos θ",
+      "explanation": "Scalar product of two vectors.",
+      "variables": [
+        {
+          "symbol": "a,b",
+          "meaning": "vectors",
+          "unit": ""
+        },
+        {
+          "symbol": "θ",
+          "meaning": "angle between vectors",
+          "unit": "radian"
+        }
+      ],
+      "when_to_use": "Use for angle or projection.",
+      "conditions": [
+        "Result is scalar."
+      ],
+      "example": {
+        "question": "For perpendicular vectors, a·b equals:",
+        "solution": "cos 90°=0.",
+        "answer": "0"
+      },
+      "common_mistakes": [
+        "Confusing dot and cross products."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_bayes_theorem",
+      "type": "formula",
+      "title": "Bayes’ Theorem",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "topic_id": "cbse_class12_mathematics_13_core",
+      "summary": "Updates probabilities using evidence B.",
+      "keywords": [
+        "bayes’ theorem",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "P(A_i|B)=\\frac{P(A_i)P(B|A_i)}{\\sum_jP(A_j)P(B|A_j)}",
+      "formula_plain": "P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / ΣP(Aⱼ)P(B|Aⱼ)",
+      "explanation": "Updates probabilities using evidence B.",
+      "variables": [
+        {
+          "symbol": "P(A|B)",
+          "meaning": "conditional probability",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when prior causes and observed evidence are given.",
+      "conditions": [
+        "Causes must form a mutually exclusive and exhaustive partition."
+      ],
+      "example": {
+        "question": "What does Bayes theorem calculate?",
+        "solution": "It reverses conditional probability using priors.",
+        "answer": "Posterior probability"
+      },
+      "common_mistakes": [
+        "Swapping P(A|B) and P(B|A)."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_1_quick_revision",
+      "type": "short_note",
+      "title": "Electric Charges and Fields — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_1",
+      "topic_id": "cbse_class12_physics_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "electric charges and fields — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_2_quick_revision",
+      "type": "short_note",
+      "title": "Electrostatic Potential and Capacitance — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_2",
+      "topic_id": "cbse_class12_physics_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "electrostatic potential and capacitance — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_3_quick_revision",
+      "type": "short_note",
+      "title": "Current Electricity — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_3",
+      "topic_id": "cbse_class12_physics_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "current electricity — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_4_quick_revision",
+      "type": "short_note",
+      "title": "Moving Charges and Magnetism — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_4",
+      "topic_id": "cbse_class12_physics_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "moving charges and magnetism — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_5_quick_revision",
+      "type": "short_note",
+      "title": "Magnetism and Matter — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_5",
+      "topic_id": "cbse_class12_physics_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "magnetism and matter — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_6_quick_revision",
+      "type": "short_note",
+      "title": "Electromagnetic Induction — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_6",
+      "topic_id": "cbse_class12_physics_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "electromagnetic induction — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_7_quick_revision",
+      "type": "short_note",
+      "title": "Alternating Current — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_7",
+      "topic_id": "cbse_class12_physics_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "alternating current — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_8_quick_revision",
+      "type": "short_note",
+      "title": "Electromagnetic Waves — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_8",
+      "topic_id": "cbse_class12_physics_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "electromagnetic waves — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_9_quick_revision",
+      "type": "short_note",
+      "title": "Ray Optics and Optical Instruments — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_9",
+      "topic_id": "cbse_class12_physics_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "ray optics and optical instruments — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_10_quick_revision",
+      "type": "short_note",
+      "title": "Wave Optics — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_10",
+      "topic_id": "cbse_class12_physics_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "wave optics — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_11_quick_revision",
+      "type": "short_note",
+      "title": "Dual Nature of Radiation and Matter — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_11",
+      "topic_id": "cbse_class12_physics_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "dual nature of radiation and matter — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_12_quick_revision",
+      "type": "short_note",
+      "title": "Atoms — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_12",
+      "topic_id": "cbse_class12_physics_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "atoms — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_13_quick_revision",
+      "type": "short_note",
+      "title": "Nuclei — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_13",
+      "topic_id": "cbse_class12_physics_13_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "nuclei — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_physics_14_quick_revision",
+      "type": "short_note",
+      "title": "Semiconductor Electronics — Chapter Quick Revision",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_14",
+      "topic_id": "cbse_class12_physics_14_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "semiconductor electronics — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_1_quick_revision",
+      "type": "short_note",
+      "title": "Solutions — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_1",
+      "topic_id": "cbse_class12_chemistry_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "solutions — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_2_quick_revision",
+      "type": "short_note",
+      "title": "Electrochemistry — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_2",
+      "topic_id": "cbse_class12_chemistry_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "electrochemistry — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_3_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Kinetics — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_3",
+      "topic_id": "cbse_class12_chemistry_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "chemical kinetics — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_4_quick_revision",
+      "type": "short_note",
+      "title": "d- and f-Block Elements — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_4",
+      "topic_id": "cbse_class12_chemistry_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "d- and f-block elements — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_5_quick_revision",
+      "type": "short_note",
+      "title": "Coordination Compounds — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_5",
+      "topic_id": "cbse_class12_chemistry_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "coordination compounds — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_6_quick_revision",
+      "type": "short_note",
+      "title": "Haloalkanes and Haloarenes — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_6",
+      "topic_id": "cbse_class12_chemistry_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "haloalkanes and haloarenes — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_7_quick_revision",
+      "type": "short_note",
+      "title": "Alcohols, Phenols and Ethers — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_7",
+      "topic_id": "cbse_class12_chemistry_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "alcohols, phenols and ethers — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_8_quick_revision",
+      "type": "short_note",
+      "title": "Aldehydes, Ketones and Carboxylic Acids — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "topic_id": "cbse_class12_chemistry_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "aldehydes, ketones and carboxylic acids — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_9_quick_revision",
+      "type": "short_note",
+      "title": "Amines — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_9",
+      "topic_id": "cbse_class12_chemistry_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "amines — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_10_quick_revision",
+      "type": "short_note",
+      "title": "Biomolecules — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_10",
+      "topic_id": "cbse_class12_chemistry_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biomolecules — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_1_quick_revision",
+      "type": "short_note",
+      "title": "Relations and Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_1",
+      "topic_id": "cbse_class12_mathematics_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "relations and functions — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_2_quick_revision",
+      "type": "short_note",
+      "title": "Inverse Trigonometric Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_2",
+      "topic_id": "cbse_class12_mathematics_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "inverse trigonometric functions — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_3_quick_revision",
+      "type": "short_note",
+      "title": "Matrices — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_3",
+      "topic_id": "cbse_class12_mathematics_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "matrices — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_4_quick_revision",
+      "type": "short_note",
+      "title": "Determinants — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_4",
+      "topic_id": "cbse_class12_mathematics_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "determinants — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_5_quick_revision",
+      "type": "short_note",
+      "title": "Continuity and Differentiability — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "topic_id": "cbse_class12_mathematics_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "continuity and differentiability — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_6_quick_revision",
+      "type": "short_note",
+      "title": "Applications of Derivatives — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_6",
+      "topic_id": "cbse_class12_mathematics_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "applications of derivatives — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_7_quick_revision",
+      "type": "short_note",
+      "title": "Integrals — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_7",
+      "topic_id": "cbse_class12_mathematics_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "integrals — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_8_quick_revision",
+      "type": "short_note",
+      "title": "Applications of Integrals — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_8",
+      "topic_id": "cbse_class12_mathematics_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "applications of integrals — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_9_quick_revision",
+      "type": "short_note",
+      "title": "Differential Equations — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_9",
+      "topic_id": "cbse_class12_mathematics_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "differential equations — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_10_quick_revision",
+      "type": "short_note",
+      "title": "Vector Algebra — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_10",
+      "topic_id": "cbse_class12_mathematics_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "vector algebra — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_11_quick_revision",
+      "type": "short_note",
+      "title": "Three-dimensional Geometry — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_11",
+      "topic_id": "cbse_class12_mathematics_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "three-dimensional geometry — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_12_quick_revision",
+      "type": "short_note",
+      "title": "Linear Programming — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_12",
+      "topic_id": "cbse_class12_mathematics_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "linear programming — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_13_quick_revision",
+      "type": "short_note",
+      "title": "Probability — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "topic_id": "cbse_class12_mathematics_13_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "probability — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_1_quick_revision",
+      "type": "short_note",
+      "title": "Sexual Reproduction in Flowering Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_1",
+      "topic_id": "cbse_class12_biology_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "sexual reproduction in flowering plants — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_2_quick_revision",
+      "type": "short_note",
+      "title": "Human Reproduction — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_2",
+      "topic_id": "cbse_class12_biology_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "human reproduction — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_3_quick_revision",
+      "type": "short_note",
+      "title": "Reproductive Health — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_3",
+      "topic_id": "cbse_class12_biology_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "reproductive health — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_4_quick_revision",
+      "type": "short_note",
+      "title": "Principles of Inheritance and Variation — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_4",
+      "topic_id": "cbse_class12_biology_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "principles of inheritance and variation — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_5_quick_revision",
+      "type": "short_note",
+      "title": "Molecular Basis of Inheritance — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "molecular basis of inheritance — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_6_quick_revision",
+      "type": "short_note",
+      "title": "Evolution — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_6",
+      "topic_id": "cbse_class12_biology_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "evolution — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_7_quick_revision",
+      "type": "short_note",
+      "title": "Human Health and Disease — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_7",
+      "topic_id": "cbse_class12_biology_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "human health and disease — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_8_quick_revision",
+      "type": "short_note",
+      "title": "Strategies for Enhancement in Food Production — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_8",
+      "topic_id": "cbse_class12_biology_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "strategies for enhancement in food production — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_9_quick_revision",
+      "type": "short_note",
+      "title": "Microbes in Human Welfare — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_9",
+      "topic_id": "cbse_class12_biology_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "microbes in human welfare — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_10_quick_revision",
+      "type": "short_note",
+      "title": "Biotechnology: Principles and Processes — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_10",
+      "topic_id": "cbse_class12_biology_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biotechnology: principles and processes — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_11_quick_revision",
+      "type": "short_note",
+      "title": "Biotechnology and its Applications — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_11",
+      "topic_id": "cbse_class12_biology_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biotechnology and its applications — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_12_quick_revision",
+      "type": "short_note",
+      "title": "Organisms and Populations — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_12",
+      "topic_id": "cbse_class12_biology_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "organisms and populations — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_13_quick_revision",
+      "type": "short_note",
+      "title": "Ecosystem — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_13",
+      "topic_id": "cbse_class12_biology_13_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "ecosystem — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_14_quick_revision",
+      "type": "short_note",
+      "title": "Biodiversity and Conservation — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_14",
+      "topic_id": "cbse_class12_biology_14_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biodiversity and conservation — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_15_quick_revision",
+      "type": "short_note",
+      "title": "Environmental Issues — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_15",
+      "topic_id": "cbse_class12_biology_15_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "environmental issues — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "chemistry_aldol_condensation",
+      "type": "reaction",
+      "title": "Aldol Condensation",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "topic_id": "cbse_class12_chemistry_8_core",
+      "summary": "Carbonyl compounds with alpha hydrogen undergo base-catalysed aldol reaction.",
+      "keywords": [
+        "aldol condensation",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "reaction",
+        "organic",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "chemistry_branch": "organic",
+      "reactants": [
+        "2 CH₃CHO"
+      ],
+      "reagents_conditions": [
+        "dilute NaOH",
+        "heat"
+      ],
+      "products": [
+        "CH₃CH=CHCHO",
+        "H₂O"
+      ],
+      "reaction_text": "2 CH₃CHO → CH₃CH=CHCHO + H₂O",
+      "reaction_latex": "\\mathrm{2CH_3CHO \\xrightarrow{dil.NaOH,\\Delta} CH_3CH=CHCHO + H_2O}",
+      "reaction_type": "condensation",
+      "explanation": "Acetaldehyde first forms a beta-hydroxy aldehyde, which dehydrates on heating.",
+      "important_points": [
+        "Requires alpha hydrogen.",
+        "Dehydration gives an alpha,beta-unsaturated carbonyl compound."
+      ],
+      "common_mistakes": [
+        "Confusing aldol addition with condensation."
+      ]
+    },
+    {
+      "id": "dna_and_rna",
+      "type": "table",
+      "title": "DNA and RNA",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "summary": "High-yield comparison.",
+      "keywords": [
+        "dna and rna",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "DNA",
+        "RNA"
+      ],
+      "rows": [
+        [
+          "Sugar",
+          "Deoxyribose",
+          "Ribose"
+        ],
+        [
+          "Bases",
+          "A,T,G,C",
+          "A,U,G,C"
+        ],
+        [
+          "Typical role",
+          "Long-term genetic storage",
+          "Information transfer and functional roles"
+        ]
+      ]
+    },
+    {
+      "id": "in-situ_and_ex-situ_conservation",
+      "type": "table",
+      "title": "In-situ and Ex-situ Conservation",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_14",
+      "topic_id": "cbse_class12_biology_14_core",
+      "summary": "High-yield comparison.",
+      "keywords": [
+        "in-situ and ex-situ conservation",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "In-situ",
+        "Ex-situ"
+      ],
+      "rows": [
+        [
+          "Location",
+          "Natural habitat",
+          "Outside natural habitat"
+        ],
+        [
+          "Examples",
+          "Biosphere reserve",
+          "Zoo, seed bank"
+        ],
+        [
+          "Focus",
+          "Protect ecosystem",
+          "Protect selected organisms or germplasm"
+        ]
+      ]
+    },
+    {
+      "id": "physics_photoelectric_graph",
+      "type": "graph",
+      "title": "Photoelectric Effect Graph",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_11",
+      "topic_id": "cbse_class12_physics_11_core",
+      "summary": "Stopping potential or maximum kinetic energy versus frequency.",
+      "keywords": [
+        "photoelectric effect graph",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "graph",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "x_axis": "frequency",
+      "y_axis": "maximum kinetic energy or stopping potential",
+      "relationship": "Above threshold frequency, maximum kinetic energy increases linearly with frequency.",
+      "interpretation": [
+        "Threshold frequency is the x-intercept for suitable graph form.",
+        "Intensity mainly changes photocurrent, not maximum kinetic energy."
+      ],
+      "important_points": [
+        "Slope is related to Planck constant in appropriate units."
+      ]
+    },
+    {
+      "id": "parallel_plate_capacitor",
+      "type": "diagram_reference",
+      "title": "Parallel Plate Capacitor",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_2",
+      "topic_id": "cbse_class12_physics_2_core",
+      "summary": "Visual reference for revision.",
+      "keywords": [
+        "parallel plate capacitor",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram showing plates, separation, field direction and dielectric slab.",
+      "labels_required": [
+        "positive plate",
+        "negative plate",
+        "electric field",
+        "separation",
+        "dielectric"
+      ],
+      "asset_required": true
+    },
+    {
+      "id": "ray_diagrams_for_lenses",
+      "type": "diagram_reference",
+      "title": "Ray Diagrams for Lenses",
+      "subject_id": "cbse_class12_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_physics_9",
+      "topic_id": "cbse_class12_physics_9_core",
+      "summary": "Visual reference for revision.",
+      "keywords": [
+        "ray diagrams for lenses",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Principal-ray construction for image formation by convex and concave lenses.",
+      "labels_required": [
+        "principal axis",
+        "optical centre",
+        "focus",
+        "object",
+        "image"
+      ],
+      "asset_required": true
+    },
+    {
+      "id": "dna_replication",
+      "type": "diagram_reference",
+      "title": "DNA Replication",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "summary": "Visual reference for revision.",
+      "keywords": [
+        "dna replication",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram showing unwinding, template strands, primers and complementary daughter strands.",
+      "labels_required": [
+        "helicase",
+        "template strand",
+        "leading strand",
+        "lagging strand",
+        "Okazaki fragments"
+      ],
+      "asset_required": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "q12_physics_capacitance",
+      "type": "mcq",
+      "subject_id": "cbse_class12_physics",
+      "chapter_id": "cbse_class12_physics_2",
+      "topic_id": "cbse_class12_physics_2_core",
+      "question": "If charge and potential are both doubled, capacitance becomes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Half"
+        },
+        {
+          "id": "B",
+          "text": "Unchanged"
+        },
+        {
+          "id": "C",
+          "text": "Double"
+        },
+        {
+          "id": "D",
+          "text": "Four times"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "C=Q/V, so the ratio is unchanged.",
+      "linked_formula_ids": [
+        "physics_capacitance_definition"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_physics_ac",
+      "type": "mcq",
+      "subject_id": "cbse_class12_physics",
+      "chapter_id": "cbse_class12_physics_7",
+      "topic_id": "cbse_class12_physics_7_core",
+      "question": "For a sinusoidal AC with peak voltage 100 V, Vrms is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "50 V"
+        },
+        {
+          "id": "B",
+          "text": "70.7 V"
+        },
+        {
+          "id": "C",
+          "text": "100 V"
+        },
+        {
+          "id": "D",
+          "text": "141.4 V"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Vrms=V0/√2≈70.7 V.",
+      "linked_formula_ids": [
+        "physics_ac_rms"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_math_derivative",
+      "type": "mcq",
+      "subject_id": "cbse_class12_mathematics",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "topic_id": "cbse_class12_mathematics_5_core",
+      "question": "The derivative of x² sin x is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² cos x"
+        },
+        {
+          "id": "B",
+          "text": "2x sin x"
+        },
+        {
+          "id": "C",
+          "text": "2x sin x + x² cos x"
+        },
+        {
+          "id": "D",
+          "text": "sin x"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Apply product rule.",
+      "linked_formula_ids": [
+        "math_derivative_product_rule"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_math_bayes",
+      "type": "mcq",
+      "subject_id": "cbse_class12_mathematics",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "topic_id": "cbse_class12_mathematics_13_core",
+      "question": "Bayes theorem is used to find:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A derivative"
+        },
+        {
+          "id": "B",
+          "text": "A posterior probability"
+        },
+        {
+          "id": "C",
+          "text": "A determinant"
+        },
+        {
+          "id": "D",
+          "text": "A vector magnitude"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "It updates a probability using evidence.",
+      "linked_formula_ids": [
+        "math_bayes_theorem"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_chem_electrolyte",
+      "type": "mcq",
+      "subject_id": "cbse_class12_chemistry",
+      "chapter_id": "cbse_class12_chemistry_2",
+      "topic_id": "cbse_class12_chemistry_2_core",
+      "question": "Oxidation occurs at the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cathode"
+        },
+        {
+          "id": "B",
+          "text": "Anode"
+        },
+        {
+          "id": "C",
+          "text": "Salt bridge only"
+        },
+        {
+          "id": "D",
+          "text": "External wire only"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Oxidation occurs at the anode.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_chem_combustion",
+      "type": "mcq",
+      "subject_id": "cbse_class12_chemistry",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "topic_id": "cbse_class12_chemistry_8_core",
+      "question": "Aldol condensation generally requires a carbonyl compound with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "No hydrogen"
+        },
+        {
+          "id": "B",
+          "text": "An alpha hydrogen"
+        },
+        {
+          "id": "C",
+          "text": "Only aromatic ring"
+        },
+        {
+          "id": "D",
+          "text": "A halogen atom"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The alpha hydrogen enables enolate formation.",
+      "linked_formula_ids": [
+        "chemistry_aldol_condensation"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_bio_dna",
+      "type": "mcq",
+      "subject_id": "cbse_class12_biology",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "question": "Which base is present in RNA instead of thymine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uracil"
+        },
+        {
+          "id": "B",
+          "text": "Cytosine"
+        },
+        {
+          "id": "C",
+          "text": "Guanine"
+        },
+        {
+          "id": "D",
+          "text": "Adenine"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "RNA uses uracil in place of thymine.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_bio_conservation",
+      "type": "mcq",
+      "subject_id": "cbse_class12_biology",
+      "chapter_id": "cbse_class12_biology_14",
+      "topic_id": "cbse_class12_biology_14_core",
+      "question": "A seed bank is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "In-situ conservation"
+        },
+        {
+          "id": "B",
+          "text": "Ex-situ conservation"
+        },
+        {
+          "id": "C",
+          "text": "Natural selection"
+        },
+        {
+          "id": "D",
+          "text": "Primary succession"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The organism’s genetic material is preserved outside its natural habitat.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 52,
+    "total_topics": 52,
+    "total_content_items": 75,
+    "total_formulas": 16,
+    "total_short_notes": 52,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 2,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

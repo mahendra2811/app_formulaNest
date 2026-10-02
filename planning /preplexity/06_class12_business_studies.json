@@ -1,0 +1,1059 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_commerce",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Commerce",
+    "subjects": [
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Accountancy Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Accountancy_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Business Studies Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/BusinessStudies_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Economics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Economics_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Applied Mathematics was not included because its official 2026-27 PDF was not confidently retrieved in this research pass; no Applied Mathematics records are invented.",
+      "The official PDFs display some legacy session labels in their extracted text; chapter mappings use the explicitly labelled Class XI/XII 2026-27 sections."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_business_studies",
+      "name": "Business Studies",
+      "class_id": "cbse_class_12",
+      "stream": "commerce"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_business_studies_1",
+      "name": "Nature and Significance of Management",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "nature and significance of management"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_2",
+      "name": "Principles of Management",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "principles of management"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_3",
+      "name": "Business Environment",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "business environment"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_4",
+      "name": "Planning",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "planning"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_5",
+      "name": "Organising",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "organising"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_6",
+      "name": "Staffing",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "staffing"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_7",
+      "name": "Directing",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "directing"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_8",
+      "name": "Controlling",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "controlling"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_9",
+      "name": "Financial Management",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "financial management"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_10",
+      "name": "Financial Markets",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "financial markets"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_11",
+      "name": "Marketing",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_12",
+      "name": "Consumer Protection",
+      "subject_id": "cbse_class12_business_studies",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "consumer protection"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_business_studies_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_business_studies_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_business_studies_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class12_business_studies_1_quick_revision",
+      "type": "short_note",
+      "title": "Nature and Significance of Management — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_1",
+      "topic_id": "cbse_class12_business_studies_1_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "nature and significance of management — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_2_quick_revision",
+      "type": "short_note",
+      "title": "Principles of Management — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_2",
+      "topic_id": "cbse_class12_business_studies_2_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "principles of management — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_3_quick_revision",
+      "type": "short_note",
+      "title": "Business Environment — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_3",
+      "topic_id": "cbse_class12_business_studies_3_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "business environment — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_4_quick_revision",
+      "type": "short_note",
+      "title": "Planning — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_4",
+      "topic_id": "cbse_class12_business_studies_4_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "planning — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_5_quick_revision",
+      "type": "short_note",
+      "title": "Organising — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_5",
+      "topic_id": "cbse_class12_business_studies_5_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "organising — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_6_quick_revision",
+      "type": "short_note",
+      "title": "Staffing — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_6",
+      "topic_id": "cbse_class12_business_studies_6_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "staffing — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_7_quick_revision",
+      "type": "short_note",
+      "title": "Directing — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_7",
+      "topic_id": "cbse_class12_business_studies_7_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "directing — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_8_quick_revision",
+      "type": "short_note",
+      "title": "Controlling — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_8",
+      "topic_id": "cbse_class12_business_studies_8_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "controlling — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_9_quick_revision",
+      "type": "short_note",
+      "title": "Financial Management — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_9",
+      "topic_id": "cbse_class12_business_studies_9_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "financial management — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_10_quick_revision",
+      "type": "short_note",
+      "title": "Financial Markets — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_10",
+      "topic_id": "cbse_class12_business_studies_10_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "financial markets — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_11_quick_revision",
+      "type": "short_note",
+      "title": "Marketing — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_11",
+      "topic_id": "cbse_class12_business_studies_11_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "marketing — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_business_studies_12_quick_revision",
+      "type": "short_note",
+      "title": "Consumer Protection — Chapter Quick Revision",
+      "subject_id": "cbse_class12_business_studies",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_business_studies_12",
+      "topic_id": "cbse_class12_business_studies_12_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "consumer protection — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_bst_planning",
+      "type": "mcq",
+      "subject_id": "cbse_class12_business_studies",
+      "chapter_id": "cbse_class12_business_studies_4",
+      "topic_id": "cbse_class12_business_studies_4_core",
+      "question": "Planning primarily involves:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recording past transactions"
+        },
+        {
+          "id": "B",
+          "text": "Deciding in advance what to do and how to do it"
+        },
+        {
+          "id": "C",
+          "text": "Only recruiting employees"
+        },
+        {
+          "id": "D",
+          "text": "Only controlling cash"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Planning is deciding in advance the objectives and course of action.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_bst_recruitment",
+      "type": "mcq",
+      "subject_id": "cbse_class12_business_studies",
+      "chapter_id": "cbse_class12_business_studies_6",
+      "topic_id": "cbse_class12_business_studies_6_core",
+      "question": "Recruitment is best described as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Choosing the final candidate"
+        },
+        {
+          "id": "B",
+          "text": "Searching for and attracting prospective employees"
+        },
+        {
+          "id": "C",
+          "text": "Evaluating financial statements"
+        },
+        {
+          "id": "D",
+          "text": "Setting product prices"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Recruitment creates a pool of prospective candidates.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 6,
+    "total_units": 0,
+    "total_chapters": 44,
+    "total_topics": 44,
+    "total_content_items": 61,
+    "total_formulas": 13,
+    "total_short_notes": 44,
+    "total_accounting_entries": 2,
+    "total_tables": 1,
+    "total_graphs": 1,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

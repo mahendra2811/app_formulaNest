@@ -1,0 +1,1821 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class11_science",
+    "board": "CBSE",
+    "class": 11,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Physics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Chemistry Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Mathematics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Biology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "Chemistry gaseous state and s/p block topics are listed as formative-only in the 2026-27 CBSE document and are marked for review where included.",
+      "Some Mathematics topics are formative-only; this starter dataset does not mark every formative mapping individually."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_biology",
+      "name": "Biology",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_biology_1",
+      "name": "The Living World",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "the living world"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_2",
+      "name": "Biological Classification",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "biological classification"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_3",
+      "name": "Plant Kingdom",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "plant kingdom"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_4",
+      "name": "Animal Kingdom",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "animal kingdom"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_5",
+      "name": "Morphology of Flowering Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "morphology of flowering plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_6",
+      "name": "Anatomy of Flowering Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "anatomy of flowering plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_7",
+      "name": "Structural Organisation in Animals",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "structural organisation in animals"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_8",
+      "name": "Cell: The Unit of Life",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "cell: the unit of life"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_9",
+      "name": "Biomolecules",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "biomolecules"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_10",
+      "name": "Cell Cycle and Cell Division",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 10,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "cell cycle and cell division"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_11",
+      "name": "Photosynthesis in Higher Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 11,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "photosynthesis in higher plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_12",
+      "name": "Respiration in Plants",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 12,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "respiration in plants"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_13",
+      "name": "Plant Growth and Development",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 13,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "plant growth and development"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_14",
+      "name": "Breathing and Exchange of Gases",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 14,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "breathing and exchange of gases"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_15",
+      "name": "Body Fluids and Circulation",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 15,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "body fluids and circulation"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_16",
+      "name": "Excretory Products and their Elimination",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 16,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "excretory products and their elimination"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_17",
+      "name": "Locomotion and Movement",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 17,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "locomotion and movement"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_18",
+      "name": "Neural Control and Coordination",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 18,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "neural control and coordination"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_19",
+      "name": "Chemical Coordination and Integration",
+      "subject_id": "cbse_class11_biology",
+      "class_id": "cbse_class_11",
+      "order": 19,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "chemical coordination and integration"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_biology_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_15_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_15",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_16_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_16",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_17_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_17",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_18_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_18",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_biology_19_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_biology_19",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class11_biology_1_quick_revision",
+      "type": "short_note",
+      "title": "The Living World — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_1",
+      "topic_id": "cbse_class11_biology_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "the living world — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_2_quick_revision",
+      "type": "short_note",
+      "title": "Biological Classification — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_2",
+      "topic_id": "cbse_class11_biology_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "biological classification — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_3_quick_revision",
+      "type": "short_note",
+      "title": "Plant Kingdom — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_3",
+      "topic_id": "cbse_class11_biology_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "plant kingdom — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_4_quick_revision",
+      "type": "short_note",
+      "title": "Animal Kingdom — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_4",
+      "topic_id": "cbse_class11_biology_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "animal kingdom — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_5_quick_revision",
+      "type": "short_note",
+      "title": "Morphology of Flowering Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_5",
+      "topic_id": "cbse_class11_biology_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "morphology of flowering plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_6_quick_revision",
+      "type": "short_note",
+      "title": "Anatomy of Flowering Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_6",
+      "topic_id": "cbse_class11_biology_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "anatomy of flowering plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_7_quick_revision",
+      "type": "short_note",
+      "title": "Structural Organisation in Animals — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_7",
+      "topic_id": "cbse_class11_biology_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "structural organisation in animals — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_8_quick_revision",
+      "type": "short_note",
+      "title": "Cell: The Unit of Life — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "cell: the unit of life — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_9_quick_revision",
+      "type": "short_note",
+      "title": "Biomolecules — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_9",
+      "topic_id": "cbse_class11_biology_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "biomolecules — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_10_quick_revision",
+      "type": "short_note",
+      "title": "Cell Cycle and Cell Division — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_10",
+      "topic_id": "cbse_class11_biology_10_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "cell cycle and cell division — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_11_quick_revision",
+      "type": "short_note",
+      "title": "Photosynthesis in Higher Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_11",
+      "topic_id": "cbse_class11_biology_11_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "photosynthesis in higher plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_12_quick_revision",
+      "type": "short_note",
+      "title": "Respiration in Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_12",
+      "topic_id": "cbse_class11_biology_12_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "respiration in plants — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_13_quick_revision",
+      "type": "short_note",
+      "title": "Plant Growth and Development — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_13",
+      "topic_id": "cbse_class11_biology_13_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "plant growth and development — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_14_quick_revision",
+      "type": "short_note",
+      "title": "Breathing and Exchange of Gases — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_14",
+      "topic_id": "cbse_class11_biology_14_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "breathing and exchange of gases — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_15_quick_revision",
+      "type": "short_note",
+      "title": "Body Fluids and Circulation — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_15",
+      "topic_id": "cbse_class11_biology_15_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "body fluids and circulation — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_16_quick_revision",
+      "type": "short_note",
+      "title": "Excretory Products and their Elimination — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_16",
+      "topic_id": "cbse_class11_biology_16_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "excretory products and their elimination — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_17_quick_revision",
+      "type": "short_note",
+      "title": "Locomotion and Movement — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_17",
+      "topic_id": "cbse_class11_biology_17_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "locomotion and movement — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_18_quick_revision",
+      "type": "short_note",
+      "title": "Neural Control and Coordination — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_18",
+      "topic_id": "cbse_class11_biology_18_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "neural control and coordination — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_biology_19_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Coordination and Integration — Chapter Quick Revision",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_19",
+      "topic_id": "cbse_class11_biology_19_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "chemical coordination and integration — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "prokaryotic_and_eukaryotic_cells",
+      "type": "table",
+      "title": "Prokaryotic and Eukaryotic Cells",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "summary": "High-yield comparison table.",
+      "keywords": [
+        "prokaryotic and eukaryotic cells",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "Prokaryotic",
+        "Eukaryotic"
+      ],
+      "rows": [
+        [
+          "Nucleus",
+          "No membrane-bound nucleus",
+          "Membrane-bound nucleus"
+        ],
+        [
+          "Organelles",
+          "Few non-membranous organelles",
+          "Membrane-bound organelles present"
+        ],
+        [
+          "Examples",
+          "Bacteria",
+          "Plants, animals, fungi"
+        ]
+      ]
+    },
+    {
+      "id": "mitosis_and_meiosis",
+      "type": "table",
+      "title": "Mitosis and Meiosis",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_10",
+      "topic_id": "cbse_class11_biology_10_core",
+      "summary": "High-yield comparison table.",
+      "keywords": [
+        "mitosis and meiosis",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "Mitosis",
+        "Meiosis"
+      ],
+      "rows": [
+        [
+          "Divisions",
+          "One",
+          "Two"
+        ],
+        [
+          "Daughter cells",
+          "Two",
+          "Four"
+        ],
+        [
+          "Chromosome number",
+          "Maintained",
+          "Halved"
+        ]
+      ]
+    },
+    {
+      "id": "arteries_and_veins",
+      "type": "table",
+      "title": "Arteries and Veins",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_15",
+      "topic_id": "cbse_class11_biology_15_core",
+      "summary": "High-yield comparison table.",
+      "keywords": [
+        "arteries and veins",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "Arteries",
+        "Veins"
+      ],
+      "rows": [
+        [
+          "Direction",
+          "Away from heart",
+          "Towards heart"
+        ],
+        [
+          "Walls",
+          "Thick and elastic",
+          "Thinner and less elastic"
+        ],
+        [
+          "Valves",
+          "Usually absent",
+          "Usually present"
+        ]
+      ]
+    },
+    {
+      "id": "typical_eukaryotic_cell",
+      "type": "diagram_reference",
+      "title": "Typical Eukaryotic Cell",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "summary": "Visual reference for quick understanding.",
+      "keywords": [
+        "typical eukaryotic cell",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram of a cell showing membrane, cytoplasm, nucleus and major organelles.",
+      "labels_required": [
+        "cell membrane",
+        "cytoplasm",
+        "nucleus",
+        "mitochondrion",
+        "endoplasmic reticulum",
+        "Golgi apparatus"
+      ],
+      "asset_required": true
+    },
+    {
+      "id": "human_heart",
+      "type": "diagram_reference",
+      "title": "Human Heart",
+      "subject_id": "cbse_class11_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_biology_15",
+      "topic_id": "cbse_class11_biology_15_core",
+      "summary": "Visual reference for quick understanding.",
+      "keywords": [
+        "human heart",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram showing chambers, valves and major blood vessels.",
+      "labels_required": [
+        "right atrium",
+        "right ventricle",
+        "left atrium",
+        "left ventricle",
+        "aorta",
+        "pulmonary artery"
+      ],
+      "asset_required": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_bio_cell",
+      "type": "mcq",
+      "subject_id": "cbse_class11_biology",
+      "chapter_id": "cbse_class11_biology_8",
+      "topic_id": "cbse_class11_biology_8_core",
+      "question": "Which structure contains the genetic material in a typical eukaryotic cell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cell wall"
+        },
+        {
+          "id": "B",
+          "text": "Nucleus"
+        },
+        {
+          "id": "C",
+          "text": "Vacuole"
+        },
+        {
+          "id": "D",
+          "text": "Golgi body"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The nucleus contains chromosomes in a typical eukaryotic cell.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_bio_mitosis",
+      "type": "mcq",
+      "subject_id": "cbse_class11_biology",
+      "chapter_id": "cbse_class11_biology_10",
+      "topic_id": "cbse_class11_biology_10_core",
+      "question": "Meiosis generally produces:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two identical diploid cells"
+        },
+        {
+          "id": "B",
+          "text": "Four genetically varied haploid cells"
+        },
+        {
+          "id": "C",
+          "text": "One triploid cell"
+        },
+        {
+          "id": "D",
+          "text": "Four identical diploid cells"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Meiosis has two divisions and produces four haploid products with variation.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 56,
+    "total_topics": 56,
+    "total_content_items": 83,
+    "total_formulas": 19,
+    "total_short_notes": 56,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 3,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 1
+  }
+}

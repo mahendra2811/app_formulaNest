@@ -1,0 +1,1448 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class11_science",
+    "board": "CBSE",
+    "class": 11,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Physics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Chemistry Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Mathematics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Biology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "Chemistry gaseous state and s/p block topics are listed as formative-only in the 2026-27 CBSE document and are marked for review where included.",
+      "Some Mathematics topics are formative-only; this starter dataset does not mark every formative mapping individually."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_mathematics_1",
+      "name": "Sets",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "sets"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_2",
+      "name": "Relations and Functions",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "relations and functions"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_3",
+      "name": "Trigonometric Functions",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "trigonometric functions"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_4",
+      "name": "Complex Numbers and Quadratic Equations",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "complex numbers and quadratic equations"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_5",
+      "name": "Linear Inequalities",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "linear inequalities"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_6",
+      "name": "Permutations and Combinations",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "permutations and combinations"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_7",
+      "name": "Binomial Theorem",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "binomial theorem"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_8",
+      "name": "Sequence and Series",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "sequence and series"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_9",
+      "name": "Straight Lines",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "straight lines"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_10",
+      "name": "Conic Sections",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 10,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "conic sections"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_11",
+      "name": "Introduction to Three-dimensional Geometry",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 11,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "introduction to three-dimensional geometry"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_12",
+      "name": "Limits and Derivatives",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 12,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "limits and derivatives"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_13",
+      "name": "Statistics",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 13,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "statistics"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_14",
+      "name": "Probability",
+      "subject_id": "cbse_class11_mathematics",
+      "class_id": "cbse_class_11",
+      "order": 14,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "probability"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_mathematics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_mathematics_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_mathematics_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "math_permutation",
+      "type": "formula",
+      "title": "Permutations",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "summary": "Counts ordered selections of r objects from n distinct objects.",
+      "keywords": [
+        "permutations",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "{}^nP_r=\\frac{n!}{(n-r)!}",
+      "formula_plain": "nPr = n!/(n−r)!",
+      "explanation": "Counts ordered selections of r objects from n distinct objects.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "number of objects",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "objects selected",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when order matters.",
+      "conditions": [
+        "0 ≤ r ≤ n."
+      ],
+      "example": {
+        "question": "Find 5P2.",
+        "solution": "5!/(3!) = 5×4.",
+        "answer": "20"
+      },
+      "common_mistakes": [
+        "Using combinations when order matters."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_combination",
+      "type": "formula",
+      "title": "Combinations",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "summary": "Counts unordered selections.",
+      "keywords": [
+        "combinations",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "{}^nC_r=\\frac{n!}{r!(n-r)!}",
+      "formula_plain": "nCr = n!/[r!(n−r)!]",
+      "explanation": "Counts unordered selections.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "number of objects",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "objects selected",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when order does not matter.",
+      "conditions": [
+        "0 ≤ r ≤ n."
+      ],
+      "example": {
+        "question": "Find 5C2.",
+        "solution": "5!/(2!3!) = 10.",
+        "answer": "10"
+      },
+      "common_mistakes": [
+        "Confusing selection with arrangement."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_binomial_general_term",
+      "type": "formula",
+      "title": "Binomial General Term",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_7",
+      "topic_id": "cbse_class11_mathematics_7_core",
+      "summary": "General term in the expansion of (a+b)^n.",
+      "keywords": [
+        "binomial general term",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "T_{r+1}=\\binom{n}{r}a^{n-r}b^r",
+      "formula_plain": "T(r+1) = nCr a^(n−r)b^r",
+      "explanation": "General term in the expansion of (a+b)^n.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "non-negative integer index",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "term index starting at 0",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use to find a particular term.",
+      "conditions": [
+        "The term number is r+1, not r."
+      ],
+      "example": {
+        "question": "Find the second term of (x+2)^3.",
+        "solution": "r=1: 3C1 x²×2.",
+        "answer": "6x²"
+      },
+      "common_mistakes": [
+        "Using r equal to the displayed term number."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_gp_sum",
+      "type": "formula",
+      "title": "Sum of a Finite Geometric Progression",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "topic_id": "cbse_class11_mathematics_8_core",
+      "summary": "Sum of the first n terms of a GP.",
+      "keywords": [
+        "sum of a finite geometric progression",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "S_n=\\frac{a(r^n-1)}{r-1},\\quad r\\ne1",
+      "formula_plain": "Sₙ = a(rⁿ−1)/(r−1), r≠1",
+      "explanation": "Sum of the first n terms of a GP.",
+      "variables": [
+        {
+          "symbol": "a",
+          "meaning": "first term",
+          "unit": ""
+        },
+        {
+          "symbol": "r",
+          "meaning": "common ratio",
+          "unit": ""
+        },
+        {
+          "symbol": "n",
+          "meaning": "number of terms",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for a finite GP with r ≠ 1.",
+      "conditions": [
+        "For r=1, Sₙ=na."
+      ],
+      "example": {
+        "question": "Find 1+2+4.",
+        "solution": "a=1,r=2,n=3; S=1(8−1)/(1).",
+        "answer": "7"
+      },
+      "common_mistakes": [
+        "Sign error in denominator."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_1_quick_revision",
+      "type": "short_note",
+      "title": "Sets — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_1",
+      "topic_id": "cbse_class11_mathematics_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "sets — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_2_quick_revision",
+      "type": "short_note",
+      "title": "Relations and Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_2",
+      "topic_id": "cbse_class11_mathematics_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "relations and functions — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_3_quick_revision",
+      "type": "short_note",
+      "title": "Trigonometric Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_3",
+      "topic_id": "cbse_class11_mathematics_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "trigonometric functions — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_4_quick_revision",
+      "type": "short_note",
+      "title": "Complex Numbers and Quadratic Equations — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_4",
+      "topic_id": "cbse_class11_mathematics_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "complex numbers and quadratic equations — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_5_quick_revision",
+      "type": "short_note",
+      "title": "Linear Inequalities — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_5",
+      "topic_id": "cbse_class11_mathematics_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "linear inequalities — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_6_quick_revision",
+      "type": "short_note",
+      "title": "Permutations and Combinations — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "permutations and combinations — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_7_quick_revision",
+      "type": "short_note",
+      "title": "Binomial Theorem — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_7",
+      "topic_id": "cbse_class11_mathematics_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "binomial theorem — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_8_quick_revision",
+      "type": "short_note",
+      "title": "Sequence and Series — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "topic_id": "cbse_class11_mathematics_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "sequence and series — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_9_quick_revision",
+      "type": "short_note",
+      "title": "Straight Lines — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_9",
+      "topic_id": "cbse_class11_mathematics_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "straight lines — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_10_quick_revision",
+      "type": "short_note",
+      "title": "Conic Sections — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_10",
+      "topic_id": "cbse_class11_mathematics_10_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "conic sections — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_11_quick_revision",
+      "type": "short_note",
+      "title": "Introduction to Three-dimensional Geometry — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_11",
+      "topic_id": "cbse_class11_mathematics_11_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "introduction to three-dimensional geometry — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_12_quick_revision",
+      "type": "short_note",
+      "title": "Limits and Derivatives — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_12",
+      "topic_id": "cbse_class11_mathematics_12_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "limits and derivatives — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_13_quick_revision",
+      "type": "short_note",
+      "title": "Statistics — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_13",
+      "topic_id": "cbse_class11_mathematics_13_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "statistics — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_mathematics_14_quick_revision",
+      "type": "short_note",
+      "title": "Probability — Chapter Quick Revision",
+      "subject_id": "cbse_class11_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_mathematics_14",
+      "topic_id": "cbse_class11_mathematics_14_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "probability — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_math_perm",
+      "type": "mcq",
+      "subject_id": "cbse_class11_mathematics",
+      "chapter_id": "cbse_class11_mathematics_6",
+      "topic_id": "cbse_class11_mathematics_6_core",
+      "question": "The value of 5P2 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "5P2=5×4=20.",
+      "linked_formula_ids": [
+        "math_permutation"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_math_gp",
+      "type": "mcq",
+      "subject_id": "cbse_class11_mathematics",
+      "chapter_id": "cbse_class11_mathematics_8",
+      "topic_id": "cbse_class11_mathematics_8_core",
+      "question": "The common ratio of 2, 6, 18 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Each term is multiplied by 3.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 56,
+    "total_topics": 56,
+    "total_content_items": 83,
+    "total_formulas": 19,
+    "total_short_notes": 56,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 3,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 1
+  }
+}

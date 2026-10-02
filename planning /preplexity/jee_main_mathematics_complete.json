@@ -1,0 +1,1216 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_mathematics",
+    "exam": "JEE_MAIN",
+    "subject": "Mathematics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The accessible NTA page exposes the official syllabus download but the extracted text does not expose all topic details. Verify the downloaded PDF before final production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_mathematics",
+    "name": "Mathematics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_math_algebra",
+      "name": "Algebra",
+      "subject_id": "jee_main_mathematics",
+      "order": 1,
+      "keywords": [
+        "algebra"
+      ]
+    },
+    {
+      "id": "jee_main_math_trigonometry",
+      "name": "Trigonometry",
+      "subject_id": "jee_main_mathematics",
+      "order": 2,
+      "keywords": [
+        "trigonometry"
+      ]
+    },
+    {
+      "id": "jee_main_math_calculus",
+      "name": "Calculus",
+      "subject_id": "jee_main_mathematics",
+      "order": 3,
+      "keywords": [
+        "calculus"
+      ]
+    },
+    {
+      "id": "jee_main_math_coordinate_geometry",
+      "name": "Coordinate Geometry",
+      "subject_id": "jee_main_mathematics",
+      "order": 4,
+      "keywords": [
+        "coordinate geometry"
+      ]
+    },
+    {
+      "id": "jee_main_math_vector_algebra_and_three_dimensional_geometry",
+      "name": "Vector Algebra and Three-Dimensional Geometry",
+      "subject_id": "jee_main_mathematics",
+      "order": 5,
+      "keywords": [
+        "vector algebra and three-dimensional geometry"
+      ]
+    },
+    {
+      "id": "jee_main_math_probability_and_statistics",
+      "name": "Probability and Statistics",
+      "subject_id": "jee_main_mathematics",
+      "order": 6,
+      "keywords": [
+        "probability and statistics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_math_algebra_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_algebra",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_math_trigonometry_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_trigonometry",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_math_calculus_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_calculus",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_math_coordinate_geometry_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_math_vector_algebra_and_three_dimensional_geometry_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_math_probability_and_statistics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_math_ref_math_quadratic_formula",
+      "type": "formula_reference",
+      "canonical_content_id": "math_quadratic_formula",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_algebra",
+      "topic_id": "jee_main_math_algebra_core",
+      "jee_importance": 5,
+      "jee_notes": "Use with discriminant and root relations.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_quadratic_formula",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_math_ref_math_matrix_inverse",
+      "type": "formula_reference",
+      "canonical_content_id": "math_matrix_inverse",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_algebra",
+      "topic_id": "jee_main_math_algebra_core",
+      "jee_importance": 5,
+      "jee_notes": "Verify determinant is non-zero.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_matrix_inverse",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_math_ref_math_binomial_general_term",
+      "type": "formula_reference",
+      "canonical_content_id": "math_binomial_general_term",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_algebra",
+      "topic_id": "jee_main_math_algebra_core",
+      "jee_importance": 5,
+      "jee_notes": "Term number is r+1.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_binomial_general_term",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_math_ref_math_derivative_product_rule",
+      "type": "formula_reference",
+      "canonical_content_id": "math_derivative_product_rule",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "jee_importance": 5,
+      "jee_notes": "Apply to products.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_derivative_product_rule",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_math_ref_math_integration_by_parts",
+      "type": "formula_reference",
+      "canonical_content_id": "math_integration_by_parts",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "jee_importance": 5,
+      "jee_notes": "Choose u to simplify the remaining integral.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_integration_by_parts",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_math_ref_math_bayes_theorem",
+      "type": "formula_reference",
+      "canonical_content_id": "math_bayes_theorem",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "jee_importance": 5,
+      "jee_notes": "Keep conditional probability direction correct.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_bayes_theorem",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_math_ref_math_vector_dot_product",
+      "type": "formula_reference",
+      "canonical_content_id": "math_vector_dot_product",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry",
+      "topic_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry_core",
+      "jee_importance": 5,
+      "jee_notes": "The result is scalar.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_vector_dot_product",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "math_trig_sum_to_product",
+      "type": "formula",
+      "title": "Sum-to-Product Identity",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_trigonometry",
+      "topic_id": "jee_main_math_trigonometry_core",
+      "formula_latex": "\\sin A+\\sin B=2\\sin\\frac{A+B}{2}\\cos\\frac{A-B}{2}",
+      "formula_plain": "sin A + sin B = 2 sin((A+B)/2) cos((A−B)/2)",
+      "summary": "Converts a sum of sines into a product.",
+      "explanation": "Converts a sum of sines into a product.",
+      "variables": [
+        {
+          "symbol": "A,B",
+          "meaning": "angles",
+          "unit": "radian"
+        }
+      ],
+      "when_to_use": "Use to factor trigonometric equations.",
+      "conditions": [
+        "Equivalent angles must use a consistent unit."
+      ],
+      "example": {
+        "question": "Convert sin 5x + sin 3x.",
+        "solution": "2 sin 4x cos x.",
+        "answer": "2 sin 4x cos x"
+      },
+      "common_mistakes": [
+        "Changing the sign in the half-difference."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "sum-to-product identity",
+        "sin A + sin B = 2 sin((A+B)/2) cos((A−B)/2)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_trig_general_solution_sin",
+      "type": "formula",
+      "title": "General Solution of sin x = sin α",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_trigonometry",
+      "topic_id": "jee_main_math_trigonometry_core",
+      "formula_latex": "x=n\\pi+(-1)^n\\alpha,\\quad n\\in\\mathbb Z",
+      "formula_plain": "x = nπ + (−1)^n α",
+      "summary": "General solution for a sine equation.",
+      "explanation": "General solution for a sine equation.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "any integer",
+          "unit": ""
+        },
+        {
+          "symbol": "α",
+          "meaning": "given angle",
+          "unit": "radian"
+        }
+      ],
+      "when_to_use": "Use for all real solutions.",
+      "conditions": [
+        "Include all integer n."
+      ],
+      "example": {
+        "question": "State the general solution of sin x=0.",
+        "solution": "Take α=0.",
+        "answer": "x=nπ"
+      },
+      "common_mistakes": [
+        "Giving only principal solutions."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "general solution of sin x = sin α",
+        "x = nπ + (−1)^n α",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_limit_exponential",
+      "type": "formula",
+      "title": "Exponential Standard Limit",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "formula_latex": "\\lim_{x\\to0}\\frac{e^x-1}{x}=1",
+      "formula_plain": "lim(x→0)(eˣ−1)/x = 1",
+      "summary": "Standard exponential limit.",
+      "explanation": "Standard exponential limit.",
+      "variables": [
+        {
+          "symbol": "x",
+          "meaning": "real variable",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use after reducing to the standard form.",
+      "conditions": [
+        "The variable tends to zero."
+      ],
+      "example": {
+        "question": "Evaluate lim x→0 (e^(3x)−1)/(3x).",
+        "solution": "Apply the standard limit.",
+        "answer": "1"
+      },
+      "common_mistakes": [
+        "Dropping the scaling consistently."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "exponential standard limit",
+        "lim(x→0)(eˣ−1)/x = 1",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_derivative_chain_rule",
+      "type": "formula",
+      "title": "Chain Rule",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "formula_latex": "\\frac{d}{dx}f(g(x))=f\\prime(g(x))g\\prime(x)",
+      "formula_plain": "d[f(g(x))]/dx = f′(g(x))g′(x)",
+      "summary": "Derivative of a composite function.",
+      "explanation": "Derivative of a composite function.",
+      "variables": [
+        {
+          "symbol": "f,g",
+          "meaning": "differentiable functions",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for nested functions.",
+      "conditions": [
+        "Inner derivative is required."
+      ],
+      "example": {
+        "question": "Differentiate sin(x²).",
+        "solution": "cos(x²)×2x.",
+        "answer": "2x cos(x²)"
+      },
+      "common_mistakes": [
+        "Forgetting the inner derivative."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "chain rule",
+        "d[f(g(x))]/dx = f′(g(x))g′(x)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_definite_integral_property_substitution",
+      "type": "formula",
+      "title": "Definite Integral Reflection",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "formula_latex": "\\int_a^b f(x)dx=\\int_a^b f(a+b-x)dx",
+      "formula_plain": "∫ₐᵇ f(x)dx = ∫ₐᵇ f(a+b−x)dx",
+      "summary": "Reflection substitution property for definite integrals.",
+      "explanation": "Reflection substitution property for definite integrals.",
+      "variables": [
+        {
+          "symbol": "a,b",
+          "meaning": "limits",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when f(x)+f(a+b−x) simplifies.",
+      "conditions": [
+        "Integrand and limits must correspond exactly."
+      ],
+      "example": {
+        "question": "Which substitution creates the reflected form?",
+        "solution": "Put x=a+b−t.",
+        "answer": "Reflection substitution"
+      },
+      "common_mistakes": [
+        "Changing only the integrand without preserving limits."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "definite integral reflection",
+        "∫ₐᵇ f(x)dx = ∫ₐᵇ f(a+b−x)dx",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_parabola_tangent",
+      "type": "formula",
+      "title": "Tangent to y²=4ax",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "topic_id": "jee_main_math_coordinate_geometry_core",
+      "formula_latex": "yy_1=2a(x+x_1)",
+      "formula_plain": "yy₁ = 2a(x+x₁)",
+      "summary": "Tangent at (x₁,y₁) to the standard parabola.",
+      "explanation": "Tangent at (x₁,y₁) to the standard parabola.",
+      "variables": [
+        {
+          "symbol": "a",
+          "meaning": "parabola parameter",
+          "unit": "coordinate unit"
+        }
+      ],
+      "when_to_use": "Use at a point on y²=4ax.",
+      "conditions": [
+        "The point must lie on the parabola."
+      ],
+      "example": {
+        "question": "For y²=4x at (1,2), write tangent.",
+        "solution": "2y=2(x+1).",
+        "answer": "y=x+1"
+      },
+      "common_mistakes": [
+        "Using a point not on the curve."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "tangent to y²=4ax",
+        "yy₁ = 2a(x+x₁)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_vector_scalar_triple",
+      "type": "formula",
+      "title": "Scalar Triple Product",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry",
+      "topic_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry_core",
+      "formula_latex": "[\\vec a\\,\\vec b\\,\\vec c]=\\vec a\\cdot(\\vec b\\times\\vec c)",
+      "formula_plain": "[a b c] = a·(b×c)",
+      "summary": "Scalar triple product gives signed volume and coplanarity test.",
+      "explanation": "Scalar triple product gives signed volume and coplanarity test.",
+      "variables": [
+        {
+          "symbol": "a,b,c",
+          "meaning": "vectors",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for volume or coplanarity.",
+      "conditions": [
+        "Coplanar vectors have scalar triple product zero."
+      ],
+      "example": {
+        "question": "What is the condition for coplanarity?",
+        "solution": "Scalar triple product equals zero.",
+        "answer": "[a b c]=0"
+      },
+      "common_mistakes": [
+        "Assuming scalar triple product is a vector."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "scalar triple product",
+        "[a b c] = a·(b×c)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_probability_independence",
+      "type": "formula",
+      "title": "Independent Events",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "formula_latex": "P(A\\cap B)=P(A)P(B)",
+      "formula_plain": "P(A∩B)=P(A)P(B)",
+      "summary": "Multiplication relation for independent events.",
+      "explanation": "Multiplication relation for independent events.",
+      "variables": [
+        {
+          "symbol": "A,B",
+          "meaning": "events",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use only when events are independent.",
+      "conditions": [
+        "Independence must be established, not assumed."
+      ],
+      "example": {
+        "question": "If P(A)=1/2 and P(B)=1/3 independently, find P(A∩B).",
+        "solution": "1/2×1/3.",
+        "answer": "1/6"
+      },
+      "common_mistakes": [
+        "Confusing mutually exclusive with independent."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "independent events",
+        "P(A∩B)=P(A)P(B)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_algebra_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Algebra Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_algebra",
+      "topic_id": "jee_main_math_algebra_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "algebra"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_trigonometry_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Trigonometry Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_trigonometry",
+      "topic_id": "jee_main_math_trigonometry_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "trigonometry"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_calculus_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Calculus Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "calculus"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_coordinate_geometry_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Coordinate Geometry Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "topic_id": "jee_main_math_coordinate_geometry_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "coordinate geometry"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_vector_algebra_and_three_dimensional_geometry_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Vector Algebra and Three-Dimensional Geometry Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry",
+      "topic_id": "jee_main_math_vector_algebra_and_three_dimensional_geometry_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "vector algebra and three-dimensional geometry"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_probability_and_statistics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Probability and Statistics Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "probability and statistics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_trap_squaring_equation",
+      "type": "common_trap",
+      "title": "Squaring Can Add Extraneous Roots",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "wrong_approach": "Square both sides and accept every resulting root.",
+      "why_wrong": "Squaring removes sign information.",
+      "correct_approach": "Substitute every candidate into the original equation.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_trap_matrix_noncommutativity",
+      "type": "common_trap",
+      "title": "Matrix Multiplication Is Not Generally Commutative",
+      "chapter_id": "jee_main_math_algebra",
+      "topic_id": "jee_main_math_algebra_core",
+      "wrong_approach": "Replace AB with BA.",
+      "why_wrong": "Matrix products depend on order and may have different dimensions or values.",
+      "correct_approach": "Preserve order and check dimensions.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_shortcut_odd_integral",
+      "type": "shortcut",
+      "title": "Odd Function Symmetry Shortcut",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "shortcut": "For odd f, ∫₋ₐᵃ f(x)dx=0.",
+      "why_it_works": "Equal positive and negative contributions cancel.",
+      "conditions": [
+        "The interval must be symmetric.",
+        "The integral must exist."
+      ],
+      "do_not_use_when": [
+        "The interval is not symmetric or the function is not odd."
+      ],
+      "example": "∫₋₂²x³dx=0.",
+      "keywords": [
+        "odd function definite integral",
+        "symmetry shortcut"
+      ],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_q_trig_general",
+      "type": "mcq",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_trigonometry",
+      "topic_id": "jee_main_math_trigonometry_core",
+      "question": "The general solution of sin x=0 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x=2nπ"
+        },
+        {
+          "id": "B",
+          "text": "x=nπ"
+        },
+        {
+          "id": "C",
+          "text": "x=(2n+1)π/2"
+        },
+        {
+          "id": "D",
+          "text": "x=π/2"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "All integer multiples of π solve the equation.",
+      "linked_formula_ids": [
+        "math_trig_general_solution_sin"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_q_chain_rule",
+      "type": "mcq",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "question": "d/dx[sin(x²)] equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cos x"
+        },
+        {
+          "id": "B",
+          "text": "2x sin x"
+        },
+        {
+          "id": "C",
+          "text": "2x cos(x²)"
+        },
+        {
+          "id": "D",
+          "text": "cos(x²)"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Apply the chain rule.",
+      "linked_formula_ids": [
+        "math_derivative_chain_rule"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_q_parabola_tangent",
+      "type": "mcq",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "topic_id": "jee_main_math_coordinate_geometry_core",
+      "question": "The tangent to y²=4x at (1,2) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "y=x−1"
+        },
+        {
+          "id": "B",
+          "text": "y=x+1"
+        },
+        {
+          "id": "C",
+          "text": "y=2x+1"
+        },
+        {
+          "id": "D",
+          "text": "y=2x−1"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "yy₁=2a(x+x₁): 2y=2(x+1).",
+      "linked_formula_ids": [
+        "math_parabola_tangent"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "question_style": "application",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_q_independence",
+      "type": "mcq",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "question": "If A and B are independent, P(A)=1/2 and P(B)=1/3, P(A∩B) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/5"
+        },
+        {
+          "id": "B",
+          "text": "1/6"
+        },
+        {
+          "id": "C",
+          "text": "2/3"
+        },
+        {
+          "id": "D",
+          "text": "5/6"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Multiply the probabilities.",
+      "linked_formula_ids": [
+        "math_probability_independence"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 6,
+    "total_topics": 6,
+    "total_formula_references": 7,
+    "total_new_formulas": 8,
+    "total_identities": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 2,
+    "total_quick_revision_notes": 6,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

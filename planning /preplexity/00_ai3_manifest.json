@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class11_science",
+    "board": "CBSE",
+    "class": 11,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Physics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Chemistry Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Mathematics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Biology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "Chemistry gaseous state and s/p block topics are listed as formative-only in the 2026-27 CBSE document and are marked for review where included.",
+      "Some Mathematics topics are formative-only; this starter dataset does not mark every formative mapping individually."
+    ]
+  },
+  "files": [
+    "01_class11_physics.json",
+    "02_class11_chemistry.json",
+    "03_class11_mathematics.json",
+    "04_class11_biology.json",
+    "05_ai3_validation.json"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_mathematics",
+    "exam": "JEE_MAIN",
+    "subject": "Mathematics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The accessible NTA page exposes the official syllabus download but the extracted text does not expose all topic details. Verify the downloaded PDF before final production import."
+    ]
+  },
+  "files": [
+    "01_jee_main_math_algebra.json",
+    "02_jee_main_math_trigonometry.json",
+    "03_jee_main_math_calculus.json",
+    "04_jee_main_math_coordinate_geometry.json",
+    "05_jee_main_math_vector_3d.json",
+    "06_jee_main_math_probability_statistics.json",
+    "07_jee_main_math_formula_references.json",
+    "08_jee_main_math_questions.json",
+    "09_ai7_validation.json"
+  ]
+}

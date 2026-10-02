@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_6_7_8_math_science",
+    "board": "CBSE",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "date_researched": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "NCERT Textbooks PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "NCERT Grade 8 Mathematics Ganita Prakash Part I, Reprint 2026-27",
+        "url": "https://ncert.nic.in/textbook/pdf/hegp1ps.pdf"
+      },
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      }
+    ],
+    "scope_note": "This generated artifact is a structured starter dataset. The 2026-27 transition to new middle-stage NCERT books means all chapter mappings marked needs_review should be checked against the school-adopted book set."
+  },
+  "classes": [
+    {
+      "id": "cbse_class_6",
+      "name": "Class 6",
+      "number": 6,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_7",
+      "name": "Class 7",
+      "number": 7,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_8",
+      "name": "Class 8",
+      "number": 8,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class6_science",
+      "name": "Science",
+      "class_id": "cbse_class_6"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class6_science_1",
+      "name": "The Wonderful World of Science",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "the wonderful world of science"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_2",
+      "name": "Diversity in the Living World",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "diversity in the living world"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_3",
+      "name": "Mindful Eating: A Path to a Healthy Body",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "mindful eating: a path to a healthy body"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_4",
+      "name": "Exploring Magnets",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "exploring magnets"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_5",
+      "name": "Measurement of Length and Motion",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "measurement of length and motion"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_6",
+      "name": "Materials Around Us",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "materials around us"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_7",
+      "name": "Temperature and its Measurement",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "temperature and its measurement"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_8",
+      "name": "A Journey through States of Water",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 8,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "a journey through states of water"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_9",
+      "name": "Methods of Separation in Everyday Life",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 9,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "methods of separation in everyday life"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_10",
+      "name": "Living Creatures: Exploring their Characteristics",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 10,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "living creatures: exploring their characteristics"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_11",
+      "name": "Nature’s Treasures",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 11,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "nature’s treasures"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_12",
+      "name": "Beyond Earth",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 12,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "beyond earth"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class6_science_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_8_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_8",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_9_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_9",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_10_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_10",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_11_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_11",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_12_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_12",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [],
+  "questions": [],
+  "validation": {
+    "total_classes": 3,
+    "total_subjects": 6,
+    "total_chapters": 69,
+    "total_topics": 69,
+    "total_content_items": 11,
+    "total_formulas": 5,
+    "total_short_notes": 6,
+    "total_definitions": 0,
+    "total_questions": 3,
+    "duplicate_ids_found": 0,
+    "broken_references_found": 0,
+    "items_needing_review": 11
+  }
+}

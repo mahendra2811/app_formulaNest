@@ -1,0 +1,1228 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class11_science",
+    "board": "CBSE",
+    "class": 11,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Physics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Chemistry Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Mathematics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Biology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "Chemistry gaseous state and s/p block topics are listed as formative-only in the 2026-27 CBSE document and are marked for review where included.",
+      "Some Mathematics topics are formative-only; this starter dataset does not mark every formative mapping individually."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_chemistry",
+      "name": "Chemistry",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_chemistry_1",
+      "name": "Some Basic Concepts of Chemistry",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "some basic concepts of chemistry"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_2",
+      "name": "Structure of Atom",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "structure of atom"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_3",
+      "name": "Classification of Elements and Periodicity in Properties",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "classification of elements and periodicity in properties"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_4",
+      "name": "Chemical Bonding and Molecular Structure",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "chemical bonding and molecular structure"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_5",
+      "name": "Chemical Thermodynamics",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "chemical thermodynamics"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_6",
+      "name": "Equilibrium",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "equilibrium"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_7",
+      "name": "Redox Reactions",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "redox reactions"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_8",
+      "name": "Organic Chemistry: Some Basic Principles and Techniques",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "organic chemistry: some basic principles and techniques"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_9",
+      "name": "Hydrocarbons",
+      "subject_id": "cbse_class11_chemistry",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "hydrocarbons"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_chemistry_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_chemistry_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "chemistry_mole_relationship",
+      "type": "formula",
+      "title": "Mole Relationship",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Connects mass, molar mass and number of entities.",
+      "keywords": [
+        "mole relationship",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "n=\\frac{m}{M}=\\frac{N}{N_A}",
+      "formula_plain": "n = m/M = N/Nₐ",
+      "explanation": "Connects mass, molar mass and number of entities.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "amount of substance",
+          "unit": "mol"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "g"
+        },
+        {
+          "symbol": "M",
+          "meaning": "molar mass",
+          "unit": "g/mol"
+        },
+        {
+          "symbol": "N_A",
+          "meaning": "Avogadro constant",
+          "unit": "mol⁻¹"
+        }
+      ],
+      "when_to_use": "Use for stoichiometric conversions.",
+      "conditions": [
+        "Use compatible mass units."
+      ],
+      "example": {
+        "question": "How many moles are in 18 g water?",
+        "solution": "n=18/18.",
+        "answer": "1 mol"
+      },
+      "common_mistakes": [
+        "Confusing molar mass with mass."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_molarity",
+      "type": "formula",
+      "title": "Molarity",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Molarity is moles of solute per litre of solution.",
+      "keywords": [
+        "molarity",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "M=\\frac{n}{V}",
+      "formula_plain": "M = n/V",
+      "explanation": "Molarity is moles of solute per litre of solution.",
+      "variables": [
+        {
+          "symbol": "M",
+          "meaning": "molarity",
+          "unit": "mol/L"
+        },
+        {
+          "symbol": "n",
+          "meaning": "moles of solute",
+          "unit": "mol"
+        },
+        {
+          "symbol": "V",
+          "meaning": "solution volume",
+          "unit": "L"
+        }
+      ],
+      "when_to_use": "Use for concentration based on solution volume.",
+      "conditions": [
+        "Volume must be in litres."
+      ],
+      "example": {
+        "question": "0.5 mol solute in 2 L solution.",
+        "solution": "M=0.5/2.",
+        "answer": "0.25 mol/L"
+      },
+      "common_mistakes": [
+        "Using solvent volume instead of solution volume."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_molality",
+      "type": "formula",
+      "title": "Molality",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Molality is moles of solute per kilogram of solvent.",
+      "keywords": [
+        "molality",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "m=\\frac{n}{w}",
+      "formula_plain": "molality = moles of solute / mass of solvent in kg",
+      "explanation": "Molality is moles of solute per kilogram of solvent.",
+      "variables": [
+        {
+          "symbol": "n",
+          "meaning": "moles of solute",
+          "unit": "mol"
+        },
+        {
+          "symbol": "w",
+          "meaning": "mass of solvent",
+          "unit": "kg"
+        }
+      ],
+      "when_to_use": "Use when solvent mass is specified.",
+      "conditions": [
+        "Solvent mass, not solution mass."
+      ],
+      "example": {
+        "question": "2 mol solute in 4 kg solvent.",
+        "solution": "m=2/4.",
+        "answer": "0.5 mol/kg"
+      },
+      "common_mistakes": [
+        "Using solution mass."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_ideal_gas",
+      "type": "formula",
+      "title": "Ideal Gas Equation",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Relates pressure, volume, amount and temperature for an ideal gas.",
+      "keywords": [
+        "ideal gas equation",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "formula",
+        "formative",
+        "needs_review"
+      ],
+      "difficulty": "medium",
+      "importance": 3,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": true,
+      "formula_latex": "PV=nRT",
+      "formula_plain": "P V = n R T",
+      "explanation": "Relates pressure, volume, amount and temperature for an ideal gas.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "V",
+          "meaning": "volume",
+          "unit": "m³"
+        },
+        {
+          "symbol": "n",
+          "meaning": "amount",
+          "unit": "mol"
+        },
+        {
+          "symbol": "T",
+          "meaning": "absolute temperature",
+          "unit": "K"
+        }
+      ],
+      "when_to_use": "Use for ideal-gas calculations; formative syllabus status should be checked.",
+      "conditions": [
+        "Use kelvin temperature."
+      ],
+      "example": {
+        "question": "What temperature scale is required?",
+        "solution": "T(K)=T(°C)+273.15.",
+        "answer": "Kelvin"
+      },
+      "common_mistakes": [
+        "Using Celsius directly."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "chemistry_gibbs_energy",
+      "type": "formula",
+      "title": "Gibbs Energy Relation",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_5",
+      "topic_id": "cbse_class11_chemistry_5_core",
+      "summary": "Relates enthalpy, entropy and spontaneity at constant temperature and pressure.",
+      "keywords": [
+        "gibbs energy relation",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\Delta G=\\Delta H-T\\Delta S",
+      "formula_plain": "ΔG = ΔH − TΔS",
+      "explanation": "Relates enthalpy, entropy and spontaneity at constant temperature and pressure.",
+      "variables": [
+        {
+          "symbol": "ΔG",
+          "meaning": "Gibbs energy change",
+          "unit": "J/mol"
+        },
+        {
+          "symbol": "ΔH",
+          "meaning": "enthalpy change",
+          "unit": "J/mol"
+        },
+        {
+          "symbol": "T",
+          "meaning": "absolute temperature",
+          "unit": "K"
+        },
+        {
+          "symbol": "ΔS",
+          "meaning": "entropy change",
+          "unit": "J/(mol K)"
+        }
+      ],
+      "when_to_use": "Use for spontaneity under constant T and P.",
+      "conditions": [
+        "Use consistent energy units."
+      ],
+      "example": {
+        "question": "If ΔH=10 kJ/mol, TΔS=15 kJ/mol, find ΔG.",
+        "solution": "ΔG=10−15.",
+        "answer": "−5 kJ/mol"
+      },
+      "common_mistakes": [
+        "Mixing J and kJ."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_1_quick_revision",
+      "type": "short_note",
+      "title": "Some Basic Concepts of Chemistry — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "some basic concepts of chemistry — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_2_quick_revision",
+      "type": "short_note",
+      "title": "Structure of Atom — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_2",
+      "topic_id": "cbse_class11_chemistry_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "structure of atom — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_3_quick_revision",
+      "type": "short_note",
+      "title": "Classification of Elements and Periodicity in Properties — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_3",
+      "topic_id": "cbse_class11_chemistry_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "classification of elements and periodicity in properties — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_4_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Bonding and Molecular Structure — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_4",
+      "topic_id": "cbse_class11_chemistry_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "chemical bonding and molecular structure — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_5_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Thermodynamics — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_5",
+      "topic_id": "cbse_class11_chemistry_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "chemical thermodynamics — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_6_quick_revision",
+      "type": "short_note",
+      "title": "Equilibrium — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_6",
+      "topic_id": "cbse_class11_chemistry_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "equilibrium — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_7_quick_revision",
+      "type": "short_note",
+      "title": "Redox Reactions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_7",
+      "topic_id": "cbse_class11_chemistry_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "redox reactions — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_8_quick_revision",
+      "type": "short_note",
+      "title": "Organic Chemistry: Some Basic Principles and Techniques — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_8",
+      "topic_id": "cbse_class11_chemistry_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "organic chemistry: some basic principles and techniques — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_chemistry_9_quick_revision",
+      "type": "short_note",
+      "title": "Hydrocarbons — Chapter Quick Revision",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "topic_id": "cbse_class11_chemistry_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "hydrocarbons — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "chemistry_alkane_combustion",
+      "type": "reaction",
+      "title": "Complete Combustion of Methane",
+      "subject_id": "cbse_class11_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "topic_id": "cbse_class11_chemistry_9_core",
+      "summary": "Combustion of an alkane in oxygen.",
+      "keywords": [
+        "complete combustion of methane",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "reaction",
+        "organic",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "chemistry_branch": "organic",
+      "reactants": [
+        "CH₄",
+        "O₂"
+      ],
+      "reagents_conditions": [
+        "excess oxygen",
+        "ignition"
+      ],
+      "products": [
+        "CO₂",
+        "H₂O"
+      ],
+      "reaction_text": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+      "reaction_latex": "\\mathrm{CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O}",
+      "reaction_type": "combustion",
+      "explanation": "Complete combustion produces carbon dioxide and water.",
+      "important_points": [
+        "Equation is balanced.",
+        "Limited oxygen may produce carbon monoxide or soot."
+      ],
+      "common_mistakes": [
+        "Not balancing oxygen atoms."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_chem_mole",
+      "type": "mcq",
+      "subject_id": "cbse_class11_chemistry",
+      "chapter_id": "cbse_class11_chemistry_1",
+      "topic_id": "cbse_class11_chemistry_1_core",
+      "question": "18 g of water corresponds to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5 mol"
+        },
+        {
+          "id": "B",
+          "text": "1 mol"
+        },
+        {
+          "id": "C",
+          "text": "2 mol"
+        },
+        {
+          "id": "D",
+          "text": "18 mol"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "n=m/M=18/18=1 mol.",
+      "linked_formula_ids": [
+        "chemistry_mole_relationship"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_chem_combustion",
+      "type": "mcq",
+      "subject_id": "cbse_class11_chemistry",
+      "chapter_id": "cbse_class11_chemistry_9",
+      "topic_id": "cbse_class11_chemistry_9_core",
+      "question": "Complete combustion of methane produces:",
+      "options": [
+        {
+          "id": "A",
+          "text": "CO and H₂"
+        },
+        {
+          "id": "B",
+          "text": "CO₂ and H₂O"
+        },
+        {
+          "id": "C",
+          "text": "C and H₂"
+        },
+        {
+          "id": "D",
+          "text": "CH₃OH only"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Complete combustion in excess oxygen gives CO₂ and H₂O.",
+      "linked_formula_ids": [
+        "chemistry_alkane_combustion"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 56,
+    "total_topics": 56,
+    "total_content_items": 83,
+    "total_formulas": 19,
+    "total_short_notes": 56,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 3,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 1
+  }
+}

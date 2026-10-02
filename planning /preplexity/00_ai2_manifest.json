@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_9_10_math_science",
+    "board": "CBSE",
+    "classes": [
+      9,
+      10
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "CBSE Class X Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf"
+      },
+      {
+        "name": "NCERT Grade 9 Mathematics Ganita Manjari Part I, 2026",
+        "url": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf"
+      },
+      {
+        "name": "NCERT Class IX Science textbook portal",
+        "url": "https://ncert.nic.in/textbook/pdf/iesc1ps.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "The 2026 NCERT Grade 9 Mathematics textbook has a new eight-chapter structure. CBSE assessment mapping should be confirmed before production import.",
+      "The Class X Science curriculum identifies Periodic Classification, Heredity and Evolution, and certain electricity topics as formative/not assessed in the year-end examination; they remain represented with appropriate review status in downstream normalization."
+    ]
+  },
+  "files": [
+    "01_class9_mathematics.json",
+    "02_class9_science.json",
+    "03_class10_mathematics.json",
+    "04_class10_science.json",
+    "05_ai2_validation.json"
+  ]
+}

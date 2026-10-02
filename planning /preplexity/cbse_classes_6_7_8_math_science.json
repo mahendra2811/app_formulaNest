@@ -1,0 +1,2209 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_6_7_8_math_science",
+    "board": "CBSE",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "date_researched": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "NCERT Textbooks PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "NCERT Grade 8 Mathematics Ganita Prakash Part I, Reprint 2026-27",
+        "url": "https://ncert.nic.in/textbook/pdf/hegp1ps.pdf"
+      },
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      }
+    ],
+    "scope_note": "This generated artifact is a structured starter dataset. The 2026-27 transition to new middle-stage NCERT books means all chapter mappings marked needs_review should be checked against the school-adopted book set."
+  },
+  "classes": [
+    {
+      "id": "cbse_class_6",
+      "name": "Class 6",
+      "number": 6,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_7",
+      "name": "Class 7",
+      "number": 7,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_8",
+      "name": "Class 8",
+      "number": 8,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class6_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_6"
+    },
+    {
+      "id": "cbse_class6_science",
+      "name": "Science",
+      "class_id": "cbse_class_6"
+    },
+    {
+      "id": "cbse_class7_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_7"
+    },
+    {
+      "id": "cbse_class7_science",
+      "name": "Science",
+      "class_id": "cbse_class_7"
+    },
+    {
+      "id": "cbse_class8_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_8"
+    },
+    {
+      "id": "cbse_class8_science",
+      "name": "Science",
+      "class_id": "cbse_class_8"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class6_mathematics_1",
+      "name": "Knowing Our Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "knowing our numbers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_2",
+      "name": "Whole Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "whole numbers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_3",
+      "name": "Playing with Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "playing with numbers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_4",
+      "name": "Basic Geometrical Ideas",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "basic geometrical ideas"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_5",
+      "name": "Understanding Elementary Shapes",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "understanding elementary shapes"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_6",
+      "name": "Integers",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "integers"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_7",
+      "name": "Fractions",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "fractions"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_8",
+      "name": "Decimals",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 8,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "decimals"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_9",
+      "name": "Data Handling",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 9,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "data handling"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_10",
+      "name": "Mensuration",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 10,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "mensuration"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_11",
+      "name": "Algebra",
+      "subject_id": "cbse_class6_mathematics",
+      "class_id": "cbse_class_6",
+      "order": 11,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "algebra"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_1",
+      "name": "The Wonderful World of Science",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "the wonderful world of science"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_2",
+      "name": "Diversity in the Living World",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "diversity in the living world"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_3",
+      "name": "Mindful Eating: A Path to a Healthy Body",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "mindful eating: a path to a healthy body"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_4",
+      "name": "Exploring Magnets",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "exploring magnets"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_5",
+      "name": "Measurement of Length and Motion",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "measurement of length and motion"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_6",
+      "name": "Materials Around Us",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "materials around us"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_7",
+      "name": "Temperature and its Measurement",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "temperature and its measurement"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_8",
+      "name": "A Journey through States of Water",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 8,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "a journey through states of water"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_9",
+      "name": "Methods of Separation in Everyday Life",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 9,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "methods of separation in everyday life"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_10",
+      "name": "Living Creatures: Exploring their Characteristics",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 10,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "living creatures: exploring their characteristics"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_11",
+      "name": "Nature’s Treasures",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 11,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "nature’s treasures"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_12",
+      "name": "Beyond Earth",
+      "subject_id": "cbse_class6_science",
+      "class_id": "cbse_class_6",
+      "order": 12,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "beyond earth"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_1",
+      "name": "Integers",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "integers"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_2",
+      "name": "Fractions and Decimals",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "fractions and decimals"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_3",
+      "name": "Data Handling",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "data handling"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_4",
+      "name": "Simple Equations",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "simple equations"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_5",
+      "name": "Lines and Angles",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "lines and angles"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_6",
+      "name": "The Triangle and its Properties",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "the triangle and its properties"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_7",
+      "name": "Comparing Quantities",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "comparing quantities"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_8",
+      "name": "Rational Numbers",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 8,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "rational numbers"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_9",
+      "name": "Perimeter and Area",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 9,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "perimeter and area"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_10",
+      "name": "Algebraic Expressions",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 10,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "algebraic expressions"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_11",
+      "name": "Exponents and Powers",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 11,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "exponents and powers"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_12",
+      "name": "Symmetry",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 12,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "symmetry"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_13",
+      "name": "Visualising Solid Shapes",
+      "subject_id": "cbse_class7_mathematics",
+      "class_id": "cbse_class_7",
+      "order": 13,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "visualising solid shapes"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_1",
+      "name": "The Ever-Evolving World of Science",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "the ever-evolving world of science"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_2",
+      "name": "Exploring Substances: Acidic, Basic and Neutral",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "exploring substances: acidic, basic and neutral"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_3",
+      "name": "Electricity: Circuits and their Components",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "electricity: circuits and their components"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_4",
+      "name": "The World of Metals and Non-metals",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "the world of metals and non-metals"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_5",
+      "name": "Changes Around Us: Physical and Chemical",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "changes around us: physical and chemical"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_6",
+      "name": "Adolescence: A Stage of Growth and Change",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "adolescence: a stage of growth and change"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_7",
+      "name": "Heat Transfer in Nature",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "heat transfer in nature"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_8",
+      "name": "Measurement of Time and Motion",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 8,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "measurement of time and motion"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_9",
+      "name": "Winds, Storms and Cyclones",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 9,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "winds, storms and cyclones"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_10",
+      "name": "Life Processes in Animals",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 10,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "life processes in animals"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_11",
+      "name": "Light: Shadows and Reflections",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 11,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "light: shadows and reflections"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_12",
+      "name": "Earth, Moon and the Sun",
+      "subject_id": "cbse_class7_science",
+      "class_id": "cbse_class_7",
+      "order": 12,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "earth, moon and the sun"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_1",
+      "name": "A Square and A Cube",
+      "subject_id": "cbse_class8_mathematics",
+      "class_id": "cbse_class_8",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "a square and a cube"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_2",
+      "name": "Power Play",
+      "subject_id": "cbse_class8_mathematics",
+      "class_id": "cbse_class_8",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "power play"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_3",
+      "name": "A Story of Numbers",
+      "subject_id": "cbse_class8_mathematics",
+      "class_id": "cbse_class_8",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "a story of numbers"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_4",
+      "name": "Quadrilaterals",
+      "subject_id": "cbse_class8_mathematics",
+      "class_id": "cbse_class_8",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "quadrilaterals"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_5",
+      "name": "Number Play",
+      "subject_id": "cbse_class8_mathematics",
+      "class_id": "cbse_class_8",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "number play"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_6",
+      "name": "We Distribute, Yet Things Multiply",
+      "subject_id": "cbse_class8_mathematics",
+      "class_id": "cbse_class_8",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "we distribute, yet things multiply"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_7",
+      "name": "Proportional Reasoning-1",
+      "subject_id": "cbse_class8_mathematics",
+      "class_id": "cbse_class_8",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "proportional reasoning-1"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_1",
+      "name": "Exploring the Investigative World of Science",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 1,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "exploring the investigative world of science"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_2",
+      "name": "The Invisible Living World: Beyond Our Naked Eye",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 2,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "the invisible living world: beyond our naked eye"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_3",
+      "name": "Health: The Ultimate Treasure",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 3,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "health: the ultimate treasure"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_4",
+      "name": "Electricity: Magnetic and Heating Effects",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 4,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "electricity: magnetic and heating effects"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_5",
+      "name": "Exploring Forces",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 5,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "exploring forces"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_6",
+      "name": "Pressure, Winds and Storms",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 6,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "pressure, winds and storms"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_7",
+      "name": "Particulate Nature of Matter",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 7,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "particulate nature of matter"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_8",
+      "name": "Nature of Matter: Elements, Compounds and Mixtures",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 8,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "nature of matter: elements, compounds and mixtures"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_9",
+      "name": "Solutes, Solvents and Solutions",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 9,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "solutes, solvents and solutions"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_10",
+      "name": "Light: Mirrors and Lenses",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 10,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "light: mirrors and lenses"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_11",
+      "name": "Keeping Time with the Skies",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 11,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "keeping time with the skies"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_12",
+      "name": "How Nature Works in Harmony",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 12,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "how nature works in harmony"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_13",
+      "name": "Our Home: Earth, a Unique Life-Sustaining Planet",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 13,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "our home: earth, a unique life-sustaining planet"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_14",
+      "name": "A Universe of Stars",
+      "subject_id": "cbse_class8_science",
+      "class_id": "cbse_class_8",
+      "order": 14,
+      "description": "Chapter structure based on currently available NCERT Grade 6–8 textbook material; verify school-specific implementation.",
+      "keywords": [
+        "a universe of stars"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class6_mathematics_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_8_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_9_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_10_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_mathematics_11_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_8_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_8",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_9_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_9",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_10_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_10",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_11_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_11",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class6_science_12_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class6_science_12",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_8_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_9_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_10_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_11_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_12_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_12",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_mathematics_13_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_mathematics_13",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_8_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_8",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_9_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_9",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_10_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_10",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_11_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_11",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class7_science_12_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class7_science_12",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_mathematics_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_1_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_1",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_2_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_2",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_3_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_3",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_4_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_4",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_5_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_5",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_6_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_6",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_7_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_7",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_8_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_8",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_9_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_9",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_10_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_10",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_11_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_11",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_12_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_12",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_13_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_13",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class8_science_14_core_topics",
+      "name": "Core concepts and revision",
+      "chapter_id": "cbse_class8_science_14",
+      "order": 1,
+      "keywords": [
+        "revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class6_mathematics_1_revision_note",
+      "type": "short_note",
+      "title": "Knowing Our Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "knowing our numbers",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "cbse_class6_mathematics_2_revision_note",
+      "type": "short_note",
+      "title": "Whole Numbers",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_2",
+      "topic_id": "cbse_class6_mathematics_2_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "whole numbers",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "cbse_class7_mathematics_1_revision_note",
+      "type": "short_note",
+      "title": "Integers",
+      "subject_id": "cbse_class7_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class7_mathematics_1",
+      "topic_id": "cbse_class7_mathematics_1_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "integers",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        7
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "cbse_class7_mathematics_2_revision_note",
+      "type": "short_note",
+      "title": "Fractions and Decimals",
+      "subject_id": "cbse_class7_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class7_mathematics_2",
+      "topic_id": "cbse_class7_mathematics_2_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "fractions and decimals",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        7
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "cbse_class8_mathematics_1_revision_note",
+      "type": "short_note",
+      "title": "A Square and A Cube",
+      "subject_id": "cbse_class8_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class8_mathematics_1",
+      "topic_id": "cbse_class8_mathematics_1_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "a square and a cube",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "cbse_class8_mathematics_2_revision_note",
+      "type": "short_note",
+      "title": "Power Play",
+      "subject_id": "cbse_class8_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class8_mathematics_2",
+      "topic_id": "cbse_class8_mathematics_2_core_topics",
+      "summary": "Concise chapter revision note.",
+      "sections": [
+        {
+          "heading": "Revise in 3–5 minutes",
+          "points": [
+            "Identify the main definitions and representations.",
+            "Use correct units or notation.",
+            "Check the answer using estimation or an alternative method."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the main definitions and representations.",
+        "Use correct units or notation.",
+        "Check the answer using estimation or an alternative method."
+      ],
+      "common_mistakes": [],
+      "formula_ids": [],
+      "keywords": [
+        "power play",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "offline_learning"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Chapter-specific mapping should be checked against the final 2026-27 school adoption."
+    },
+    {
+      "id": "math_percentage",
+      "type": "formula",
+      "title": "Percentage",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "formula_latex": "Percentage = (part / whole) × 100",
+      "formula_plain": "Percentage = (Part / Whole) × 100",
+      "summary": "Percentage compares a part with the whole.",
+      "explanation": "Percentage compares a part with the whole.",
+      "variables": [],
+      "when_to_use": "Use when the whole quantity is known and the relative size of a part is required.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "percentage",
+        "Percentage = (Part / Whole) × 100"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6,
+        7,
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    },
+    {
+      "id": "math_rectangle_area",
+      "type": "formula",
+      "title": "Area of a Rectangle",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "formula_latex": "A = l \\times b",
+      "formula_plain": "A = l × b",
+      "summary": "Area is the surface covered by a rectangle.",
+      "explanation": "Area is the surface covered by a rectangle.",
+      "variables": [],
+      "when_to_use": "Use for rectangular regions.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "area of a rectangle",
+        "A = l × b"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6,
+        7,
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    },
+    {
+      "id": "math_rectangle_perimeter",
+      "type": "formula",
+      "title": "Perimeter of a Rectangle",
+      "subject_id": "cbse_class6_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class6_mathematics_1",
+      "topic_id": "cbse_class6_mathematics_1_core_topics",
+      "formula_latex": "P = 2(l+b)",
+      "formula_plain": "P = 2(l + b)",
+      "summary": "Perimeter is the total boundary length of a rectangle.",
+      "explanation": "Perimeter is the total boundary length of a rectangle.",
+      "variables": [],
+      "when_to_use": "Use for the boundary of a rectangle.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "perimeter of a rectangle",
+        "P = 2(l + b)"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        6,
+        7,
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    },
+    {
+      "id": "math_triangle_area",
+      "type": "formula",
+      "title": "Area of a Triangle",
+      "subject_id": "cbse_class7_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class7_mathematics_1",
+      "topic_id": "cbse_class7_mathematics_1_core_topics",
+      "formula_latex": "A = \\frac{1}{2} \\times b \\times h",
+      "formula_plain": "A = ½ × b × h",
+      "summary": "The area of a triangle is half the product of its base and corresponding height.",
+      "explanation": "The area of a triangle is half the product of its base and corresponding height.",
+      "variables": [],
+      "when_to_use": "Use when base and perpendicular height are known.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "area of a triangle",
+        "A = ½ × b × h"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        7,
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    },
+    {
+      "id": "math_cuboid_volume",
+      "type": "formula",
+      "title": "Volume of a Cuboid",
+      "subject_id": "cbse_class8_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class8_mathematics_1",
+      "topic_id": "cbse_class8_mathematics_1_core_topics",
+      "formula_latex": "V = l \\times b \\\times h",
+      "formula_plain": "V = l × b × h",
+      "summary": "Volume measures the space occupied by a cuboid.",
+      "explanation": "Volume measures the space occupied by a cuboid.",
+      "variables": [],
+      "when_to_use": "Use for a rectangular solid.",
+      "conditions": [
+        "Use consistent length units."
+      ],
+      "example": {
+        "question": "Find the result for simple values.",
+        "solution": "Substitute the given measurements in the formula.",
+        "answer": "The numerical answer depends on the given measurements."
+      },
+      "common_mistakes": [
+        "Mixing units.",
+        "Confusing area, perimeter and volume."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "volume of a cuboid",
+        "V = l × b × h"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": true,
+      "review_reason": "Shared formula mapping is valid, but chapter placement should be normalized during import."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q6_math_whole_numbers",
+      "type": "mcq",
+      "subject_id": "cbse_class6_mathematics",
+      "chapter_id": "cbse_class6_mathematics_2",
+      "topic_id": "cbse_class6_mathematics_2_core_topics",
+      "question": "Which number is the successor of 99?",
+      "options": [
+        {
+          "id": "A",
+          "text": "98"
+        },
+        {
+          "id": "B",
+          "text": "99"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "101"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "The successor is the next number, so 99 + 1 = 100",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 3,
+      "question_style": "numerical",
+      "classes": [
+        6
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "q7_math_integers",
+      "type": "mcq",
+      "subject_id": "cbse_class7_mathematics",
+      "chapter_id": "cbse_class7_mathematics_1",
+      "topic_id": "cbse_class7_mathematics_1_core_topics",
+      "question": "What is (-3) + 5?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-8"
+        },
+        {
+          "id": "B",
+          "text": "-2"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Adding 5 to -3 gives 2.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 3,
+      "question_style": "numerical",
+      "classes": [
+        7
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "q8_math_square",
+      "type": "mcq",
+      "subject_id": "cbse_class8_mathematics",
+      "chapter_id": "cbse_class8_mathematics_1",
+      "topic_id": "cbse_class8_mathematics_1_core_topics",
+      "question": "What is 12²?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24"
+        },
+        {
+          "id": "B",
+          "text": "124"
+        },
+        {
+          "id": "C",
+          "text": "144"
+        },
+        {
+          "id": "D",
+          "text": "244"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "12 × 12 = 144.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 3,
+      "question_style": "numerical",
+      "classes": [
+        8
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 3,
+    "total_subjects": 6,
+    "total_chapters": 69,
+    "total_topics": 69,
+    "total_content_items": 11,
+    "total_formulas": 5,
+    "total_short_notes": 6,
+    "total_definitions": 0,
+    "total_questions": 3,
+    "duplicate_ids_found": 0,
+    "broken_references_found": 0,
+    "items_needing_review": 11
+  }
+}

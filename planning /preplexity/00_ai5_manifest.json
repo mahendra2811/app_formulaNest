@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_commerce",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Commerce",
+    "subjects": [
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Accountancy Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Accountancy_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Business Studies Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/BusinessStudies_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Economics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Economics_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Applied Mathematics was not included because its official 2026-27 PDF was not confidently retrieved in this research pass; no Applied Mathematics records are invented.",
+      "The official PDFs display some legacy session labels in their extracted text; chapter mappings use the explicitly labelled Class XI/XII 2026-27 sections."
+    ]
+  },
+  "files": [
+    "01_class11_accountancy.json",
+    "02_class11_business_studies.json",
+    "03_class11_economics.json",
+    "05_class12_accountancy.json",
+    "06_class12_business_studies.json",
+    "07_class12_economics.json",
+    "09_ai5_validation.json"
+  ],
+  "omitted_files": [
+    "04_class11_applied_math_or_math.json",
+    "08_class12_applied_math_or_math.json"
+  ],
+  "omission_reason": "Applied Mathematics was not confidently verified from the official 2026-27 source during this generation pass; no unverified subject content was generated."
+}

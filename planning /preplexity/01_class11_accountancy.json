@@ -1,0 +1,678 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_commerce",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Commerce",
+    "subjects": [
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Accountancy Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Accountancy_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Business Studies Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/BusinessStudies_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Economics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Economics_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Applied Mathematics was not included because its official 2026-27 PDF was not confidently retrieved in this research pass; no Applied Mathematics records are invented.",
+      "The official PDFs display some legacy session labels in their extracted text; chapter mappings use the explicitly labelled Class XI/XII 2026-27 sections."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_accountancy",
+      "name": "Accountancy",
+      "class_id": "cbse_class_11",
+      "stream": "commerce"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_accountancy_1",
+      "name": "Theoretical Framework",
+      "subject_id": "cbse_class11_accountancy",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "theoretical framework"
+      ]
+    },
+    {
+      "id": "cbse_class11_accountancy_2",
+      "name": "Accounting Process",
+      "subject_id": "cbse_class11_accountancy",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "accounting process"
+      ]
+    },
+    {
+      "id": "cbse_class11_accountancy_3",
+      "name": "Financial Statements of Sole Proprietorship",
+      "subject_id": "cbse_class11_accountancy",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "financial statements of sole proprietorship"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_accountancy_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_accountancy_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_accountancy_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_accountancy_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_accountancy_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "accounting_equation",
+      "type": "formula",
+      "title": "Accounting Equation",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "topic_id": "cbse_class11_accountancy_2_core",
+      "summary": "Every transaction preserves the equality between assets and claims.",
+      "keywords": [
+        "accounting equation",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "A=L+C",
+      "formula_plain": "Assets = Liabilities + Capital",
+      "explanation": "Every transaction preserves the equality between assets and claims.",
+      "variables": [
+        {
+          "symbol": "A",
+          "meaning": "assets",
+          "unit": "currency"
+        },
+        {
+          "symbol": "L",
+          "meaning": "liabilities",
+          "unit": "currency"
+        },
+        {
+          "symbol": "C",
+          "meaning": "capital",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use to analyse the effect of transactions.",
+      "conditions": [
+        "Every transaction has equal debit and credit effects."
+      ],
+      "example": {
+        "question": "If liabilities are 20,000 and capital is 30,000, find assets.",
+        "solution": "A=20,000+30,000.",
+        "answer": "50,000"
+      },
+      "common_mistakes": [
+        "Treating revenue as a direct asset without considering capital effect."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "accounting_gross_profit",
+      "type": "formula",
+      "title": "Gross Profit",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_3",
+      "topic_id": "cbse_class11_accountancy_3_core",
+      "summary": "Gross profit is the surplus from trading before operating expenses.",
+      "keywords": [
+        "gross profit",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "GP=Net Sales-COGS",
+      "formula_plain": "Gross profit = Net sales − Cost of goods sold",
+      "explanation": "Gross profit is the surplus from trading before operating expenses.",
+      "variables": [
+        {
+          "symbol": "GP",
+          "meaning": "gross profit",
+          "unit": "currency"
+        },
+        {
+          "symbol": "COGS",
+          "meaning": "cost of goods sold",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use in the trading account.",
+      "conditions": [
+        "Net sales means sales less returns inward."
+      ],
+      "example": {
+        "question": "Net sales 80,000 and COGS 50,000.",
+        "solution": "GP=80,000−50,000.",
+        "answer": "30,000"
+      },
+      "common_mistakes": [
+        "Using purchases instead of COGS."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "accounting_slm_depreciation",
+      "type": "formula",
+      "title": "Straight-Line Depreciation",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "topic_id": "cbse_class11_accountancy_2_core",
+      "summary": "Equal depreciation is charged each period under SLM.",
+      "keywords": [
+        "straight-line depreciation",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "D=\\frac{Cost-Residual\\ Value}{Useful\\ Life}",
+      "formula_plain": "D = (Cost − Residual value) / Useful life",
+      "explanation": "Equal depreciation is charged each period under SLM.",
+      "variables": [
+        {
+          "symbol": "D",
+          "meaning": "annual depreciation",
+          "unit": "currency/year"
+        },
+        {
+          "symbol": "Cost",
+          "meaning": "asset cost",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use when equal periodic depreciation is appropriate.",
+      "conditions": [
+        "Useful life and residual value must be specified."
+      ],
+      "example": {
+        "question": "Cost 100,000, residual 10,000, life 9 years.",
+        "solution": "D=(100,000−10,000)/9.",
+        "answer": "10,000 per year"
+      },
+      "common_mistakes": [
+        "Ignoring residual value."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "accounting_wdv_depreciation",
+      "type": "formula",
+      "title": "Written-Down Value Depreciation",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "topic_id": "cbse_class11_accountancy_2_core",
+      "summary": "Depreciation is calculated on opening written-down value.",
+      "keywords": [
+        "written-down value depreciation",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "D_t=Opening\\ Book\\ Value\\times r",
+      "formula_plain": "D in period t = opening book value × rate",
+      "explanation": "Depreciation is calculated on opening written-down value.",
+      "variables": [
+        {
+          "symbol": "r",
+          "meaning": "depreciation rate",
+          "unit": "fraction or %"
+        }
+      ],
+      "when_to_use": "Use under WDV method.",
+      "conditions": [
+        "Rate must be applied to opening book value."
+      ],
+      "example": {
+        "question": "Opening value 50,000 at 10%.",
+        "solution": "D=50,000×0.10.",
+        "answer": "5,000"
+      },
+      "common_mistakes": [
+        "Applying the rate to original cost every year."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class11_accountancy_1_quick_revision",
+      "type": "short_note",
+      "title": "Theoretical Framework — Chapter Quick Revision",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_1",
+      "topic_id": "cbse_class11_accountancy_1_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "theoretical framework — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_accountancy_2_quick_revision",
+      "type": "short_note",
+      "title": "Accounting Process — Chapter Quick Revision",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "topic_id": "cbse_class11_accountancy_2_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "accounting process — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_accountancy_3_quick_revision",
+      "type": "short_note",
+      "title": "Financial Statements of Sole Proprietorship — Chapter Quick Revision",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_3",
+      "topic_id": "cbse_class11_accountancy_3_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "financial statements of sole proprietorship — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "entry_cash_purchase",
+      "type": "accounting_entry",
+      "title": "Cash Purchase",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "topic_id": "cbse_class11_accountancy_2_core",
+      "summary": "Recurring double-entry pattern.",
+      "keywords": [
+        "cash purchase",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "accounting_entry",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "situation": "Goods purchased for cash",
+      "debit_account": "Purchases A/c",
+      "credit_account": "Cash A/c",
+      "entry_text": "Purchases A/c Dr. To Cash A/c",
+      "explanation": "Debit the account receiving the benefit and credit the account giving the benefit according to the applicable rule.",
+      "conditions": [
+        "Record only when the stated transaction occurs."
+      ],
+      "common_mistakes": [
+        "Confusing purchases with assets purchased for business use."
+      ]
+    },
+    {
+      "id": "entry_credit_sale",
+      "type": "accounting_entry",
+      "title": "Credit Sale",
+      "subject_id": "cbse_class11_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "topic_id": "cbse_class11_accountancy_2_core",
+      "summary": "Recurring double-entry pattern.",
+      "keywords": [
+        "credit sale",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "accounting_entry",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "situation": "Goods sold on credit",
+      "debit_account": "Customer/Debtor A/c",
+      "credit_account": "Sales A/c",
+      "entry_text": "Debtor A/c Dr. To Sales A/c",
+      "explanation": "Debit the account receiving the benefit and credit the account giving the benefit according to the applicable rule.",
+      "conditions": [
+        "Record only when the stated transaction occurs."
+      ],
+      "common_mistakes": [
+        "Confusing purchases with assets purchased for business use."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_acc_equation",
+      "type": "mcq",
+      "subject_id": "cbse_class11_accountancy",
+      "chapter_id": "cbse_class11_accountancy_2",
+      "topic_id": "cbse_class11_accountancy_2_core",
+      "question": "If liabilities are ₹20,000 and capital is ₹30,000, assets equal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹10,000"
+        },
+        {
+          "id": "B",
+          "text": "₹30,000"
+        },
+        {
+          "id": "C",
+          "text": "₹50,000"
+        },
+        {
+          "id": "D",
+          "text": "₹60,000"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Assets = liabilities + capital = ₹50,000.",
+      "linked_formula_ids": [
+        "accounting_equation"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 6,
+    "total_units": 0,
+    "total_chapters": 44,
+    "total_topics": 44,
+    "total_content_items": 61,
+    "total_formulas": 13,
+    "total_short_notes": 44,
+    "total_accounting_entries": 2,
+    "total_tables": 1,
+    "total_graphs": 1,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

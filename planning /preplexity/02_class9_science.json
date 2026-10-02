@@ -1,0 +1,1080 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_9_10_math_science",
+    "board": "CBSE",
+    "classes": [
+      9,
+      10
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "CBSE Class X Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf"
+      },
+      {
+        "name": "NCERT Grade 9 Mathematics Ganita Manjari Part I, 2026",
+        "url": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf"
+      },
+      {
+        "name": "NCERT Class IX Science textbook portal",
+        "url": "https://ncert.nic.in/textbook/pdf/iesc1ps.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "The 2026 NCERT Grade 9 Mathematics textbook has a new eight-chapter structure. CBSE assessment mapping should be confirmed before production import.",
+      "The Class X Science curriculum identifies Periodic Classification, Heredity and Evolution, and certain electricity topics as formative/not assessed in the year-end examination; they remain represented with appropriate review status in downstream normalization."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_9",
+      "name": "Class 9",
+      "number": 9,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_10",
+      "name": "Class 10",
+      "number": 10,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class9_science",
+      "name": "Science",
+      "class_id": "cbse_class_9"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class9_science_1",
+      "name": "Matter in Our Surroundings",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 1,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "matter in our surroundings"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_2",
+      "name": "Is Matter Around Us Pure?",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 2,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "is matter around us pure?"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_3",
+      "name": "Atoms and Molecules",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 3,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "atoms and molecules"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_4",
+      "name": "Structure of the Atom",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 4,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "structure of the atom"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_5",
+      "name": "The Fundamental Unit of Life",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 5,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "the fundamental unit of life"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_6",
+      "name": "Tissues",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 6,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "tissues"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_7",
+      "name": "Motion",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 7,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "motion"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_8",
+      "name": "Force and Laws of Motion",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 8,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "force and laws of motion"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_9",
+      "name": "Gravitation",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 9,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "gravitation"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_10",
+      "name": "Work and Energy",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 10,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "work and energy"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_11",
+      "name": "Sound",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 11,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "sound"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_12",
+      "name": "Improvement in Food Resources",
+      "subject_id": "cbse_class9_science",
+      "class_id": "cbse_class_9",
+      "order": 12,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "improvement in food resources"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class9_science_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class9_science_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class9_science_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class9_science_1_quick_revision",
+      "type": "short_note",
+      "title": "Matter in Our Surroundings — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_1",
+      "topic_id": "cbse_class9_science_1_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "matter in our surroundings — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_2_quick_revision",
+      "type": "short_note",
+      "title": "Is Matter Around Us Pure? — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_2",
+      "topic_id": "cbse_class9_science_2_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "is matter around us pure? — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_3_quick_revision",
+      "type": "short_note",
+      "title": "Atoms and Molecules — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_3",
+      "topic_id": "cbse_class9_science_3_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "atoms and molecules — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_4_quick_revision",
+      "type": "short_note",
+      "title": "Structure of the Atom — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_4",
+      "topic_id": "cbse_class9_science_4_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "structure of the atom — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_5_quick_revision",
+      "type": "short_note",
+      "title": "The Fundamental Unit of Life — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_5",
+      "topic_id": "cbse_class9_science_5_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "the fundamental unit of life — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_6_quick_revision",
+      "type": "short_note",
+      "title": "Tissues — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_6",
+      "topic_id": "cbse_class9_science_6_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "tissues — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_7_quick_revision",
+      "type": "short_note",
+      "title": "Motion — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_7",
+      "topic_id": "cbse_class9_science_7_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "motion — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_8_quick_revision",
+      "type": "short_note",
+      "title": "Force and Laws of Motion — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_8",
+      "topic_id": "cbse_class9_science_8_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "force and laws of motion — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_9_quick_revision",
+      "type": "short_note",
+      "title": "Gravitation — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_9",
+      "topic_id": "cbse_class9_science_9_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "gravitation — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_10_quick_revision",
+      "type": "short_note",
+      "title": "Work and Energy — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_10",
+      "topic_id": "cbse_class9_science_10_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "work and energy — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_11_quick_revision",
+      "type": "short_note",
+      "title": "Sound — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_11",
+      "topic_id": "cbse_class9_science_11_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "sound — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_12_quick_revision",
+      "type": "short_note",
+      "title": "Improvement in Food Resources — Chapter Quick Revision",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_12",
+      "topic_id": "cbse_class9_science_12_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "improvement in food resources — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class9_science_5_quick_revision",
+      "type": "short_note",
+      "title": "The Fundamental Unit of Life",
+      "subject_id": "cbse_class9_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class9_science_5",
+      "topic_id": "cbse_class9_science_5_core",
+      "summary": "High-yield science revision note.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "The cell is the basic structural and functional unit of life.",
+            "The nucleus contains genetic material in eukaryotic cells.",
+            "Plant cells have a cell wall, chloroplasts and a large vacuole."
+          ]
+        }
+      ],
+      "must_remember": [
+        "The cell is the basic structural and functional unit of life.",
+        "The nucleus contains genetic material in eukaryotic cells.",
+        "Plant cells have a cell wall, chloroplasts and a large vacuole."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "the fundamental unit of life",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_sci9_motion",
+      "type": "mcq",
+      "subject_id": "cbse_class9_science",
+      "chapter_id": "cbse_class9_science_7",
+      "topic_id": "cbse_class9_science_7_core",
+      "question": "The SI unit of acceleration is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "m"
+        },
+        {
+          "id": "B",
+          "text": "m/s"
+        },
+        {
+          "id": "C",
+          "text": "m/s²"
+        },
+        {
+          "id": "D",
+          "text": "N"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Acceleration is change in velocity per unit time, measured in m/s².",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "q_sci9_cell",
+      "type": "mcq",
+      "subject_id": "cbse_class9_science",
+      "chapter_id": "cbse_class9_science_5",
+      "topic_id": "cbse_class9_science_5_core",
+      "question": "The control centre of a eukaryotic cell is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cell wall"
+        },
+        {
+          "id": "B",
+          "text": "nucleus"
+        },
+        {
+          "id": "C",
+          "text": "vacuole"
+        },
+        {
+          "id": "D",
+          "text": "ribosome"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The nucleus contains genetic material and regulates cell activities.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        9
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 4,
+    "total_chapters": 49,
+    "total_topics": 49,
+    "total_content_items": 64,
+    "total_formulas": 11,
+    "total_short_notes": 52,
+    "total_definitions": 0,
+    "total_theorems": 0,
+    "total_diagram_references": 0,
+    "total_questions": 7,
+    "duplicate_ids_found": 27,
+    "broken_references_found": 0,
+    "items_needing_review": 8
+  }
+}

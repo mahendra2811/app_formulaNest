@@ -1,0 +1,614 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_humanities",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Humanities",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Geography",
+      "Sociology",
+      "Psychology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE History Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/History_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Political Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/PoliticalScience_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Geography Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Geography_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Sociology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Sociology_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Psychology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Psychology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Economics is not duplicated because canonical Economics content is maintained by the Commerce dataset; a mapping file records this decision.",
+      "The extracted official PDFs contain some legacy session labels; explicit 2026-27 chapter structures should be checked against final school circulars before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_history",
+      "name": "History",
+      "class_id": "cbse_class_11",
+      "stream": "humanities"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_history_1",
+      "name": "Writing and City Life",
+      "subject_id": "cbse_class11_history",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "writing and city life"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_2",
+      "name": "An Empire Across Three Continents",
+      "subject_id": "cbse_class11_history",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "an empire across three continents"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_3",
+      "name": "Nomadic Empires",
+      "subject_id": "cbse_class11_history",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "nomadic empires"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_4",
+      "name": "The Three Orders",
+      "subject_id": "cbse_class11_history",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "the three orders"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_5",
+      "name": "Changing Cultural Traditions",
+      "subject_id": "cbse_class11_history",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "changing cultural traditions"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_6",
+      "name": "Displacing Indigenous Peoples",
+      "subject_id": "cbse_class11_history",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "displacing indigenous peoples"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_7",
+      "name": "Paths to Modernisation",
+      "subject_id": "cbse_class11_history",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "paths to modernisation"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_history_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_history_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_history_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_history_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_history_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_history_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_history_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_history_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_history_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class11_history_1_quick_revision",
+      "type": "short_note",
+      "title": "Writing and City Life — Chapter Quick Revision",
+      "subject_id": "cbse_class11_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_history_1",
+      "topic_id": "cbse_class11_history_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "writing and city life — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_history_2_quick_revision",
+      "type": "short_note",
+      "title": "An Empire Across Three Continents — Chapter Quick Revision",
+      "subject_id": "cbse_class11_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_history_2",
+      "topic_id": "cbse_class11_history_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "an empire across three continents — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_history_3_quick_revision",
+      "type": "short_note",
+      "title": "Nomadic Empires — Chapter Quick Revision",
+      "subject_id": "cbse_class11_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_history_3",
+      "topic_id": "cbse_class11_history_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "nomadic empires — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_history_4_quick_revision",
+      "type": "short_note",
+      "title": "The Three Orders — Chapter Quick Revision",
+      "subject_id": "cbse_class11_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_history_4",
+      "topic_id": "cbse_class11_history_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "the three orders — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_history_5_quick_revision",
+      "type": "short_note",
+      "title": "Changing Cultural Traditions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_history_5",
+      "topic_id": "cbse_class11_history_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "changing cultural traditions — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_history_6_quick_revision",
+      "type": "short_note",
+      "title": "Displacing Indigenous Peoples — Chapter Quick Revision",
+      "subject_id": "cbse_class11_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_history_6",
+      "topic_id": "cbse_class11_history_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "displacing indigenous peoples — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_history_7_quick_revision",
+      "type": "short_note",
+      "title": "Paths to Modernisation — Chapter Quick Revision",
+      "subject_id": "cbse_class11_history",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_history_7",
+      "topic_id": "cbse_class11_history_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "paths to modernisation — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    }
+  ],
+  "questions": [],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 10,
+    "total_units": 0,
+    "total_chapters": 124,
+    "total_topics": 124,
+    "total_content_items": 132,
+    "total_short_notes": 124,
+    "total_definitions": 1,
+    "total_timelines": 1,
+    "total_comparisons": 1,
+    "total_maps": 1,
+    "total_diagram_references": 0,
+    "total_formulas": 1,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

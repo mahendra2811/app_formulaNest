@@ -1,0 +1,6 @@
+{
+  "subject": "Economics",
+  "canonical_source": "cbse_classes_11_12_commerce.json",
+  "mapping_note": "Reuse canonical Economics records from the Commerce dataset where the syllabus content overlaps; do not duplicate formulas or notes.",
+  "needs_review": true
+}

@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_modern_physics",
+      "name": "Modern Physics",
+      "subject_id": "jee_main_physics",
+      "order": 11,
+      "keywords": [
+        "modern physics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_modern_physics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_physics_ref_physics_photoelectric_equation",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_photoelectric_equation",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "jee_importance": 5,
+      "jee_notes": "Frequency controls photon energy; intensity controls photon number.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_photoelectric_equation",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_de_broglie",
+      "type": "formula",
+      "title": "de Broglie Wavelength",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "formula_latex": "\\lambda=\\frac{h}{p}",
+      "formula_plain": "λ = h/p",
+      "summary": "Matter-wave wavelength associated with momentum p.",
+      "explanation": "Matter-wave wavelength associated with momentum p.",
+      "variables": [
+        {
+          "symbol": "λ",
+          "meaning": "wavelength",
+          "unit": "m"
+        },
+        {
+          "symbol": "h",
+          "meaning": "Planck constant",
+          "unit": "J s"
+        },
+        {
+          "symbol": "p",
+          "meaning": "momentum",
+          "unit": "kg m/s"
+        }
+      ],
+      "si_units": [
+        "m"
+      ],
+      "dimensions": "[L]",
+      "when_to_use": "Use for matter-wave relations.",
+      "conditions": [
+        "Relativistic corrections may be needed at very high speeds."
+      ],
+      "assumptions": [
+        "Non-relativistic form when p=mv is used."
+      ],
+      "example": {
+        "question": "If momentum doubles, λ becomes:",
+        "solution": "λ∝1/p.",
+        "answer": "Half"
+      },
+      "common_mistakes": [
+        "Using kinetic energy directly without conversion."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "de broglie wavelength",
+        "λ = h/p",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_modern_physics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Modern Physics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "modern physics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_modern_physics_graph",
+      "type": "graph",
+      "title": "Photoelectric Effect Graph",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "x_axis": "frequency",
+      "y_axis": "maximum kinetic energy",
+      "relationship": "Above threshold, maximum kinetic energy increases linearly with frequency.",
+      "interpretation": [
+        "Read slope and area according to axis definitions."
+      ],
+      "important_points": [
+        "Use consistent units."
+      ],
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_physics_q_debroglie",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "question": "If particle momentum doubles, de Broglie wavelength:",
+      "options": [
+        {
+          "id": "A",
+          "text": "doubles"
+        },
+        {
+          "id": "B",
+          "text": "halves"
+        },
+        {
+          "id": "C",
+          "text": "quadruples"
+        },
+        {
+          "id": "D",
+          "text": "unchanged"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "λ=h/p.",
+      "linked_formula_ids": [
+        "physics_de_broglie"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

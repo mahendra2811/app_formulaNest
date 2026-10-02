@@ -1,0 +1,665 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_commerce",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Commerce",
+    "subjects": [
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Accountancy Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Accountancy_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Business Studies Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/BusinessStudies_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Economics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Economics_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Applied Mathematics was not included because its official 2026-27 PDF was not confidently retrieved in this research pass; no Applied Mathematics records are invented.",
+      "The official PDFs display some legacy session labels in their extracted text; chapter mappings use the explicitly labelled Class XI/XII 2026-27 sections."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_accountancy",
+      "name": "Accountancy",
+      "class_id": "cbse_class_12",
+      "stream": "commerce"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_accountancy_1",
+      "name": "Accounting for Partnership Firms",
+      "subject_id": "cbse_class12_accountancy",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "accounting for partnership firms"
+      ]
+    },
+    {
+      "id": "cbse_class12_accountancy_2",
+      "name": "Accounting for Companies",
+      "subject_id": "cbse_class12_accountancy",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "accounting for companies"
+      ]
+    },
+    {
+      "id": "cbse_class12_accountancy_3",
+      "name": "Analysis of Financial Statements",
+      "subject_id": "cbse_class12_accountancy",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "analysis of financial statements"
+      ]
+    },
+    {
+      "id": "cbse_class12_accountancy_4",
+      "name": "Cash Flow Statement",
+      "subject_id": "cbse_class12_accountancy",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "cash flow statement"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_accountancy_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_accountancy_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_accountancy_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_accountancy_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_accountancy_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_accountancy_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_accountancy_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_accountancy_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "accounting_current_ratio",
+      "type": "formula",
+      "title": "Current Ratio",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_3",
+      "topic_id": "cbse_class12_accountancy_3_core",
+      "summary": "Measures short-term liquidity.",
+      "keywords": [
+        "current ratio",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "Current\\ Ratio=\\frac{Current\\ Assets}{Current\\ Liabilities}",
+      "formula_plain": "Current ratio = Current assets / Current liabilities",
+      "explanation": "Measures short-term liquidity.",
+      "variables": [
+        {
+          "symbol": "CA",
+          "meaning": "current assets",
+          "unit": "currency"
+        },
+        {
+          "symbol": "CL",
+          "meaning": "current liabilities",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use for liquidity analysis.",
+      "conditions": [
+        "Use comparable balance-sheet figures."
+      ],
+      "example": {
+        "question": "CA 200,000 and CL 100,000.",
+        "solution": "200,000/100,000.",
+        "answer": "2:1"
+      },
+      "common_mistakes": [
+        "Including non-current assets."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "accounting_quick_ratio",
+      "type": "formula",
+      "title": "Quick Ratio",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_3",
+      "topic_id": "cbse_class12_accountancy_3_core",
+      "summary": "Measures immediate liquidity excluding less-liquid current assets.",
+      "keywords": [
+        "quick ratio",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "Quick\\ Ratio=\\frac{Quick\\ Assets}{Current\\ Liabilities}",
+      "formula_plain": "Quick ratio = Quick assets / Current liabilities",
+      "explanation": "Measures immediate liquidity excluding less-liquid current assets.",
+      "variables": [
+        {
+          "symbol": "QA",
+          "meaning": "quick assets",
+          "unit": "currency"
+        },
+        {
+          "symbol": "CL",
+          "meaning": "current liabilities",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use for stricter liquidity analysis.",
+      "conditions": [
+        "Inventory and prepaid expenses are normally excluded from quick assets."
+      ],
+      "example": {
+        "question": "Quick assets 150,000 and CL 100,000.",
+        "solution": "150,000/100,000.",
+        "answer": "1.5:1"
+      },
+      "common_mistakes": [
+        "Using current assets as numerator."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "accounting_goodwill_average_profit",
+      "type": "formula",
+      "title": "Goodwill by Average Profit",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_1",
+      "topic_id": "cbse_class12_accountancy_1_core",
+      "summary": "Simple goodwill valuation method.",
+      "keywords": [
+        "goodwill by average profit",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "Goodwill=Average\\ Profit\\times Years\\ Purchase",
+      "formula_plain": "Goodwill = Average profit × Years’ purchase",
+      "explanation": "Simple goodwill valuation method.",
+      "variables": [
+        {
+          "symbol": "Average profit",
+          "meaning": "mean maintainable profit",
+          "unit": "currency"
+        },
+        {
+          "symbol": "Years’ purchase",
+          "meaning": "agreed multiplier",
+          "unit": "years"
+        }
+      ],
+      "when_to_use": "Use when average-profit method is specified.",
+      "conditions": [
+        "Profit figures should be adjusted when required."
+      ],
+      "example": {
+        "question": "Average profit 20,000 and 3 years’ purchase.",
+        "solution": "20,000×3.",
+        "answer": "60,000"
+      },
+      "common_mistakes": [
+        "Using total profit instead of average profit."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class12_accountancy_1_quick_revision",
+      "type": "short_note",
+      "title": "Accounting for Partnership Firms — Chapter Quick Revision",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_1",
+      "topic_id": "cbse_class12_accountancy_1_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "accounting for partnership firms — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_accountancy_2_quick_revision",
+      "type": "short_note",
+      "title": "Accounting for Companies — Chapter Quick Revision",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_2",
+      "topic_id": "cbse_class12_accountancy_2_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "accounting for companies — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_accountancy_3_quick_revision",
+      "type": "short_note",
+      "title": "Analysis of Financial Statements — Chapter Quick Revision",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_3",
+      "topic_id": "cbse_class12_accountancy_3_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "analysis of financial statements — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_accountancy_4_quick_revision",
+      "type": "short_note",
+      "title": "Cash Flow Statement — Chapter Quick Revision",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_4",
+      "topic_id": "cbse_class12_accountancy_4_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "cash flow statement — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "accounting_ratio_classification",
+      "type": "table",
+      "title": "Classification of Accounting Ratios",
+      "subject_id": "cbse_class12_accountancy",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_accountancy_3",
+      "topic_id": "cbse_class12_accountancy_3_core",
+      "summary": "Ratios grouped by purpose.",
+      "keywords": [
+        "classification of accounting ratios",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "table",
+        "formula"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Category",
+        "Examples",
+        "Main use"
+      ],
+      "rows": [
+        [
+          "Liquidity",
+          "Current ratio, Quick ratio",
+          "Short-term solvency"
+        ],
+        [
+          "Solvency",
+          "Debt-equity, Proprietary ratio",
+          "Long-term financial stability"
+        ],
+        [
+          "Activity",
+          "Inventory turnover, Receivables turnover",
+          "Efficiency"
+        ],
+        [
+          "Profitability",
+          "Gross profit, Net profit, ROI",
+          "Profit performance"
+        ]
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_acc_ratio",
+      "type": "mcq",
+      "subject_id": "cbse_class12_accountancy",
+      "chapter_id": "cbse_class12_accountancy_3",
+      "topic_id": "cbse_class12_accountancy_3_core",
+      "question": "Current assets are ₹2,00,000 and current liabilities ₹1,00,000. Current ratio is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5:1"
+        },
+        {
+          "id": "B",
+          "text": "1:1"
+        },
+        {
+          "id": "C",
+          "text": "2:1"
+        },
+        {
+          "id": "D",
+          "text": "3:1"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Current ratio = 2,00,000/1,00,000 = 2:1.",
+      "linked_formula_ids": [
+        "accounting_current_ratio"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 6,
+    "total_units": 0,
+    "total_chapters": 44,
+    "total_topics": 44,
+    "total_content_items": 61,
+    "total_formulas": 13,
+    "total_short_notes": 44,
+    "total_accounting_entries": 2,
+    "total_tables": 1,
+    "total_graphs": 1,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

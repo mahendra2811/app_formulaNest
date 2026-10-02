@@ -1,0 +1,1999 @@
+{
+  "metadata": {
+    "generated_for": "CBSE Class 6–12 Science, Commerce, Arts + JEE/NEET formula dataset",
+    "schema_version": "1.0",
+    "source_scope": "CBSE syllabus structure, NCERT chapter mapping, standard textbook formulas",
+    "notes": "Dataset constructed from master schema and prompts. Chapter/unit mapping follows current CBSE/NCERT structure where reasonably supported. Content priority given to formulas, definitions, and MCQ-ready facts.",
+    "needs_review_count": 0
+  },
+  "subjects": [
+    {
+      "id": "math_class6",
+      "name": "Mathematics",
+      "class": 6,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "science_class6",
+      "name": "Science",
+      "class": 6,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "math_class7",
+      "name": "Mathematics",
+      "class": 7,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "science_class7",
+      "name": "Science",
+      "class": 7,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "math_class8",
+      "name": "Mathematics",
+      "class": 8,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "science_class8",
+      "name": "Science",
+      "class": 8,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "math_class9",
+      "name": "Mathematics",
+      "class": 9,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "science_class9",
+      "name": "Science",
+      "class": 9,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "math_class10",
+      "name": "Mathematics",
+      "class": 10,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "science_class10",
+      "name": "Science",
+      "class": 10,
+      "board": "CBSE",
+      "stream": null
+    },
+    {
+      "id": "physics_class11",
+      "name": "Physics",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "chemistry_class11",
+      "name": "Chemistry",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "math_class11",
+      "name": "Mathematics",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "biology_class11",
+      "name": "Biology",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "physics_class12",
+      "name": "Physics",
+      "class": 12,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "chemistry_class12",
+      "name": "Chemistry",
+      "class": 12,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "math_class12",
+      "name": "Mathematics",
+      "class": 12,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "biology_class12",
+      "name": "Biology",
+      "class": 12,
+      "board": "CBSE",
+      "stream": "Science"
+    },
+    {
+      "id": "accountancy_class11",
+      "name": "Accountancy",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Commerce"
+    },
+    {
+      "id": "accountancy_class12",
+      "name": "Accountancy",
+      "class": 12,
+      "board": "CBSE",
+      "stream": "Commerce"
+    },
+    {
+      "id": "business_studies_class11",
+      "name": "Business Studies",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Commerce"
+    },
+    {
+      "id": "business_studies_class12",
+      "name": "Business Studies",
+      "class": 12,
+      "board": "CBSE",
+      "stream": "Commerce"
+    },
+    {
+      "id": "economics_class11",
+      "name": "Economics",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Commerce"
+    },
+    {
+      "id": "economics_class12",
+      "name": "Economics",
+      "class": 12,
+      "board": "CBSE",
+      "stream": "Commerce"
+    },
+    {
+      "id": "geography_class11",
+      "name": "Geography",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Arts"
+    },
+    {
+      "id": "political_science_class11",
+      "name": "Political Science",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Arts"
+    },
+    {
+      "id": "history_class11",
+      "name": "History",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Arts"
+    },
+    {
+      "id": "sociology_class11",
+      "name": "Sociology",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Arts"
+    },
+    {
+      "id": "psychology_class11",
+      "name": "Psychology",
+      "class": 11,
+      "board": "CBSE",
+      "stream": "Arts"
+    }
+  ],
+  "units": [
+    {
+      "id": "math_class6_unit_number_system",
+      "subject_id": "math_class6",
+      "name": "Number System and Patterns"
+    },
+    {
+      "id": "math_class6_unit_geometry",
+      "subject_id": "math_class6",
+      "name": "Geometry"
+    },
+    {
+      "id": "math_class6_unit_mensuration",
+      "subject_id": "math_class6",
+      "name": "Mensuration"
+    },
+    {
+      "id": "math_class6_unit_data_handling",
+      "subject_id": "math_class6",
+      "name": "Data Handling"
+    },
+    {
+      "id": "science_class6_unit_food",
+      "subject_id": "science_class6",
+      "name": "Food and Nutrition"
+    },
+    {
+      "id": "science_class6_unit_materials",
+      "subject_id": "science_class6",
+      "name": "Materials and Their Properties"
+    },
+    {
+      "id": "science_class6_unit_living_world",
+      "subject_id": "science_class6",
+      "name": "The Living World"
+    },
+    {
+      "id": "science_class6_unit_motion_light_electricity",
+      "subject_id": "science_class6",
+      "name": "Motion, Light, Electricity and Magnets"
+    },
+    {
+      "id": "science_class6_unit_natural_resources",
+      "subject_id": "science_class6",
+      "name": "Natural Resources"
+    },
+    {
+      "id": "math_class7_unit_integers_fractions",
+      "subject_id": "math_class7",
+      "name": "Integers, Fractions and Rational Numbers"
+    },
+    {
+      "id": "math_class7_unit_algebra",
+      "subject_id": "math_class7",
+      "name": "Algebra"
+    },
+    {
+      "id": "math_class7_unit_geometry_mensuration",
+      "subject_id": "math_class7",
+      "name": "Geometry and Mensuration"
+    },
+    {
+      "id": "math_class7_unit_data_handling",
+      "subject_id": "math_class7",
+      "name": "Data Handling"
+    },
+    {
+      "id": "science_class7_unit_heat",
+      "subject_id": "science_class7",
+      "name": "Heat"
+    },
+    {
+      "id": "science_class7_unit_motion_time",
+      "subject_id": "science_class7",
+      "name": "Motion and Time"
+    },
+    {
+      "id": "science_class7_unit_electricity_light",
+      "subject_id": "science_class7",
+      "name": "Electricity and Light"
+    },
+    {
+      "id": "science_class7_unit_chemistry_basics",
+      "subject_id": "science_class7",
+      "name": "Chemistry Basics"
+    },
+    {
+      "id": "science_class7_unit_biology",
+      "subject_id": "science_class7",
+      "name": "Biology"
+    },
+    {
+      "id": "math_class8_unit_rational_linear",
+      "subject_id": "math_class8",
+      "name": "Rational Numbers and Linear Equations"
+    },
+    {
+      "id": "math_class8_unit_geometry",
+      "subject_id": "math_class8",
+      "name": "Geometry"
+    },
+    {
+      "id": "math_class8_unit_algebra_identities",
+      "subject_id": "math_class8",
+      "name": "Algebra and Identities"
+    },
+    {
+      "id": "math_class8_unit_mensuration",
+      "subject_id": "math_class8",
+      "name": "Mensuration"
+    },
+    {
+      "id": "math_class8_unit_data_graphs",
+      "subject_id": "math_class8",
+      "name": "Data Handling and Graphs"
+    },
+    {
+      "id": "science_class8_unit_crop_microbes",
+      "subject_id": "science_class8",
+      "name": "Crop Production and Microorganisms"
+    },
+    {
+      "id": "science_class8_unit_materials_metals",
+      "subject_id": "science_class8",
+      "name": "Materials and Metals"
+    },
+    {
+      "id": "science_class8_unit_force_pressure_sound",
+      "subject_id": "science_class8",
+      "name": "Force, Pressure, Friction and Sound"
+    },
+    {
+      "id": "science_class8_unit_light_current",
+      "subject_id": "science_class8",
+      "name": "Light and Electric Current"
+    },
+    {
+      "id": "math_class9_unit_number_system",
+      "subject_id": "math_class9",
+      "name": "Number Systems"
+    },
+    {
+      "id": "math_class9_unit_algebra",
+      "subject_id": "math_class9",
+      "name": "Algebra"
+    },
+    {
+      "id": "math_class9_unit_geometry",
+      "subject_id": "math_class9",
+      "name": "Geometry"
+    },
+    {
+      "id": "math_class9_unit_mensuration_stats_prob",
+      "subject_id": "math_class9",
+      "name": "Mensuration, Statistics and Probability"
+    },
+    {
+      "id": "science_class9_unit_matter",
+      "subject_id": "science_class9",
+      "name": "Matter - Nature and Behaviour"
+    },
+    {
+      "id": "science_class9_unit_living_world",
+      "subject_id": "science_class9",
+      "name": "Organization in the Living World"
+    },
+    {
+      "id": "science_class9_unit_motion_force_work",
+      "subject_id": "science_class9",
+      "name": "Motion, Force and Work"
+    },
+    {
+      "id": "math_class10_unit_number_algebra",
+      "subject_id": "math_class10",
+      "name": "Number Systems and Algebra"
+    },
+    {
+      "id": "math_class10_unit_geometry_trig",
+      "subject_id": "math_class10",
+      "name": "Geometry and Trigonometry"
+    },
+    {
+      "id": "math_class10_unit_mensuration_stats_prob",
+      "subject_id": "math_class10",
+      "name": "Mensuration, Statistics and Probability"
+    },
+    {
+      "id": "science_class10_unit_chemical_substances",
+      "subject_id": "science_class10",
+      "name": "Chemical Substances - Nature and Behaviour"
+    },
+    {
+      "id": "science_class10_unit_world_living",
+      "subject_id": "science_class10",
+      "name": "World of Living"
+    },
+    {
+      "id": "science_class10_unit_natural_phenomena",
+      "subject_id": "science_class10",
+      "name": "Natural Phenomena"
+    },
+    {
+      "id": "science_class10_unit_natural_resources",
+      "subject_id": "science_class10",
+      "name": "Natural Resources"
+    },
+    {
+      "id": "physics_class11_unit_mechanics",
+      "subject_id": "physics_class11",
+      "name": "Mechanics"
+    },
+    {
+      "id": "physics_class11_unit_properties_matter",
+      "subject_id": "physics_class11",
+      "name": "Properties of Bulk Matter"
+    },
+    {
+      "id": "physics_class11_unit_thermo_kinetic",
+      "subject_id": "physics_class11",
+      "name": "Thermodynamics and Kinetic Theory"
+    },
+    {
+      "id": "physics_class11_unit_oscillations_waves",
+      "subject_id": "physics_class11",
+      "name": "Oscillations and Waves"
+    },
+    {
+      "id": "chemistry_class11_unit_physical",
+      "subject_id": "chemistry_class11",
+      "name": "Physical Chemistry"
+    },
+    {
+      "id": "chemistry_class11_unit_organic",
+      "subject_id": "chemistry_class11",
+      "name": "Organic Chemistry"
+    },
+    {
+      "id": "chemistry_class11_unit_inorganic",
+      "subject_id": "chemistry_class11",
+      "name": "Inorganic Chemistry"
+    },
+    {
+      "id": "math_class11_unit_sets_functions",
+      "subject_id": "math_class11",
+      "name": "Sets and Functions"
+    },
+    {
+      "id": "math_class11_unit_algebra",
+      "subject_id": "math_class11",
+      "name": "Algebra"
+    },
+    {
+      "id": "math_class11_unit_coordinate_geometry",
+      "subject_id": "math_class11",
+      "name": "Coordinate Geometry"
+    },
+    {
+      "id": "math_class11_unit_calculus",
+      "subject_id": "math_class11",
+      "name": "Calculus"
+    },
+    {
+      "id": "math_class11_unit_statistics_probability",
+      "subject_id": "math_class11",
+      "name": "Statistics and Probability"
+    },
+    {
+      "id": "biology_class11_unit_diversity",
+      "subject_id": "biology_class11",
+      "name": "Diversity in the Living World"
+    },
+    {
+      "id": "biology_class11_unit_structural_organisation",
+      "subject_id": "biology_class11",
+      "name": "Structural Organisation in Plants and Animals"
+    },
+    {
+      "id": "biology_class11_unit_cell",
+      "subject_id": "biology_class11",
+      "name": "Cell: Structure and Function"
+    },
+    {
+      "id": "biology_class11_unit_plant_physiology",
+      "subject_id": "biology_class11",
+      "name": "Plant Physiology"
+    },
+    {
+      "id": "biology_class11_unit_human_physiology",
+      "subject_id": "biology_class11",
+      "name": "Human Physiology"
+    },
+    {
+      "id": "physics_class12_unit_electrostatics",
+      "subject_id": "physics_class12",
+      "name": "Electrostatics"
+    },
+    {
+      "id": "physics_class12_unit_current_electricity",
+      "subject_id": "physics_class12",
+      "name": "Current Electricity"
+    },
+    {
+      "id": "physics_class12_unit_magnetism",
+      "subject_id": "physics_class12",
+      "name": "Magnetic Effects of Current and Magnetism"
+    },
+    {
+      "id": "physics_class12_unit_emi_ac",
+      "subject_id": "physics_class12",
+      "name": "Electromagnetic Induction and Alternating Currents"
+    },
+    {
+      "id": "physics_class12_unit_em_waves",
+      "subject_id": "physics_class12",
+      "name": "Electromagnetic Waves"
+    },
+    {
+      "id": "physics_class12_unit_optics",
+      "subject_id": "physics_class12",
+      "name": "Optics"
+    },
+    {
+      "id": "physics_class12_unit_dual_nature",
+      "subject_id": "physics_class12",
+      "name": "Dual Nature of Radiation and Matter"
+    },
+    {
+      "id": "physics_class12_unit_atoms_nuclei",
+      "subject_id": "physics_class12",
+      "name": "Atoms and Nuclei"
+    },
+    {
+      "id": "physics_class12_unit_electronic_devices",
+      "subject_id": "physics_class12",
+      "name": "Electronic Devices"
+    },
+    {
+      "id": "chemistry_class12_unit_physical",
+      "subject_id": "chemistry_class12",
+      "name": "Physical Chemistry"
+    },
+    {
+      "id": "chemistry_class12_unit_inorganic",
+      "subject_id": "chemistry_class12",
+      "name": "Inorganic Chemistry"
+    },
+    {
+      "id": "chemistry_class12_unit_organic",
+      "subject_id": "chemistry_class12",
+      "name": "Organic Chemistry"
+    },
+    {
+      "id": "math_class12_unit_relations_functions",
+      "subject_id": "math_class12",
+      "name": "Relations and Functions"
+    },
+    {
+      "id": "math_class12_unit_algebra",
+      "subject_id": "math_class12",
+      "name": "Algebra"
+    },
+    {
+      "id": "math_class12_unit_calculus",
+      "subject_id": "math_class12",
+      "name": "Calculus"
+    },
+    {
+      "id": "math_class12_unit_vectors_3d",
+      "subject_id": "math_class12",
+      "name": "Vectors and Three-Dimensional Geometry"
+    },
+    {
+      "id": "math_class12_unit_lpp_probability",
+      "subject_id": "math_class12",
+      "name": "Linear Programming and Probability"
+    },
+    {
+      "id": "biology_class12_unit_reproduction",
+      "subject_id": "biology_class12",
+      "name": "Reproduction"
+    },
+    {
+      "id": "biology_class12_unit_genetics_evolution",
+      "subject_id": "biology_class12",
+      "name": "Genetics and Evolution"
+    },
+    {
+      "id": "biology_class12_unit_biology_human_welfare",
+      "subject_id": "biology_class12",
+      "name": "Biology and Human Welfare"
+    },
+    {
+      "id": "biology_class12_unit_biotechnology",
+      "subject_id": "biology_class12",
+      "name": "Biotechnology and Its Applications"
+    },
+    {
+      "id": "biology_class12_unit_ecology",
+      "subject_id": "biology_class12",
+      "name": "Ecology and Environment"
+    },
+    {
+      "id": "accountancy_class12_unit_financial_statements",
+      "subject_id": "accountancy_class12",
+      "name": "Financial Statement Analysis"
+    },
+    {
+      "id": "accountancy_class12_unit_partnership",
+      "subject_id": "accountancy_class12",
+      "name": "Accounting for Partnership Firms"
+    },
+    {
+      "id": "accountancy_class12_unit_company_accounts",
+      "subject_id": "accountancy_class12",
+      "name": "Company Accounts and Analysis"
+    },
+    {
+      "id": "economics_class12_unit_micro",
+      "subject_id": "economics_class12",
+      "name": "Introductory Microeconomics"
+    },
+    {
+      "id": "economics_class12_unit_macro",
+      "subject_id": "economics_class12",
+      "name": "Introductory Macroeconomics"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "math_class6_ch_patterns",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_number_system",
+      "name": "Patterns in Mathematics"
+    },
+    {
+      "id": "math_class6_ch_lines_angles",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_geometry",
+      "name": "Lines and Angles"
+    },
+    {
+      "id": "math_class6_ch_number_play",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_number_system",
+      "name": "Number Play"
+    },
+    {
+      "id": "math_class6_ch_data_handling",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_data_handling",
+      "name": "Data Handling and Presentation"
+    },
+    {
+      "id": "math_class6_ch_prime_time",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_number_system",
+      "name": "Prime Time"
+    },
+    {
+      "id": "math_class6_ch_perimeter_area",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_mensuration",
+      "name": "Perimeter and Area"
+    },
+    {
+      "id": "math_class6_ch_fractions",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_number_system",
+      "name": "Fractions"
+    },
+    {
+      "id": "math_class6_ch_constructions",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_geometry",
+      "name": "Playing with Constructions"
+    },
+    {
+      "id": "math_class6_ch_symmetry",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_geometry",
+      "name": "Symmetry"
+    },
+    {
+      "id": "math_class6_ch_integers",
+      "subject_id": "math_class6",
+      "unit_id": "math_class6_unit_number_system",
+      "name": "The Other Side of Zero"
+    },
+    {
+      "id": "science_class6_ch_food_sources",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_food",
+      "name": "Food: Where Does It Come From"
+    },
+    {
+      "id": "science_class6_ch_components_food",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_food",
+      "name": "Components of Food"
+    },
+    {
+      "id": "science_class6_ch_sorting_materials",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_materials",
+      "name": "Sorting Materials into Groups"
+    },
+    {
+      "id": "science_class6_ch_separation",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_materials",
+      "name": "Separation of Substances"
+    },
+    {
+      "id": "science_class6_ch_changes",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_materials",
+      "name": "Changes Around Us"
+    },
+    {
+      "id": "science_class6_ch_plants",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_living_world",
+      "name": "Getting to Know Plants"
+    },
+    {
+      "id": "science_class6_ch_body_movements",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_living_world",
+      "name": "Body Movements"
+    },
+    {
+      "id": "science_class6_ch_living_surroundings",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_living_world",
+      "name": "The Living Organisms and Their Surroundings"
+    },
+    {
+      "id": "science_class6_ch_motion_measurement",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_motion_light_electricity",
+      "name": "Motion and Measurement of Distances"
+    },
+    {
+      "id": "science_class6_ch_light_shadows",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_motion_light_electricity",
+      "name": "Light, Shadows and Reflection"
+    },
+    {
+      "id": "science_class6_ch_electricity_circuits",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_motion_light_electricity",
+      "name": "Electricity and Circuits"
+    },
+    {
+      "id": "science_class6_ch_magnets",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_motion_light_electricity",
+      "name": "Fun with Magnets"
+    },
+    {
+      "id": "science_class6_ch_water",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_natural_resources",
+      "name": "Water"
+    },
+    {
+      "id": "science_class6_ch_air",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_natural_resources",
+      "name": "Air Around Us"
+    },
+    {
+      "id": "science_class6_ch_garbage",
+      "subject_id": "science_class6",
+      "unit_id": "science_class6_unit_natural_resources",
+      "name": "Garbage In, Garbage Out"
+    },
+    {
+      "id": "math_class7_ch_integers",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_integers_fractions",
+      "name": "Integers"
+    },
+    {
+      "id": "math_class7_ch_fractions_decimals",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_integers_fractions",
+      "name": "Fractions and Decimals"
+    },
+    {
+      "id": "math_class7_ch_rational_numbers",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_integers_fractions",
+      "name": "Rational Numbers"
+    },
+    {
+      "id": "math_class7_ch_simple_equations",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_algebra",
+      "name": "Simple Equations"
+    },
+    {
+      "id": "math_class7_ch_ratio_proportion",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_algebra",
+      "name": "Ratio and Proportion"
+    },
+    {
+      "id": "math_class7_ch_percentage",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_algebra",
+      "name": "Percentage"
+    },
+    {
+      "id": "math_class7_ch_algebraic_expressions",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_algebra",
+      "name": "Algebraic Expressions"
+    },
+    {
+      "id": "math_class7_ch_exponents",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_algebra",
+      "name": "Exponents and Powers"
+    },
+    {
+      "id": "math_class7_ch_lines_angles",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_geometry_mensuration",
+      "name": "Lines and Angles"
+    },
+    {
+      "id": "math_class7_ch_triangles",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_geometry_mensuration",
+      "name": "The Triangle and Its Properties"
+    },
+    {
+      "id": "math_class7_ch_congruence",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_geometry_mensuration",
+      "name": "Congruence of Triangles"
+    },
+    {
+      "id": "math_class7_ch_symmetry",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_geometry_mensuration",
+      "name": "Symmetry"
+    },
+    {
+      "id": "math_class7_ch_perimeter_area",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_geometry_mensuration",
+      "name": "Perimeter and Area"
+    },
+    {
+      "id": "math_class7_ch_data_handling",
+      "subject_id": "math_class7",
+      "unit_id": "math_class7_unit_data_handling",
+      "name": "Data Handling"
+    },
+    {
+      "id": "science_class7_ch_heat",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_heat",
+      "name": "Heat"
+    },
+    {
+      "id": "science_class7_ch_motion_time",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_motion_time",
+      "name": "Motion and Time"
+    },
+    {
+      "id": "science_class7_ch_electric_current",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_electricity_light",
+      "name": "Electric Current and Its Effects"
+    },
+    {
+      "id": "science_class7_ch_light",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_electricity_light",
+      "name": "Light"
+    },
+    {
+      "id": "science_class7_ch_acids_bases",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_chemistry_basics",
+      "name": "Acids, Bases and Salts"
+    },
+    {
+      "id": "science_class7_ch_physical_chemical_changes",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_chemistry_basics",
+      "name": "Physical and Chemical Changes"
+    },
+    {
+      "id": "science_class7_ch_nutrition_plants",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_biology",
+      "name": "Nutrition in Plants"
+    },
+    {
+      "id": "science_class7_ch_nutrition_animals",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_biology",
+      "name": "Nutrition in Animals"
+    },
+    {
+      "id": "science_class7_ch_respiration",
+      "subject_id": "science_class7",
+      "unit_id": "science_class7_unit_biology",
+      "name": "Respiration in Organisms"
+    },
+    {
+      "id": "math_class8_ch_rational_numbers",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_rational_linear",
+      "name": "Rational Numbers"
+    },
+    {
+      "id": "math_class8_ch_linear_equations",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_rational_linear",
+      "name": "Linear Equations in One Variable"
+    },
+    {
+      "id": "math_class8_ch_quadrilaterals",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_geometry",
+      "name": "Understanding Quadrilaterals"
+    },
+    {
+      "id": "math_class8_ch_practical_geometry",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_geometry",
+      "name": "Practical Geometry"
+    },
+    {
+      "id": "math_class8_ch_squares_cubes",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_algebra_identities",
+      "name": "Squares and Square Roots, Cubes and Cube Roots"
+    },
+    {
+      "id": "math_class8_ch_algebraic_expressions",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_algebra_identities",
+      "name": "Algebraic Expressions and Identities"
+    },
+    {
+      "id": "math_class8_ch_factorisation",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_algebra_identities",
+      "name": "Factorisation"
+    },
+    {
+      "id": "math_class8_ch_mensuration",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_mensuration",
+      "name": "Mensuration"
+    },
+    {
+      "id": "math_class8_ch_exponents",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_algebra_identities",
+      "name": "Exponents and Powers"
+    },
+    {
+      "id": "math_class8_ch_direct_inverse",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_algebra_identities",
+      "name": "Direct and Inverse Proportions"
+    },
+    {
+      "id": "math_class8_ch_data_graphs",
+      "subject_id": "math_class8",
+      "unit_id": "math_class8_unit_data_graphs",
+      "name": "Data Handling and Introduction to Graphs"
+    },
+    {
+      "id": "science_class8_ch_crop_production",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_crop_microbes",
+      "name": "Crop Production and Management"
+    },
+    {
+      "id": "science_class8_ch_microorganisms",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_crop_microbes",
+      "name": "Microorganisms: Friend and Foe"
+    },
+    {
+      "id": "science_class8_ch_synthetic_fibres",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_materials_metals",
+      "name": "Synthetic Fibres and Plastics"
+    },
+    {
+      "id": "science_class8_ch_metals_nonmetals",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_materials_metals",
+      "name": "Materials: Metals and Non-Metals"
+    },
+    {
+      "id": "science_class8_ch_coal_petroleum",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_materials_metals",
+      "name": "Coal and Petroleum"
+    },
+    {
+      "id": "science_class8_ch_combustion",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_materials_metals",
+      "name": "Combustion and Flame"
+    },
+    {
+      "id": "science_class8_ch_cell",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_crop_microbes",
+      "name": "Cell Structure and Functions"
+    },
+    {
+      "id": "science_class8_ch_reproduction",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_crop_microbes",
+      "name": "Reproduction in Animals"
+    },
+    {
+      "id": "science_class8_ch_force_pressure",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_force_pressure_sound",
+      "name": "Force and Pressure"
+    },
+    {
+      "id": "science_class8_ch_friction",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_force_pressure_sound",
+      "name": "Friction"
+    },
+    {
+      "id": "science_class8_ch_sound",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_force_pressure_sound",
+      "name": "Sound"
+    },
+    {
+      "id": "science_class8_ch_light",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_light_current",
+      "name": "Light"
+    },
+    {
+      "id": "science_class8_ch_electric_current",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_light_current",
+      "name": "Chemical Effects of Electric Current"
+    },
+    {
+      "id": "science_class8_ch_stars_solar_system",
+      "subject_id": "science_class8",
+      "unit_id": "science_class8_unit_light_current",
+      "name": "Stars and the Solar System"
+    },
+    {
+      "id": "math_class9_ch_number_systems",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_number_system",
+      "name": "Number Systems"
+    },
+    {
+      "id": "math_class9_ch_polynomials",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_algebra",
+      "name": "Polynomials"
+    },
+    {
+      "id": "math_class9_ch_coordinate_geometry",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_algebra",
+      "name": "Coordinate Geometry"
+    },
+    {
+      "id": "math_class9_ch_linear_equations",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_algebra",
+      "name": "Linear Equations in Two Variables"
+    },
+    {
+      "id": "math_class9_ch_euclid_geometry",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_geometry",
+      "name": "Introduction to Euclid's Geometry"
+    },
+    {
+      "id": "math_class9_ch_lines_angles",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_geometry",
+      "name": "Lines and Angles"
+    },
+    {
+      "id": "math_class9_ch_triangles",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_geometry",
+      "name": "Triangles"
+    },
+    {
+      "id": "math_class9_ch_quadrilaterals",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_geometry",
+      "name": "Quadrilaterals"
+    },
+    {
+      "id": "math_class9_ch_circles",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_geometry",
+      "name": "Circles"
+    },
+    {
+      "id": "math_class9_ch_herons_formula",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_mensuration_stats_prob",
+      "name": "Heron's Formula"
+    },
+    {
+      "id": "math_class9_ch_surface_area_volume",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_mensuration_stats_prob",
+      "name": "Surface Areas and Volumes"
+    },
+    {
+      "id": "math_class9_ch_statistics",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_mensuration_stats_prob",
+      "name": "Statistics"
+    },
+    {
+      "id": "math_class9_ch_probability",
+      "subject_id": "math_class9",
+      "unit_id": "math_class9_unit_mensuration_stats_prob",
+      "name": "Probability"
+    },
+    {
+      "id": "science_class9_ch_matter_surroundings",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_matter",
+      "name": "Matter in Our Surroundings"
+    },
+    {
+      "id": "science_class9_ch_is_matter_pure",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_matter",
+      "name": "Is Matter Around Us Pure"
+    },
+    {
+      "id": "science_class9_ch_atoms_molecules",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_matter",
+      "name": "Atoms and Molecules"
+    },
+    {
+      "id": "science_class9_ch_structure_atom",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_matter",
+      "name": "Structure of the Atom"
+    },
+    {
+      "id": "science_class9_ch_cell",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_living_world",
+      "name": "The Fundamental Unit of Life"
+    },
+    {
+      "id": "science_class9_ch_tissues",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_living_world",
+      "name": "Tissues"
+    },
+    {
+      "id": "science_class9_ch_diversity",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_living_world",
+      "name": "Diversity in Living Organisms"
+    },
+    {
+      "id": "science_class9_ch_motion",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_motion_force_work",
+      "name": "Motion"
+    },
+    {
+      "id": "science_class9_ch_force_laws",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_motion_force_work",
+      "name": "Force and Laws of Motion"
+    },
+    {
+      "id": "science_class9_ch_gravitation",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_motion_force_work",
+      "name": "Gravitation"
+    },
+    {
+      "id": "science_class9_ch_work_energy",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_motion_force_work",
+      "name": "Work and Energy"
+    },
+    {
+      "id": "science_class9_ch_sound",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_motion_force_work",
+      "name": "Sound"
+    },
+    {
+      "id": "science_class9_ch_improvement_food",
+      "subject_id": "science_class9",
+      "unit_id": "science_class9_unit_living_world",
+      "name": "Improvement in Food Resources"
+    },
+    {
+      "id": "math_class10_ch_real_numbers",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_number_algebra",
+      "name": "Real Numbers"
+    },
+    {
+      "id": "math_class10_ch_polynomials",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_number_algebra",
+      "name": "Polynomials"
+    },
+    {
+      "id": "math_class10_ch_linear_equations",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_number_algebra",
+      "name": "Pair of Linear Equations in Two Variables"
+    },
+    {
+      "id": "math_class10_ch_quadratic_equations",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_number_algebra",
+      "name": "Quadratic Equations"
+    },
+    {
+      "id": "math_class10_ch_arithmetic_progressions",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_number_algebra",
+      "name": "Arithmetic Progressions"
+    },
+    {
+      "id": "math_class10_ch_triangles",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_geometry_trig",
+      "name": "Triangles"
+    },
+    {
+      "id": "math_class10_ch_coordinate_geometry",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_geometry_trig",
+      "name": "Coordinate Geometry"
+    },
+    {
+      "id": "math_class10_ch_trigonometry",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_geometry_trig",
+      "name": "Introduction to Trigonometry"
+    },
+    {
+      "id": "math_class10_ch_applications_trig",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_geometry_trig",
+      "name": "Some Applications of Trigonometry"
+    },
+    {
+      "id": "math_class10_ch_circles",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_geometry_trig",
+      "name": "Circles"
+    },
+    {
+      "id": "math_class10_ch_areas_circles",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_mensuration_stats_prob",
+      "name": "Areas Related to Circles"
+    },
+    {
+      "id": "math_class10_ch_surface_area_volume",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_mensuration_stats_prob",
+      "name": "Surface Areas and Volumes"
+    },
+    {
+      "id": "math_class10_ch_statistics",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_mensuration_stats_prob",
+      "name": "Statistics"
+    },
+    {
+      "id": "math_class10_ch_probability",
+      "subject_id": "math_class10",
+      "unit_id": "math_class10_unit_mensuration_stats_prob",
+      "name": "Probability"
+    },
+    {
+      "id": "science_class10_ch_chemical_reactions",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_chemical_substances",
+      "name": "Chemical Reactions and Equations"
+    },
+    {
+      "id": "science_class10_ch_acids_bases_salts",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_chemical_substances",
+      "name": "Acids, Bases and Salts"
+    },
+    {
+      "id": "science_class10_ch_metals_nonmetals",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_chemical_substances",
+      "name": "Metals and Non-metals"
+    },
+    {
+      "id": "science_class10_ch_carbon_compounds",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_chemical_substances",
+      "name": "Carbon and Its Compounds"
+    },
+    {
+      "id": "science_class10_ch_periodic_classification",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_chemical_substances",
+      "name": "Periodic Classification of Elements"
+    },
+    {
+      "id": "science_class10_ch_life_processes",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_world_living",
+      "name": "Life Processes"
+    },
+    {
+      "id": "science_class10_ch_control_coordination",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_world_living",
+      "name": "Control and Coordination"
+    },
+    {
+      "id": "science_class10_ch_reproduction",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_world_living",
+      "name": "How Do Organisms Reproduce"
+    },
+    {
+      "id": "science_class10_ch_heredity_evolution",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_world_living",
+      "name": "Heredity and Evolution"
+    },
+    {
+      "id": "science_class10_ch_light_reflection_refraction",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_natural_phenomena",
+      "name": "Light – Reflection and Refraction"
+    },
+    {
+      "id": "science_class10_ch_human_eye",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_natural_phenomena",
+      "name": "The Human Eye and the Colourful World"
+    },
+    {
+      "id": "science_class10_ch_electricity",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_natural_phenomena",
+      "name": "Electricity"
+    },
+    {
+      "id": "science_class10_ch_magnetic_effects",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_natural_phenomena",
+      "name": "Magnetic Effects of Electric Current"
+    },
+    {
+      "id": "science_class10_ch_sources_energy",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_natural_resources",
+      "name": "Sources of Energy"
+    },
+    {
+      "id": "science_class10_ch_environment",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_natural_resources",
+      "name": "Our Environment"
+    },
+    {
+      "id": "science_class10_ch_management_resources",
+      "subject_id": "science_class10",
+      "unit_id": "science_class10_unit_natural_resources",
+      "name": "Sustainable Management of Natural Resources"
+    },
+    {
+      "id": "physics_class11_ch_units_dimensions",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_mechanics",
+      "name": "Units and Measurements"
+    },
+    {
+      "id": "physics_class11_ch_kinematics",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_mechanics",
+      "name": "Motion in a Straight Line"
+    },
+    {
+      "id": "physics_class11_ch_motion_plane",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_mechanics",
+      "name": "Motion in a Plane"
+    },
+    {
+      "id": "physics_class11_ch_laws_motion",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_mechanics",
+      "name": "Laws of Motion"
+    },
+    {
+      "id": "physics_class11_ch_work_energy_power",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_mechanics",
+      "name": "Work, Energy and Power"
+    },
+    {
+      "id": "physics_class11_ch_rotational_motion",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_mechanics",
+      "name": "System of Particles and Rotational Motion"
+    },
+    {
+      "id": "physics_class11_ch_gravitation",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_mechanics",
+      "name": "Gravitation"
+    },
+    {
+      "id": "physics_class11_ch_mechanical_properties_solids",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_properties_matter",
+      "name": "Mechanical Properties of Solids"
+    },
+    {
+      "id": "physics_class11_ch_mechanical_properties_fluids",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_properties_matter",
+      "name": "Mechanical Properties of Fluids"
+    },
+    {
+      "id": "physics_class11_ch_thermal_properties",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_thermo_kinetic",
+      "name": "Thermal Properties of Matter"
+    },
+    {
+      "id": "physics_class11_ch_thermodynamics",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_thermo_kinetic",
+      "name": "Thermodynamics"
+    },
+    {
+      "id": "physics_class11_ch_kinetic_theory",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_thermo_kinetic",
+      "name": "Kinetic Theory of Gases"
+    },
+    {
+      "id": "physics_class11_ch_oscillations",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_oscillations_waves",
+      "name": "Oscillations"
+    },
+    {
+      "id": "physics_class11_ch_waves",
+      "subject_id": "physics_class11",
+      "unit_id": "physics_class11_unit_oscillations_waves",
+      "name": "Waves"
+    },
+    {
+      "id": "chemistry_class11_ch_basic_concepts",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_physical",
+      "name": "Some Basic Concepts of Chemistry"
+    },
+    {
+      "id": "chemistry_class11_ch_structure_atom",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_physical",
+      "name": "Structure of Atom"
+    },
+    {
+      "id": "chemistry_class11_ch_periodicity",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_inorganic",
+      "name": "Classification of Elements and Periodicity"
+    },
+    {
+      "id": "chemistry_class11_ch_chemical_bonding",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_inorganic",
+      "name": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "id": "chemistry_class11_ch_thermodynamics",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_physical",
+      "name": "Chemical Thermodynamics"
+    },
+    {
+      "id": "chemistry_class11_ch_equilibrium",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_physical",
+      "name": "Equilibrium"
+    },
+    {
+      "id": "chemistry_class11_ch_redox",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_physical",
+      "name": "Redox Reactions"
+    },
+    {
+      "id": "chemistry_class11_ch_organic_basics",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_organic",
+      "name": "Organic Chemistry: Basic Principles and Techniques"
+    },
+    {
+      "id": "chemistry_class11_ch_hydrocarbons",
+      "subject_id": "chemistry_class11",
+      "unit_id": "chemistry_class11_unit_organic",
+      "name": "Hydrocarbons"
+    },
+    {
+      "id": "math_class11_ch_sets",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_sets_functions",
+      "name": "Sets"
+    },
+    {
+      "id": "math_class11_ch_relations_functions",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_sets_functions",
+      "name": "Relations and Functions"
+    },
+    {
+      "id": "math_class11_ch_trigonometric_functions",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_sets_functions",
+      "name": "Trigonometric Functions"
+    },
+    {
+      "id": "math_class11_ch_complex_numbers",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_algebra",
+      "name": "Complex Numbers and Quadratic Equations"
+    },
+    {
+      "id": "math_class11_ch_linear_inequalities",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_algebra",
+      "name": "Linear Inequalities"
+    },
+    {
+      "id": "math_class11_ch_permutations_combinations",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_algebra",
+      "name": "Permutations and Combinations"
+    },
+    {
+      "id": "math_class11_ch_binomial_theorem",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_algebra",
+      "name": "Binomial Theorem"
+    },
+    {
+      "id": "math_class11_ch_sequences_series",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_algebra",
+      "name": "Sequences and Series"
+    },
+    {
+      "id": "math_class11_ch_straight_lines",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_coordinate_geometry",
+      "name": "Straight Lines"
+    },
+    {
+      "id": "math_class11_ch_conic_sections",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_coordinate_geometry",
+      "name": "Conic Sections"
+    },
+    {
+      "id": "math_class11_ch_3d_geometry",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_coordinate_geometry",
+      "name": "Introduction to Three-Dimensional Geometry"
+    },
+    {
+      "id": "math_class11_ch_limits_derivatives",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_calculus",
+      "name": "Limits and Derivatives"
+    },
+    {
+      "id": "math_class11_ch_statistics",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_statistics_probability",
+      "name": "Statistics"
+    },
+    {
+      "id": "math_class11_ch_probability",
+      "subject_id": "math_class11",
+      "unit_id": "math_class11_unit_statistics_probability",
+      "name": "Probability"
+    },
+    {
+      "id": "biology_class11_ch_living_world",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_diversity",
+      "name": "The Living World"
+    },
+    {
+      "id": "biology_class11_ch_biological_classification",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_diversity",
+      "name": "Biological Classification"
+    },
+    {
+      "id": "biology_class11_ch_plant_kingdom",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_diversity",
+      "name": "Plant Kingdom"
+    },
+    {
+      "id": "biology_class11_ch_animal_kingdom",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_diversity",
+      "name": "Animal Kingdom"
+    },
+    {
+      "id": "biology_class11_ch_morphology_plants",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_structural_organisation",
+      "name": "Morphology of Flowering Plants"
+    },
+    {
+      "id": "biology_class11_ch_anatomy_plants",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_structural_organisation",
+      "name": "Anatomy of Flowering Plants"
+    },
+    {
+      "id": "biology_class11_ch_structural_organisation_animals",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_structural_organisation",
+      "name": "Structural Organisation in Animals"
+    },
+    {
+      "id": "biology_class11_ch_cell",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_cell",
+      "name": "Cell: The Unit of Life"
+    },
+    {
+      "id": "biology_class11_ch_biomolecules",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_cell",
+      "name": "Biomolecules"
+    },
+    {
+      "id": "biology_class11_ch_cell_cycle",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_cell",
+      "name": "Cell Cycle and Cell Division"
+    },
+    {
+      "id": "biology_class11_ch_photosynthesis",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_plant_physiology",
+      "name": "Photosynthesis in Higher Plants"
+    },
+    {
+      "id": "biology_class11_ch_respiration_plants",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_plant_physiology",
+      "name": "Respiration in Plants"
+    },
+    {
+      "id": "biology_class11_ch_plant_growth",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_plant_physiology",
+      "name": "Plant Growth and Development"
+    },
+    {
+      "id": "biology_class11_ch_digestion",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_human_physiology",
+      "name": "Digestion and Absorption"
+    },
+    {
+      "id": "biology_class11_ch_breathing",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_human_physiology",
+      "name": "Breathing and Exchange of Gases"
+    },
+    {
+      "id": "biology_class11_ch_body_fluids",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_human_physiology",
+      "name": "Body Fluids and Circulation"
+    },
+    {
+      "id": "biology_class11_ch_excretion",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_human_physiology",
+      "name": "Excretory Products and Their Elimination"
+    },
+    {
+      "id": "biology_class11_ch_locomotion",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_human_physiology",
+      "name": "Locomotion and Movement"
+    },
+    {
+      "id": "biology_class11_ch_neural_control",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_human_physiology",
+      "name": "Neural Control and Coordination"
+    },
+    {
+      "id": "biology_class11_ch_chemical_coordination",
+      "subject_id": "biology_class11",
+      "unit_id": "biology_class11_unit_human_physiology",
+      "name": "Chemical Coordination and Integration"
+    },
+    {
+      "id": "physics_class12_ch_electric_charges_fields",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_electrostatics",
+      "name": "Electric Charges and Fields"
+    },
+    {
+      "id": "physics_class12_ch_electrostatic_potential_capacitance",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_electrostatics",
+      "name": "Electrostatic Potential and Capacitance"
+    },
+    {
+      "id": "physics_class12_ch_current_electricity",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_current_electricity",
+      "name": "Current Electricity"
+    },
+    {
+      "id": "physics_class12_ch_moving_charges_magnetism",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_magnetism",
+      "name": "Moving Charges and Magnetism"
+    },
+    {
+      "id": "physics_class12_ch_magnetism_matter",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_magnetism",
+      "name": "Magnetism and Matter"
+    },
+    {
+      "id": "physics_class12_ch_emi",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_emi_ac",
+      "name": "Electromagnetic Induction"
+    },
+    {
+      "id": "physics_class12_ch_alternating_current",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_emi_ac",
+      "name": "Alternating Current"
+    },
+    {
+      "id": "physics_class12_ch_em_waves",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_em_waves",
+      "name": "Electromagnetic Waves"
+    },
+    {
+      "id": "physics_class12_ch_ray_optics",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_optics",
+      "name": "Ray Optics and Optical Instruments"
+    },
+    {
+      "id": "physics_class12_ch_wave_optics",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_optics",
+      "name": "Wave Optics"
+    },
+    {
+      "id": "physics_class12_ch_dual_nature",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_dual_nature",
+      "name": "Dual Nature of Radiation and Matter"
+    },
+    {
+      "id": "physics_class12_ch_atoms",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_atoms_nuclei",
+      "name": "Atoms"
+    },
+    {
+      "id": "physics_class12_ch_nuclei",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_atoms_nuclei",
+      "name": "Nuclei"
+    },
+    {
+      "id": "physics_class12_ch_semiconductor",
+      "subject_id": "physics_class12",
+      "unit_id": "physics_class12_unit_electronic_devices",
+      "name": "Semiconductor Electronics"
+    },
+    {
+      "id": "chemistry_class12_ch_solutions",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_physical",
+      "name": "Solutions"
+    },
+    {
+      "id": "chemistry_class12_ch_electrochemistry",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_physical",
+      "name": "Electrochemistry"
+    },
+    {
+      "id": "chemistry_class12_ch_chemical_kinetics",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_physical",
+      "name": "Chemical Kinetics"
+    },
+    {
+      "id": "chemistry_class12_ch_d_f_block",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_inorganic",
+      "name": "The d- and f-Block Elements"
+    },
+    {
+      "id": "chemistry_class12_ch_coordination",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_inorganic",
+      "name": "Coordination Compounds"
+    },
+    {
+      "id": "chemistry_class12_ch_haloalkanes",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_organic",
+      "name": "Haloalkanes and Haloarenes"
+    },
+    {
+      "id": "chemistry_class12_ch_alcohols_phenols_ethers",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_organic",
+      "name": "Alcohols, Phenols and Ethers"
+    },
+    {
+      "id": "chemistry_class12_ch_aldehydes_ketones",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_organic",
+      "name": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "id": "chemistry_class12_ch_amines",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_organic",
+      "name": "Amines"
+    },
+    {
+      "id": "chemistry_class12_ch_biomolecules",
+      "subject_id": "chemistry_class12",
+      "unit_id": "chemistry_class12_unit_organic",
+      "name": "Biomolecules"
+    },
+    {
+      "id": "math_class12_ch_relations_functions",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_relations_functions",
+      "name": "Relations and Functions"
+    },
+    {
+      "id": "math_class12_ch_inverse_trig",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_relations_functions",
+      "name": "Inverse Trigonometric Functions"
+    },
+    {
+      "id": "math_class12_ch_matrices",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_algebra",
+      "name": "Matrices"
+    },
+    {
+      "id": "math_class12_ch_determinants",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_algebra",
+      "name": "Determinants"
+    },
+    {
+      "id": "math_class12_ch_continuity_differentiability",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_calculus",
+      "name": "Continuity and Differentiability"
+    },
+    {
+      "id": "math_class12_ch_applications_derivatives",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_calculus",
+      "name": "Applications of Derivatives"
+    },
+    {
+      "id": "math_class12_ch_integrals",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_calculus",
+      "name": "Integrals"
+    },
+    {
+      "id": "math_class12_ch_applications_integrals",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_calculus",
+      "name": "Applications of Integrals"
+    },
+    {
+      "id": "math_class12_ch_differential_equations",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_calculus",
+      "name": "Differential Equations"
+    },
+    {
+      "id": "math_class12_ch_vectors",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_vectors_3d",
+      "name": "Vectors"
+    },
+    {
+      "id": "math_class12_ch_3d_geometry",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_vectors_3d",
+      "name": "Three-Dimensional Geometry"
+    },
+    {
+      "id": "math_class12_ch_lpp",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_lpp_probability",
+      "name": "Linear Programming"
+    },
+    {
+      "id": "math_class12_ch_probability",
+      "subject_id": "math_class12",
+      "unit_id": "math_class12_unit_lpp_probability",
+      "name": "Probability"
+    },
+    {
+      "id": "biology_class12_ch_reproduction_organisms",
+      "subject_id": "biology_class12",
+      "unit_id": "biology_class12_unit_reproduction",
+      "name": "Reproduction in Organisms"
+    },
+    {
+      "id": "biology_class12_ch_sexual_reproduction_plants",
+      "subject_id": "biology_class12",
+      "unit_id": "biology_class12_unit_reproduction",
+      "name": "Sexual Reproduction in Flowering Plants"
+    },
+    {
+      "id": "biology_class12_ch_human_reproduction",
+      "subject_id": "biology_class12",
+      "unit_id": "biology_class12_unit_reproduction",
+      "name": "Human Reproduction"
+    },
+    {
+      "

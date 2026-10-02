@@ -1,0 +1,184 @@
+[
+  {
+    "id": "jee_main_physics_ref_physics_newtons_second_law",
+    "type": "formula_reference",
+    "canonical_content_id": "physics_newtons_second_law",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_mechanics",
+    "topic_id": "jee_main_physics_mechanics_core",
+    "jee_importance": 5,
+    "jee_notes": "Use net force, not an individual force.",
+    "common_traps": [
+      "Check units, signs and assumptions."
+    ],
+    "keywords": [
+      "physics_newtons_second_law",
+      "jee physics formula",
+      "quick revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_physics_ref_physics_kinetic_energy",
+    "type": "formula_reference",
+    "canonical_content_id": "physics_kinetic_energy",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_mechanics",
+    "topic_id": "jee_main_physics_mechanics_core",
+    "jee_importance": 5,
+    "jee_notes": "Energy is scalar; speed is squared.",
+    "common_traps": [
+      "Check units, signs and assumptions."
+    ],
+    "keywords": [
+      "physics_kinetic_energy",
+      "jee physics formula",
+      "quick revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_physics_ref_physics_coulombs_law",
+    "type": "formula_reference",
+    "canonical_content_id": "physics_coulombs_law",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_electrostatics",
+    "topic_id": "jee_main_physics_electrostatics_core",
+    "jee_importance": 5,
+    "jee_notes": "Force is a vector and follows inverse-square dependence.",
+    "common_traps": [
+      "Check units, signs and assumptions."
+    ],
+    "keywords": [
+      "physics_coulombs_law",
+      "jee physics formula",
+      "quick revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_physics_ref_physics_ohms_law",
+    "type": "formula_reference",
+    "canonical_content_id": "physics_ohms_law",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_current_electricity",
+    "topic_id": "jee_main_physics_current_electricity_core",
+    "jee_importance": 5,
+    "jee_notes": "Use for ohmic conditions.",
+    "common_traps": [
+      "Check units, signs and assumptions."
+    ],
+    "keywords": [
+      "physics_ohms_law",
+      "jee physics formula",
+      "quick revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_physics_ref_physics_faradays_law",
+    "type": "formula_reference",
+    "canonical_content_id": "physics_faradays_law",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+    "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+    "jee_importance": 5,
+    "jee_notes": "Minus sign represents Lenz law.",
+    "common_traps": [
+      "Check units, signs and assumptions."
+    ],
+    "keywords": [
+      "physics_faradays_law",
+      "jee physics formula",
+      "quick revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_physics_ref_physics_lens_formula",
+    "type": "formula_reference",
+    "canonical_content_id": "physics_lens_formula",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_optics",
+    "topic_id": "jee_main_physics_optics_core",
+    "jee_importance": 5,
+    "jee_notes": "Use Cartesian sign convention.",
+    "common_traps": [
+      "Check units, signs and assumptions."
+    ],
+    "keywords": [
+      "physics_lens_formula",
+      "jee physics formula",
+      "quick revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  },
+  {
+    "id": "jee_main_physics_ref_physics_photoelectric_equation",
+    "type": "formula_reference",
+    "canonical_content_id": "physics_photoelectric_equation",
+    "exam": "JEE_MAIN",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_modern_physics",
+    "topic_id": "jee_main_physics_modern_physics_core",
+    "jee_importance": 5,
+    "jee_notes": "Frequency controls photon energy; intensity controls photon number.",
+    "common_traps": [
+      "Check units, signs and assumptions."
+    ],
+    "keywords": [
+      "physics_photoelectric_equation",
+      "jee physics formula",
+      "quick revision"
+    ],
+    "tags": [
+      "formula_reference",
+      "high_value",
+      "last_minute"
+    ],
+    "needs_review": false,
+    "canonical_reference_needs_merge": true
+  }
+]

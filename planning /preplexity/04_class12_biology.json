@@ -1,0 +1,1435 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class12_science",
+    "board": "CBSE",
+    "class": 12,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "NCERT Textbook PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "CBSE Senior Secondary Physics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Chemistry curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Mathematics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Biology curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Exact chapter and formative-assessment treatment should be checked against the final subject PDFs and school implementation before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_biology",
+      "name": "Biology",
+      "class_id": "cbse_class_12",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_biology_1",
+      "name": "Sexual Reproduction in Flowering Plants",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "sexual reproduction in flowering plants"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_2",
+      "name": "Human Reproduction",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "human reproduction"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_3",
+      "name": "Reproductive Health",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "reproductive health"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_4",
+      "name": "Principles of Inheritance and Variation",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "principles of inheritance and variation"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_5",
+      "name": "Molecular Basis of Inheritance",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "molecular basis of inheritance"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_6",
+      "name": "Evolution",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "evolution"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_7",
+      "name": "Human Health and Disease",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "human health and disease"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_8",
+      "name": "Strategies for Enhancement in Food Production",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "strategies for enhancement in food production"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_9",
+      "name": "Microbes in Human Welfare",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "microbes in human welfare"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_10",
+      "name": "Biotechnology: Principles and Processes",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biotechnology: principles and processes"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_11",
+      "name": "Biotechnology and its Applications",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biotechnology and its applications"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_12",
+      "name": "Organisms and Populations",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "organisms and populations"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_13",
+      "name": "Ecosystem",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 13,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "ecosystem"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_14",
+      "name": "Biodiversity and Conservation",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 14,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biodiversity and conservation"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_15",
+      "name": "Environmental Issues",
+      "subject_id": "cbse_class12_biology",
+      "class_id": "cbse_class_12",
+      "order": 15,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "environmental issues"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_biology_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_biology_15_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_biology_15",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class12_biology_1_quick_revision",
+      "type": "short_note",
+      "title": "Sexual Reproduction in Flowering Plants — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_1",
+      "topic_id": "cbse_class12_biology_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "sexual reproduction in flowering plants — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_2_quick_revision",
+      "type": "short_note",
+      "title": "Human Reproduction — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_2",
+      "topic_id": "cbse_class12_biology_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "human reproduction — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_3_quick_revision",
+      "type": "short_note",
+      "title": "Reproductive Health — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_3",
+      "topic_id": "cbse_class12_biology_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "reproductive health — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_4_quick_revision",
+      "type": "short_note",
+      "title": "Principles of Inheritance and Variation — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_4",
+      "topic_id": "cbse_class12_biology_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "principles of inheritance and variation — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_5_quick_revision",
+      "type": "short_note",
+      "title": "Molecular Basis of Inheritance — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "molecular basis of inheritance — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_6_quick_revision",
+      "type": "short_note",
+      "title": "Evolution — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_6",
+      "topic_id": "cbse_class12_biology_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "evolution — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_7_quick_revision",
+      "type": "short_note",
+      "title": "Human Health and Disease — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_7",
+      "topic_id": "cbse_class12_biology_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "human health and disease — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_8_quick_revision",
+      "type": "short_note",
+      "title": "Strategies for Enhancement in Food Production — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_8",
+      "topic_id": "cbse_class12_biology_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "strategies for enhancement in food production — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_9_quick_revision",
+      "type": "short_note",
+      "title": "Microbes in Human Welfare — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_9",
+      "topic_id": "cbse_class12_biology_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "microbes in human welfare — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_10_quick_revision",
+      "type": "short_note",
+      "title": "Biotechnology: Principles and Processes — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_10",
+      "topic_id": "cbse_class12_biology_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biotechnology: principles and processes — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_11_quick_revision",
+      "type": "short_note",
+      "title": "Biotechnology and its Applications — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_11",
+      "topic_id": "cbse_class12_biology_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biotechnology and its applications — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_12_quick_revision",
+      "type": "short_note",
+      "title": "Organisms and Populations — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_12",
+      "topic_id": "cbse_class12_biology_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "organisms and populations — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_13_quick_revision",
+      "type": "short_note",
+      "title": "Ecosystem — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_13",
+      "topic_id": "cbse_class12_biology_13_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "ecosystem — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_14_quick_revision",
+      "type": "short_note",
+      "title": "Biodiversity and Conservation — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_14",
+      "topic_id": "cbse_class12_biology_14_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biodiversity and conservation — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_biology_15_quick_revision",
+      "type": "short_note",
+      "title": "Environmental Issues — Chapter Quick Revision",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_15",
+      "topic_id": "cbse_class12_biology_15_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "environmental issues — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "dna_and_rna",
+      "type": "table",
+      "title": "DNA and RNA",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "summary": "High-yield comparison.",
+      "keywords": [
+        "dna and rna",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "DNA",
+        "RNA"
+      ],
+      "rows": [
+        [
+          "Sugar",
+          "Deoxyribose",
+          "Ribose"
+        ],
+        [
+          "Bases",
+          "A,T,G,C",
+          "A,U,G,C"
+        ],
+        [
+          "Typical role",
+          "Long-term genetic storage",
+          "Information transfer and functional roles"
+        ]
+      ]
+    },
+    {
+      "id": "in-situ_and_ex-situ_conservation",
+      "type": "table",
+      "title": "In-situ and Ex-situ Conservation",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_14",
+      "topic_id": "cbse_class12_biology_14_core",
+      "summary": "High-yield comparison.",
+      "keywords": [
+        "in-situ and ex-situ conservation",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "table",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Feature",
+        "In-situ",
+        "Ex-situ"
+      ],
+      "rows": [
+        [
+          "Location",
+          "Natural habitat",
+          "Outside natural habitat"
+        ],
+        [
+          "Examples",
+          "Biosphere reserve",
+          "Zoo, seed bank"
+        ],
+        [
+          "Focus",
+          "Protect ecosystem",
+          "Protect selected organisms or germplasm"
+        ]
+      ]
+    },
+    {
+      "id": "dna_replication",
+      "type": "diagram_reference",
+      "title": "DNA Replication",
+      "subject_id": "cbse_class12_biology",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "summary": "Visual reference for revision.",
+      "keywords": [
+        "dna replication",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram showing unwinding, template strands, primers and complementary daughter strands.",
+      "labels_required": [
+        "helicase",
+        "template strand",
+        "leading strand",
+        "lagging strand",
+        "Okazaki fragments"
+      ],
+      "asset_required": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "q12_bio_dna",
+      "type": "mcq",
+      "subject_id": "cbse_class12_biology",
+      "chapter_id": "cbse_class12_biology_5",
+      "topic_id": "cbse_class12_biology_5_core",
+      "question": "Which base is present in RNA instead of thymine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uracil"
+        },
+        {
+          "id": "B",
+          "text": "Cytosine"
+        },
+        {
+          "id": "C",
+          "text": "Guanine"
+        },
+        {
+          "id": "D",
+          "text": "Adenine"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "RNA uses uracil in place of thymine.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_bio_conservation",
+      "type": "mcq",
+      "subject_id": "cbse_class12_biology",
+      "chapter_id": "cbse_class12_biology_14",
+      "topic_id": "cbse_class12_biology_14_core",
+      "question": "A seed bank is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "In-situ conservation"
+        },
+        {
+          "id": "B",
+          "text": "Ex-situ conservation"
+        },
+        {
+          "id": "C",
+          "text": "Natural selection"
+        },
+        {
+          "id": "D",
+          "text": "Primary succession"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The organism’s genetic material is preserved outside its natural habitat.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 52,
+    "total_topics": 52,
+    "total_content_items": 75,
+    "total_formulas": 16,
+    "total_short_notes": 52,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 2,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

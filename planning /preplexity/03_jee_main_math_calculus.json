@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_mathematics",
+    "exam": "JEE_MAIN",
+    "subject": "Mathematics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The accessible NTA page exposes the official syllabus download but the extracted text does not expose all topic details. Verify the downloaded PDF before final production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_mathematics",
+    "name": "Mathematics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_math_calculus",
+      "name": "Calculus",
+      "subject_id": "jee_main_mathematics",
+      "order": 3,
+      "keywords": [
+        "calculus"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_math_calculus_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_calculus",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_math_ref_math_derivative_product_rule",
+      "type": "formula_reference",
+      "canonical_content_id": "math_derivative_product_rule",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "jee_importance": 5,
+      "jee_notes": "Apply to products.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_derivative_product_rule",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_math_ref_math_integration_by_parts",
+      "type": "formula_reference",
+      "canonical_content_id": "math_integration_by_parts",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "jee_importance": 5,
+      "jee_notes": "Choose u to simplify the remaining integral.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_integration_by_parts",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "math_limit_exponential",
+      "type": "formula",
+      "title": "Exponential Standard Limit",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "formula_latex": "\\lim_{x\\to0}\\frac{e^x-1}{x}=1",
+      "formula_plain": "lim(x→0)(eˣ−1)/x = 1",
+      "summary": "Standard exponential limit.",
+      "explanation": "Standard exponential limit.",
+      "variables": [
+        {
+          "symbol": "x",
+          "meaning": "real variable",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use after reducing to the standard form.",
+      "conditions": [
+        "The variable tends to zero."
+      ],
+      "example": {
+        "question": "Evaluate lim x→0 (e^(3x)−1)/(3x).",
+        "solution": "Apply the standard limit.",
+        "answer": "1"
+      },
+      "common_mistakes": [
+        "Dropping the scaling consistently."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "exponential standard limit",
+        "lim(x→0)(eˣ−1)/x = 1",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_derivative_chain_rule",
+      "type": "formula",
+      "title": "Chain Rule",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "formula_latex": "\\frac{d}{dx}f(g(x))=f\\prime(g(x))g\\prime(x)",
+      "formula_plain": "d[f(g(x))]/dx = f′(g(x))g′(x)",
+      "summary": "Derivative of a composite function.",
+      "explanation": "Derivative of a composite function.",
+      "variables": [
+        {
+          "symbol": "f,g",
+          "meaning": "differentiable functions",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for nested functions.",
+      "conditions": [
+        "Inner derivative is required."
+      ],
+      "example": {
+        "question": "Differentiate sin(x²).",
+        "solution": "cos(x²)×2x.",
+        "answer": "2x cos(x²)"
+      },
+      "common_mistakes": [
+        "Forgetting the inner derivative."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "chain rule",
+        "d[f(g(x))]/dx = f′(g(x))g′(x)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "math_definite_integral_property_substitution",
+      "type": "formula",
+      "title": "Definite Integral Reflection",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "formula_latex": "\\int_a^b f(x)dx=\\int_a^b f(a+b-x)dx",
+      "formula_plain": "∫ₐᵇ f(x)dx = ∫ₐᵇ f(a+b−x)dx",
+      "summary": "Reflection substitution property for definite integrals.",
+      "explanation": "Reflection substitution property for definite integrals.",
+      "variables": [
+        {
+          "symbol": "a,b",
+          "meaning": "limits",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when f(x)+f(a+b−x) simplifies.",
+      "conditions": [
+        "Integrand and limits must correspond exactly."
+      ],
+      "example": {
+        "question": "Which substitution creates the reflected form?",
+        "solution": "Put x=a+b−t.",
+        "answer": "Reflection substitution"
+      },
+      "common_mistakes": [
+        "Changing only the integrand without preserving limits."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "definite integral reflection",
+        "∫ₐᵇ f(x)dx = ∫ₐᵇ f(a+b−x)dx",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_calculus_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Calculus Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "calculus"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_trap_squaring_equation",
+      "type": "common_trap",
+      "title": "Squaring Can Add Extraneous Roots",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "wrong_approach": "Square both sides and accept every resulting root.",
+      "why_wrong": "Squaring removes sign information.",
+      "correct_approach": "Substitute every candidate into the original equation.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_shortcut_odd_integral",
+      "type": "shortcut",
+      "title": "Odd Function Symmetry Shortcut",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "shortcut": "For odd f, ∫₋ₐᵃ f(x)dx=0.",
+      "why_it_works": "Equal positive and negative contributions cancel.",
+      "conditions": [
+        "The interval must be symmetric.",
+        "The integral must exist."
+      ],
+      "do_not_use_when": [
+        "The interval is not symmetric or the function is not odd."
+      ],
+      "example": "∫₋₂²x³dx=0.",
+      "keywords": [
+        "odd function definite integral",
+        "symmetry shortcut"
+      ],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_q_chain_rule",
+      "type": "mcq",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_calculus",
+      "topic_id": "jee_main_math_calculus_core",
+      "question": "d/dx[sin(x²)] equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "cos x"
+        },
+        {
+          "id": "B",
+          "text": "2x sin x"
+        },
+        {
+          "id": "C",
+          "text": "2x cos(x²)"
+        },
+        {
+          "id": "D",
+          "text": "cos(x²)"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Apply the chain rule.",
+      "linked_formula_ids": [
+        "math_derivative_chain_rule"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 6,
+    "total_topics": 6,
+    "total_formula_references": 7,
+    "total_new_formulas": 8,
+    "total_identities": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 2,
+    "total_quick_revision_notes": 6,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

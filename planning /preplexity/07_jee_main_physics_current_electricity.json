@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_current_electricity",
+      "name": "Current Electricity",
+      "subject_id": "jee_main_physics",
+      "order": 7,
+      "keywords": [
+        "current electricity"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_current_electricity_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_physics_ref_physics_ohms_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_ohms_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "jee_importance": 5,
+      "jee_notes": "Use for ohmic conditions.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_ohms_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_drift_current",
+      "type": "formula",
+      "title": "Current and Drift Speed",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "formula_latex": "I=nqAv_d",
+      "formula_plain": "I = nqAvd",
+      "summary": "Relates current to carrier density and drift speed.",
+      "explanation": "Relates current to carrier density and drift speed.",
+      "variables": [
+        {
+          "symbol": "I",
+          "meaning": "current",
+          "unit": "A"
+        },
+        {
+          "symbol": "n",
+          "meaning": "carrier number density",
+          "unit": "m⁻³"
+        },
+        {
+          "symbol": "q",
+          "meaning": "carrier charge",
+          "unit": "C"
+        },
+        {
+          "symbol": "A",
+          "meaning": "cross-sectional area",
+          "unit": "m²"
+        },
+        {
+          "symbol": "v_d",
+          "meaning": "drift speed",
+          "unit": "m/s"
+        }
+      ],
+      "si_units": [
+        "A"
+      ],
+      "dimensions": "[I]",
+      "when_to_use": "Use in microscopic current models.",
+      "conditions": [
+        "Charge sign and direction must be interpreted carefully."
+      ],
+      "assumptions": [
+        "Uniform carrier density approximation."
+      ],
+      "example": {
+        "question": "If area doubles with other quantities fixed, I becomes:",
+        "solution": "I∝A.",
+        "answer": "Double"
+      },
+      "common_mistakes": [
+        "Confusing drift speed with signal speed."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "current and drift speed",
+        "I = nqAvd",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_current_electricity_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Current Electricity Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "current electricity"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_current_electricity_graph",
+      "type": "graph",
+      "title": "Ohmic V-I Graph",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "x_axis": "current",
+      "y_axis": "voltage",
+      "relationship": "Straight line through origin for constant resistance.",
+      "interpretation": [
+        "Read slope and area according to axis definitions."
+      ],
+      "important_points": [
+        "Use consistent units."
+      ],
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

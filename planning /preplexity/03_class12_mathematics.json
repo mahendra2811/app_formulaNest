@@ -1,0 +1,1427 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class12_science",
+    "board": "CBSE",
+    "class": 12,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "NCERT Textbook PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "CBSE Senior Secondary Physics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Chemistry curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Mathematics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Biology curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Exact chapter and formative-assessment treatment should be checked against the final subject PDFs and school implementation before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_12",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_mathematics_1",
+      "name": "Relations and Functions",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "relations and functions"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_2",
+      "name": "Inverse Trigonometric Functions",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "inverse trigonometric functions"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_3",
+      "name": "Matrices",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "matrices"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_4",
+      "name": "Determinants",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "determinants"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_5",
+      "name": "Continuity and Differentiability",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "continuity and differentiability"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_6",
+      "name": "Applications of Derivatives",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "applications of derivatives"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_7",
+      "name": "Integrals",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "integrals"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_8",
+      "name": "Applications of Integrals",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "applications of integrals"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_9",
+      "name": "Differential Equations",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "differential equations"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_10",
+      "name": "Vector Algebra",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "vector algebra"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_11",
+      "name": "Three-dimensional Geometry",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "three-dimensional geometry"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_12",
+      "name": "Linear Programming",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "linear programming"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_13",
+      "name": "Probability",
+      "subject_id": "cbse_class12_mathematics",
+      "class_id": "cbse_class_12",
+      "order": 13,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "probability"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_mathematics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_mathematics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "math_derivative_product_rule",
+      "type": "formula",
+      "title": "Product Rule",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "topic_id": "cbse_class12_mathematics_5_core",
+      "summary": "Derivative rule for a product of differentiable functions.",
+      "keywords": [
+        "product rule",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\frac{d}{dx}(uv)=u\\frac{dv}{dx}+v\\frac{du}{dx}",
+      "formula_plain": "d(uv)/dx = u dv/dx + v du/dx",
+      "explanation": "Derivative rule for a product of differentiable functions.",
+      "variables": [
+        {
+          "symbol": "u,v",
+          "meaning": "functions of x",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when two functions are multiplied.",
+      "conditions": [
+        "Both functions must be differentiable."
+      ],
+      "example": {
+        "question": "Differentiate x² sin x.",
+        "solution": "2x sin x + x² cos x.",
+        "answer": "2x sin x + x² cos x"
+      },
+      "common_mistakes": [
+        "Differentiating only one factor."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_integration_by_parts",
+      "type": "formula",
+      "title": "Integration by Parts",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_7",
+      "topic_id": "cbse_class12_mathematics_7_core",
+      "summary": "Integrates a product by selecting u and dv strategically.",
+      "keywords": [
+        "integration by parts",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\int u\\,dv=uv-\\int v\\,du",
+      "formula_plain": "∫u dv = uv − ∫v du",
+      "explanation": "Integrates a product by selecting u and dv strategically.",
+      "variables": [
+        {
+          "symbol": "u",
+          "meaning": "chosen function",
+          "unit": ""
+        },
+        {
+          "symbol": "dv",
+          "meaning": "remaining differential",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for products such as x sin x or x log x.",
+      "conditions": [
+        "Choice of u affects simplicity."
+      ],
+      "example": {
+        "question": "Evaluate ∫x dx.",
+        "solution": "Take u=x,dv=dx; result x²/2.",
+        "answer": "x²/2+C"
+      },
+      "common_mistakes": [
+        "Forgetting the constant of integration."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_differential_equation_linear",
+      "type": "formula",
+      "title": "First-Order Linear Differential Equation",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_9",
+      "topic_id": "cbse_class12_mathematics_9_core",
+      "summary": "Standard linear first-order differential equation form.",
+      "keywords": [
+        "first-order linear differential equation",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\frac{dy}{dx}+Py=Q",
+      "formula_plain": "dy/dx + Py = Q",
+      "explanation": "Standard linear first-order differential equation form.",
+      "variables": [
+        {
+          "symbol": "P,Q",
+          "meaning": "functions of x",
+          "unit": ""
+        },
+        {
+          "symbol": "y",
+          "meaning": "dependent variable",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use integrating factor method.",
+      "conditions": [
+        "P and Q are functions of the independent variable."
+      ],
+      "example": {
+        "question": "What is the integrating factor?",
+        "solution": "IF=e^(∫P dx).",
+        "answer": "e^(∫P dx)"
+      },
+      "common_mistakes": [
+        "Using an incorrect integrating factor."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_vector_dot_product",
+      "type": "formula",
+      "title": "Dot Product",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_10",
+      "topic_id": "cbse_class12_mathematics_10_core",
+      "summary": "Scalar product of two vectors.",
+      "keywords": [
+        "dot product",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\vec a\\cdot\\vec b=|\\vec a||\\vec b|\\cos\\theta",
+      "formula_plain": "a·b = |a||b| cos θ",
+      "explanation": "Scalar product of two vectors.",
+      "variables": [
+        {
+          "symbol": "a,b",
+          "meaning": "vectors",
+          "unit": ""
+        },
+        {
+          "symbol": "θ",
+          "meaning": "angle between vectors",
+          "unit": "radian"
+        }
+      ],
+      "when_to_use": "Use for angle or projection.",
+      "conditions": [
+        "Result is scalar."
+      ],
+      "example": {
+        "question": "For perpendicular vectors, a·b equals:",
+        "solution": "cos 90°=0.",
+        "answer": "0"
+      },
+      "common_mistakes": [
+        "Confusing dot and cross products."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "math_bayes_theorem",
+      "type": "formula",
+      "title": "Bayes’ Theorem",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "topic_id": "cbse_class12_mathematics_13_core",
+      "summary": "Updates probabilities using evidence B.",
+      "keywords": [
+        "bayes’ theorem",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "P(A_i|B)=\\frac{P(A_i)P(B|A_i)}{\\sum_jP(A_j)P(B|A_j)}",
+      "formula_plain": "P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / ΣP(Aⱼ)P(B|Aⱼ)",
+      "explanation": "Updates probabilities using evidence B.",
+      "variables": [
+        {
+          "symbol": "P(A|B)",
+          "meaning": "conditional probability",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when prior causes and observed evidence are given.",
+      "conditions": [
+        "Causes must form a mutually exclusive and exhaustive partition."
+      ],
+      "example": {
+        "question": "What does Bayes theorem calculate?",
+        "solution": "It reverses conditional probability using priors.",
+        "answer": "Posterior probability"
+      },
+      "common_mistakes": [
+        "Swapping P(A|B) and P(B|A)."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_1_quick_revision",
+      "type": "short_note",
+      "title": "Relations and Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_1",
+      "topic_id": "cbse_class12_mathematics_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "relations and functions — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_2_quick_revision",
+      "type": "short_note",
+      "title": "Inverse Trigonometric Functions — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_2",
+      "topic_id": "cbse_class12_mathematics_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "inverse trigonometric functions — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_3_quick_revision",
+      "type": "short_note",
+      "title": "Matrices — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_3",
+      "topic_id": "cbse_class12_mathematics_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "matrices — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_4_quick_revision",
+      "type": "short_note",
+      "title": "Determinants — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_4",
+      "topic_id": "cbse_class12_mathematics_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "determinants — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_5_quick_revision",
+      "type": "short_note",
+      "title": "Continuity and Differentiability — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "topic_id": "cbse_class12_mathematics_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "continuity and differentiability — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_6_quick_revision",
+      "type": "short_note",
+      "title": "Applications of Derivatives — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_6",
+      "topic_id": "cbse_class12_mathematics_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "applications of derivatives — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_7_quick_revision",
+      "type": "short_note",
+      "title": "Integrals — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_7",
+      "topic_id": "cbse_class12_mathematics_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "integrals — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_8_quick_revision",
+      "type": "short_note",
+      "title": "Applications of Integrals — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_8",
+      "topic_id": "cbse_class12_mathematics_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "applications of integrals — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_9_quick_revision",
+      "type": "short_note",
+      "title": "Differential Equations — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_9",
+      "topic_id": "cbse_class12_mathematics_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "differential equations — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_10_quick_revision",
+      "type": "short_note",
+      "title": "Vector Algebra — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_10",
+      "topic_id": "cbse_class12_mathematics_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "vector algebra — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_11_quick_revision",
+      "type": "short_note",
+      "title": "Three-dimensional Geometry — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_11",
+      "topic_id": "cbse_class12_mathematics_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "three-dimensional geometry — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_12_quick_revision",
+      "type": "short_note",
+      "title": "Linear Programming — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_12",
+      "topic_id": "cbse_class12_mathematics_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "linear programming — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_mathematics_13_quick_revision",
+      "type": "short_note",
+      "title": "Probability — Chapter Quick Revision",
+      "subject_id": "cbse_class12_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "topic_id": "cbse_class12_mathematics_13_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "probability — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "q12_math_derivative",
+      "type": "mcq",
+      "subject_id": "cbse_class12_mathematics",
+      "chapter_id": "cbse_class12_mathematics_5",
+      "topic_id": "cbse_class12_mathematics_5_core",
+      "question": "The derivative of x² sin x is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² cos x"
+        },
+        {
+          "id": "B",
+          "text": "2x sin x"
+        },
+        {
+          "id": "C",
+          "text": "2x sin x + x² cos x"
+        },
+        {
+          "id": "D",
+          "text": "sin x"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "Apply product rule.",
+      "linked_formula_ids": [
+        "math_derivative_product_rule"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_math_bayes",
+      "type": "mcq",
+      "subject_id": "cbse_class12_mathematics",
+      "chapter_id": "cbse_class12_mathematics_13",
+      "topic_id": "cbse_class12_mathematics_13_core",
+      "question": "Bayes theorem is used to find:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A derivative"
+        },
+        {
+          "id": "B",
+          "text": "A posterior probability"
+        },
+        {
+          "id": "C",
+          "text": "A determinant"
+        },
+        {
+          "id": "D",
+          "text": "A vector magnitude"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "It updates a probability using evidence.",
+      "linked_formula_ids": [
+        "math_bayes_theorem"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 52,
+    "total_topics": 52,
+    "total_content_items": 75,
+    "total_formulas": 16,
+    "total_short_notes": 52,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 2,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

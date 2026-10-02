@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_electrostatics",
+      "name": "Electrostatics",
+      "subject_id": "jee_main_physics",
+      "order": 6,
+      "keywords": [
+        "electrostatics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_electrostatics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_physics_ref_physics_coulombs_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_coulombs_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "jee_importance": 5,
+      "jee_notes": "Force is a vector and follows inverse-square dependence.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_coulombs_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_capacitor_parallel_plate",
+      "type": "formula",
+      "title": "Parallel-Plate Capacitance",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "formula_latex": "C=\\frac{\\varepsilon A}{d}",
+      "formula_plain": "C = εA/d",
+      "summary": "Capacitance of a parallel-plate capacitor with a uniform dielectric medium.",
+      "explanation": "Capacitance of a parallel-plate capacitor with a uniform dielectric medium.",
+      "variables": [
+        {
+          "symbol": "ε",
+          "meaning": "permittivity",
+          "unit": "F/m"
+        },
+        {
+          "symbol": "A",
+          "meaning": "plate area",
+          "unit": "m²"
+        },
+        {
+          "symbol": "d",
+          "meaning": "separation",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "F"
+      ],
+      "dimensions": "[M⁻¹L⁻²T⁴I²]",
+      "when_to_use": "Use for ideal parallel plates.",
+      "conditions": [
+        "Neglect edge effects."
+      ],
+      "assumptions": [
+        "Uniform medium between plates."
+      ],
+      "example": {
+        "question": "If plate area doubles, C becomes:",
+        "solution": "C∝A.",
+        "answer": "Double"
+      },
+      "common_mistakes": [
+        "Using volume or radius incorrectly."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "parallel-plate capacitance",
+        "C = εA/d",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_electrostatics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Electrostatics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "electrostatics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_trap_potential_field",
+      "type": "common_trap",
+      "title": "Zero Potential Means Zero Field",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "wrong_approach": "If V=0 then E=0.",
+      "why_wrong": "Potential is scalar while field is the negative gradient of potential.",
+      "correct_approach": "Check spatial variation of V; zero potential at one point does not imply zero field.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_electrostatics_diagram",
+      "type": "diagram_reference",
+      "title": "Electric Field Lines",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "description": "Field direction and charge configuration.",
+      "labels_required": [
+        "positive charge",
+        "negative charge",
+        "field lines"
+      ],
+      "asset_required": true,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_physics_q_capacitor",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "question": "If plate area doubles while separation is unchanged, ideal capacitance:",
+      "options": [
+        {
+          "id": "A",
+          "text": "halves"
+        },
+        {
+          "id": "B",
+          "text": "unchanged"
+        },
+        {
+          "id": "C",
+          "text": "doubles"
+        },
+        {
+          "id": "D",
+          "text": "becomes zero"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C=εA/d.",
+      "linked_formula_ids": [
+        "physics_capacitor_parallel_plate"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

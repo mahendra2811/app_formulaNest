@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_humanities",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Humanities",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Geography",
+      "Sociology",
+      "Psychology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE History Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/History_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Political Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/PoliticalScience_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Geography Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Geography_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Sociology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Sociology_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Psychology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Psychology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Economics is not duplicated because canonical Economics content is maintained by the Commerce dataset; a mapping file records this decision.",
+      "The extracted official PDFs contain some legacy session labels; explicit 2026-27 chapter structures should be checked against final school circulars before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_sociology",
+      "name": "Sociology",
+      "class_id": "cbse_class_11",
+      "stream": "humanities"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_sociology_1",
+      "name": "Sociology and Society",
+      "subject_id": "cbse_class11_sociology",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "sociology and society"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_2",
+      "name": "Terms, Concepts and their Use in Sociology",
+      "subject_id": "cbse_class11_sociology",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "terms, concepts and their use in sociology"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_3",
+      "name": "Understanding Social Institutions",
+      "subject_id": "cbse_class11_sociology",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "understanding social institutions"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_4",
+      "name": "Culture and Socialisation",
+      "subject_id": "cbse_class11_sociology",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "culture and socialisation"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_5",
+      "name": "Doing Sociology",
+      "subject_id": "cbse_class11_sociology",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "doing sociology"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_sociology_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_sociology_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_sociology_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_sociology_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_sociology_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_sociology_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_sociology_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class11_sociology_1_quick_revision",
+      "type": "short_note",
+      "title": "Sociology and Society — Chapter Quick Revision",
+      "subject_id": "cbse_class11_sociology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_sociology_1",
+      "topic_id": "cbse_class11_sociology_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "sociology and society — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_sociology_2_quick_revision",
+      "type": "short_note",
+      "title": "Terms, Concepts and their Use in Sociology — Chapter Quick Revision",
+      "subject_id": "cbse_class11_sociology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_sociology_2",
+      "topic_id": "cbse_class11_sociology_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "terms, concepts and their use in sociology — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_sociology_3_quick_revision",
+      "type": "short_note",
+      "title": "Understanding Social Institutions — Chapter Quick Revision",
+      "subject_id": "cbse_class11_sociology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_sociology_3",
+      "topic_id": "cbse_class11_sociology_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "understanding social institutions — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_sociology_4_quick_revision",
+      "type": "short_note",
+      "title": "Culture and Socialisation — Chapter Quick Revision",
+      "subject_id": "cbse_class11_sociology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_sociology_4",
+      "topic_id": "cbse_class11_sociology_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "culture and socialisation — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class11_sociology_5_quick_revision",
+      "type": "short_note",
+      "title": "Doing Sociology — Chapter Quick Revision",
+      "subject_id": "cbse_class11_sociology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_sociology_5",
+      "topic_id": "cbse_class11_sociology_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "doing sociology — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "sociology_socialisation_definition",
+      "type": "thinker_theory",
+      "title": "Socialisation",
+      "subject_id": "cbse_class11_sociology",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_sociology_4",
+      "topic_id": "cbse_class11_sociology_4_core",
+      "summary": "Socialisation is the lifelong process through which individuals learn cultural norms, values and roles.",
+      "keywords": [
+        "socialisation",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "sociology",
+        "concept"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "thinker": "",
+      "theory_or_concept": "Socialisation",
+      "key_points": [
+        "Primary socialisation occurs mainly in early life.",
+        "Family, school, peers and media can act as agents."
+      ],
+      "related_concepts": [
+        "culture",
+        "self",
+        "social roles"
+      ]
+    }
+  ],
+  "questions": [],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 10,
+    "total_units": 0,
+    "total_chapters": 124,
+    "total_topics": 124,
+    "total_content_items": 132,
+    "total_short_notes": 124,
+    "total_definitions": 1,
+    "total_timelines": 1,
+    "total_comparisons": 1,
+    "total_maps": 1,
+    "total_diagram_references": 0,
+    "total_formulas": 1,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

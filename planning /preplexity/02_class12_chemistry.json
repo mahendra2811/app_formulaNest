@@ -1,0 +1,974 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class12_science",
+    "board": "CBSE",
+    "class": 12,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27 portal",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "NCERT Textbook PDF portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "CBSE Senior Secondary Physics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Chemistry curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Mathematics curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Senior Secondary Biology curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Exact chapter and formative-assessment treatment should be checked against the final subject PDFs and school implementation before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_chemistry",
+      "name": "Chemistry",
+      "class_id": "cbse_class_12",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_chemistry_1",
+      "name": "Solutions",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "solutions"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_2",
+      "name": "Electrochemistry",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "electrochemistry"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_3",
+      "name": "Chemical Kinetics",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "chemical kinetics"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_4",
+      "name": "d- and f-Block Elements",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "d- and f-block elements"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_5",
+      "name": "Coordination Compounds",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "coordination compounds"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_6",
+      "name": "Haloalkanes and Haloarenes",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "haloalkanes and haloarenes"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_7",
+      "name": "Alcohols, Phenols and Ethers",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "alcohols, phenols and ethers"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_8",
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "aldehydes, ketones and carboxylic acids"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_9",
+      "name": "Amines",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "amines"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_10",
+      "name": "Biomolecules",
+      "subject_id": "cbse_class12_chemistry",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Class 12 chapter mapping for 2026-27.",
+      "keywords": [
+        "biomolecules"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_chemistry_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_chemistry_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_chemistry_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class12_chemistry_1_quick_revision",
+      "type": "short_note",
+      "title": "Solutions — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_1",
+      "topic_id": "cbse_class12_chemistry_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "solutions — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_2_quick_revision",
+      "type": "short_note",
+      "title": "Electrochemistry — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_2",
+      "topic_id": "cbse_class12_chemistry_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "electrochemistry — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_3_quick_revision",
+      "type": "short_note",
+      "title": "Chemical Kinetics — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_3",
+      "topic_id": "cbse_class12_chemistry_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "chemical kinetics — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_4_quick_revision",
+      "type": "short_note",
+      "title": "d- and f-Block Elements — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_4",
+      "topic_id": "cbse_class12_chemistry_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "d- and f-block elements — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_5_quick_revision",
+      "type": "short_note",
+      "title": "Coordination Compounds — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_5",
+      "topic_id": "cbse_class12_chemistry_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "coordination compounds — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_6_quick_revision",
+      "type": "short_note",
+      "title": "Haloalkanes and Haloarenes — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_6",
+      "topic_id": "cbse_class12_chemistry_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "haloalkanes and haloarenes — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_7_quick_revision",
+      "type": "short_note",
+      "title": "Alcohols, Phenols and Ethers — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_7",
+      "topic_id": "cbse_class12_chemistry_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "alcohols, phenols and ethers — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_8_quick_revision",
+      "type": "short_note",
+      "title": "Aldehydes, Ketones and Carboxylic Acids — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "topic_id": "cbse_class12_chemistry_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "aldehydes, ketones and carboxylic acids — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_9_quick_revision",
+      "type": "short_note",
+      "title": "Amines — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_9",
+      "topic_id": "cbse_class12_chemistry_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "amines — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class12_chemistry_10_quick_revision",
+      "type": "short_note",
+      "title": "Biomolecules — Chapter Quick Revision",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_10",
+      "topic_id": "cbse_class12_chemistry_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "biomolecules — chapter quick revision",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall definitions, laws and standard results.",
+            "Connect diagrams, equations and physical meaning.",
+            "Check units, sign conventions and conditions.",
+            "Practise one direct and one application problem."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall definitions, laws and standard results.",
+        "Connect diagrams, equations and physical meaning.",
+        "Check units, sign conventions and conditions.",
+        "Practise one direct and one application problem."
+      ],
+      "common_mistakes": [
+        "Confusing signs, units, conditions or terminology."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "chemistry_aldol_condensation",
+      "type": "reaction",
+      "title": "Aldol Condensation",
+      "subject_id": "cbse_class12_chemistry",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "topic_id": "cbse_class12_chemistry_8_core",
+      "summary": "Carbonyl compounds with alpha hydrogen undergo base-catalysed aldol reaction.",
+      "keywords": [
+        "aldol condensation",
+        "class 12",
+        "quick revision"
+      ],
+      "tags": [
+        "reaction",
+        "organic",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "chemistry_branch": "organic",
+      "reactants": [
+        "2 CH₃CHO"
+      ],
+      "reagents_conditions": [
+        "dilute NaOH",
+        "heat"
+      ],
+      "products": [
+        "CH₃CH=CHCHO",
+        "H₂O"
+      ],
+      "reaction_text": "2 CH₃CHO → CH₃CH=CHCHO + H₂O",
+      "reaction_latex": "\\mathrm{2CH_3CHO \\xrightarrow{dil.NaOH,\\Delta} CH_3CH=CHCHO + H_2O}",
+      "reaction_type": "condensation",
+      "explanation": "Acetaldehyde first forms a beta-hydroxy aldehyde, which dehydrates on heating.",
+      "important_points": [
+        "Requires alpha hydrogen.",
+        "Dehydration gives an alpha,beta-unsaturated carbonyl compound."
+      ],
+      "common_mistakes": [
+        "Confusing aldol addition with condensation."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q12_chem_electrolyte",
+      "type": "mcq",
+      "subject_id": "cbse_class12_chemistry",
+      "chapter_id": "cbse_class12_chemistry_2",
+      "topic_id": "cbse_class12_chemistry_2_core",
+      "question": "Oxidation occurs at the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cathode"
+        },
+        {
+          "id": "B",
+          "text": "Anode"
+        },
+        {
+          "id": "C",
+          "text": "Salt bridge only"
+        },
+        {
+          "id": "D",
+          "text": "External wire only"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Oxidation occurs at the anode.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q12_chem_combustion",
+      "type": "mcq",
+      "subject_id": "cbse_class12_chemistry",
+      "chapter_id": "cbse_class12_chemistry_8",
+      "topic_id": "cbse_class12_chemistry_8_core",
+      "question": "Aldol condensation generally requires a carbonyl compound with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "No hydrogen"
+        },
+        {
+          "id": "B",
+          "text": "An alpha hydrogen"
+        },
+        {
+          "id": "C",
+          "text": "Only aromatic ring"
+        },
+        {
+          "id": "D",
+          "text": "A halogen atom"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The alpha hydrogen enables enolate formation.",
+      "linked_formula_ids": [
+        "chemistry_aldol_condensation"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 52,
+    "total_topics": 52,
+    "total_content_items": 75,
+    "total_formulas": 16,
+    "total_short_notes": 52,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 2,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

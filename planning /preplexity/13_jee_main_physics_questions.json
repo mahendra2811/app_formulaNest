@@ -1,0 +1,230 @@
+[
+  {
+    "id": "jee_physics_q_projectile_range",
+    "type": "mcq",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_mechanics",
+    "topic_id": "jee_main_physics_mechanics_core",
+    "question": "For u=10 m/s, θ=45°, g=10 m/s², range is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 m"
+      },
+      {
+        "id": "B",
+        "text": "10 m"
+      },
+      {
+        "id": "C",
+        "text": "20 m"
+      },
+      {
+        "id": "D",
+        "text": "100 m"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "R=u²/g=10 m.",
+    "linked_formula_ids": [
+      "physics_projectile_range"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "numerical",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_physics_q_bernoulli",
+    "type": "mcq",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_properties_of_matter",
+    "topic_id": "jee_main_physics_properties_of_matter_core",
+    "question": "At the same height in ideal flow, increasing speed causes pressure to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "increase"
+      },
+      {
+        "id": "B",
+        "text": "decrease"
+      },
+      {
+        "id": "C",
+        "text": "remain necessarily zero"
+      },
+      {
+        "id": "D",
+        "text": "become density"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "P+½ρv² is constant.",
+    "linked_formula_ids": [
+      "physics_bernoulli_equation"
+    ],
+    "difficulty": "medium",
+    "importance": 4,
+    "question_style": "conceptual",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_physics_q_capacitor",
+    "type": "mcq",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_electrostatics",
+    "topic_id": "jee_main_physics_electrostatics_core",
+    "question": "If plate area doubles while separation is unchanged, ideal capacitance:",
+    "options": [
+      {
+        "id": "A",
+        "text": "halves"
+      },
+      {
+        "id": "B",
+        "text": "unchanged"
+      },
+      {
+        "id": "C",
+        "text": "doubles"
+      },
+      {
+        "id": "D",
+        "text": "becomes zero"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C=εA/d.",
+    "linked_formula_ids": [
+      "physics_capacitor_parallel_plate"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "direct",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_physics_q_ac",
+    "type": "mcq",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+    "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+    "question": "At series RLC resonance, impedance is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "zero"
+      },
+      {
+        "id": "B",
+        "text": "R"
+      },
+      {
+        "id": "C",
+        "text": "XL+XC"
+      },
+      {
+        "id": "D",
+        "text": "infinite"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "XL=XC, so Z=R.",
+    "linked_formula_ids": [
+      "physics_ac_impedance_series_rlc"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "conceptual",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_physics_q_ydse",
+    "type": "mcq",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_optics",
+    "topic_id": "jee_main_physics_optics_core",
+    "question": "If screen distance doubles in YDSE, fringe width:",
+    "options": [
+      {
+        "id": "A",
+        "text": "halves"
+      },
+      {
+        "id": "B",
+        "text": "unchanged"
+      },
+      {
+        "id": "C",
+        "text": "doubles"
+      },
+      {
+        "id": "D",
+        "text": "becomes zero"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "β=λD/d.",
+    "linked_formula_ids": [
+      "physics_ydse_fringe_width"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "direct",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  },
+  {
+    "id": "jee_physics_q_debroglie",
+    "type": "mcq",
+    "subject_id": "jee_main_physics",
+    "chapter_id": "jee_main_physics_modern_physics",
+    "topic_id": "jee_main_physics_modern_physics_core",
+    "question": "If particle momentum doubles, de Broglie wavelength:",
+    "options": [
+      {
+        "id": "A",
+        "text": "doubles"
+      },
+      {
+        "id": "B",
+        "text": "halves"
+      },
+      {
+        "id": "C",
+        "text": "quadruples"
+      },
+      {
+        "id": "D",
+        "text": "unchanged"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "λ=h/p.",
+    "linked_formula_ids": [
+      "physics_de_broglie"
+    ],
+    "difficulty": "easy",
+    "importance": 4,
+    "question_style": "conceptual",
+    "exams": [
+      "JEE_MAIN"
+    ],
+    "needs_review": false
+  }
+]

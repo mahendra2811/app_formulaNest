@@ -1,0 +1,2107 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_units_and_measurements",
+      "name": "Units and Measurements",
+      "subject_id": "jee_main_physics",
+      "order": 1,
+      "keywords": [
+        "units and measurements"
+      ]
+    },
+    {
+      "id": "jee_main_physics_mechanics",
+      "name": "Mechanics",
+      "subject_id": "jee_main_physics",
+      "order": 2,
+      "keywords": [
+        "mechanics"
+      ]
+    },
+    {
+      "id": "jee_main_physics_properties_of_matter",
+      "name": "Properties of Matter",
+      "subject_id": "jee_main_physics",
+      "order": 3,
+      "keywords": [
+        "properties of matter"
+      ]
+    },
+    {
+      "id": "jee_main_physics_thermal_physics",
+      "name": "Thermal Physics",
+      "subject_id": "jee_main_physics",
+      "order": 4,
+      "keywords": [
+        "thermal physics"
+      ]
+    },
+    {
+      "id": "jee_main_physics_oscillations_and_waves",
+      "name": "Oscillations and Waves",
+      "subject_id": "jee_main_physics",
+      "order": 5,
+      "keywords": [
+        "oscillations and waves"
+      ]
+    },
+    {
+      "id": "jee_main_physics_electrostatics",
+      "name": "Electrostatics",
+      "subject_id": "jee_main_physics",
+      "order": 6,
+      "keywords": [
+        "electrostatics"
+      ]
+    },
+    {
+      "id": "jee_main_physics_current_electricity",
+      "name": "Current Electricity",
+      "subject_id": "jee_main_physics",
+      "order": 7,
+      "keywords": [
+        "current electricity"
+      ]
+    },
+    {
+      "id": "jee_main_physics_magnetism",
+      "name": "Magnetism",
+      "subject_id": "jee_main_physics",
+      "order": 8,
+      "keywords": [
+        "magnetism"
+      ]
+    },
+    {
+      "id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "name": "Electromagnetic Induction and AC",
+      "subject_id": "jee_main_physics",
+      "order": 9,
+      "keywords": [
+        "electromagnetic induction and ac"
+      ]
+    },
+    {
+      "id": "jee_main_physics_optics",
+      "name": "Optics",
+      "subject_id": "jee_main_physics",
+      "order": 10,
+      "keywords": [
+        "optics"
+      ]
+    },
+    {
+      "id": "jee_main_physics_modern_physics",
+      "name": "Modern Physics",
+      "subject_id": "jee_main_physics",
+      "order": 11,
+      "keywords": [
+        "modern physics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_units_and_measurements_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_units_and_measurements",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_mechanics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_mechanics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_properties_of_matter_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_thermal_physics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_thermal_physics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_oscillations_and_waves_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_oscillations_and_waves",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_electrostatics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_current_electricity_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_magnetism_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_magnetism",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_optics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_optics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    },
+    {
+      "id": "jee_main_physics_modern_physics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_physics_ref_physics_newtons_second_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_newtons_second_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "jee_importance": 5,
+      "jee_notes": "Use net force, not an individual force.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_newtons_second_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_physics_ref_physics_kinetic_energy",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_kinetic_energy",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "jee_importance": 5,
+      "jee_notes": "Energy is scalar; speed is squared.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_kinetic_energy",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_physics_ref_physics_coulombs_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_coulombs_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "jee_importance": 5,
+      "jee_notes": "Force is a vector and follows inverse-square dependence.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_coulombs_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_physics_ref_physics_ohms_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_ohms_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "jee_importance": 5,
+      "jee_notes": "Use for ohmic conditions.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_ohms_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_physics_ref_physics_faradays_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_faradays_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "jee_importance": 5,
+      "jee_notes": "Minus sign represents Lenz law.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_faradays_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_physics_ref_physics_lens_formula",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_lens_formula",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "jee_importance": 5,
+      "jee_notes": "Use Cartesian sign convention.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_lens_formula",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    },
+    {
+      "id": "jee_main_physics_ref_physics_photoelectric_equation",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_photoelectric_equation",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "jee_importance": 5,
+      "jee_notes": "Frequency controls photon energy; intensity controls photon number.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_photoelectric_equation",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_projectile_range",
+      "type": "formula",
+      "title": "Projectile Range",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "formula_latex": "R=\\frac{u^2\\sin 2\\theta}{g}",
+      "formula_plain": "R = u² sin(2θ)/g",
+      "summary": "Horizontal range of a projectile landing at the same level from which it was projected.",
+      "explanation": "Horizontal range of a projectile landing at the same level from which it was projected.",
+      "variables": [
+        {
+          "symbol": "R",
+          "meaning": "horizontal range",
+          "unit": "m"
+        },
+        {
+          "symbol": "u",
+          "meaning": "initial speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "θ",
+          "meaning": "projection angle",
+          "unit": "radian or degree"
+        },
+        {
+          "symbol": "g",
+          "meaning": "acceleration due to gravity",
+          "unit": "m/s²"
+        }
+      ],
+      "si_units": [
+        "m",
+        "m/s",
+        "m/s²"
+      ],
+      "dimensions": "[L]",
+      "when_to_use": "Use for ideal projectile motion with equal launch and landing levels.",
+      "conditions": [
+        "No air resistance.",
+        "Constant g."
+      ],
+      "assumptions": [
+        "Launch and landing heights are equal."
+      ],
+      "example": {
+        "question": "For u=10 m/s, θ=45°, g=10 m/s².",
+        "solution": "R=100×1/10.",
+        "answer": "10 m"
+      },
+      "common_mistakes": [
+        "Using this formula for unequal heights."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "projectile range",
+        "R = u² sin(2θ)/g",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_centripetal_acceleration",
+      "type": "formula",
+      "title": "Centripetal Acceleration",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "formula_latex": "a_c=\\frac{v^2}{r}=\\omega^2r",
+      "formula_plain": "a_c = v²/r = ω²r",
+      "summary": "Radial acceleration required for circular motion.",
+      "explanation": "Radial acceleration required for circular motion.",
+      "variables": [
+        {
+          "symbol": "a_c",
+          "meaning": "centripetal acceleration",
+          "unit": "m/s²"
+        },
+        {
+          "symbol": "v",
+          "meaning": "speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "r",
+          "meaning": "radius",
+          "unit": "m"
+        },
+        {
+          "symbol": "ω",
+          "meaning": "angular speed",
+          "unit": "rad/s"
+        }
+      ],
+      "si_units": [
+        "m/s²"
+      ],
+      "dimensions": "[LT⁻²]",
+      "when_to_use": "Use for circular motion.",
+      "conditions": [
+        "Velocity direction changes even at constant speed."
+      ],
+      "assumptions": [
+        "Motion is along a circle of radius r."
+      ],
+      "example": {
+        "question": "v=4 m/s,r=2 m.",
+        "solution": "a=16/2.",
+        "answer": "8 m/s²"
+      },
+      "common_mistakes": [
+        "Calling centripetal acceleration tangential."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "centripetal acceleration",
+        "a_c = v²/r = ω²r",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_orbital_velocity",
+      "type": "formula",
+      "title": "Orbital Velocity",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "formula_latex": "v_o=\\sqrt{\\frac{GM}{r}}",
+      "formula_plain": "vₒ = √(GM/r)",
+      "summary": "Speed of a circular satellite orbit around a central mass.",
+      "explanation": "Speed of a circular satellite orbit around a central mass.",
+      "variables": [
+        {
+          "symbol": "G",
+          "meaning": "gravitational constant",
+          "unit": "N m²/kg²"
+        },
+        {
+          "symbol": "M",
+          "meaning": "central mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "r",
+          "meaning": "orbital radius",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "m/s"
+      ],
+      "dimensions": "[LT⁻¹]",
+      "when_to_use": "Use for circular orbit.",
+      "conditions": [
+        "Orbit is circular and gravitational force supplies centripetal force."
+      ],
+      "assumptions": [
+        "Neglect atmosphere and other perturbations."
+      ],
+      "example": {
+        "question": "How does orbital speed change if r increases fourfold?",
+        "solution": "v∝1/√r.",
+        "answer": "It becomes half."
+      },
+      "common_mistakes": [
+        "Using escape-speed formula instead."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "orbital velocity",
+        "vₒ = √(GM/r)",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_bernoulli_equation",
+      "type": "formula",
+      "title": "Bernoulli Equation",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "topic_id": "jee_main_physics_properties_of_matter_core",
+      "formula_latex": "P+\\frac12\\rho v^2+\\rho gh=constant",
+      "formula_plain": "P + ½ρv² + ρgh = constant",
+      "summary": "Energy conservation relation for steady ideal fluid flow.",
+      "explanation": "Energy conservation relation for steady ideal fluid flow.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "ρ",
+          "meaning": "fluid density",
+          "unit": "kg/m³"
+        },
+        {
+          "symbol": "v",
+          "meaning": "flow speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "h",
+          "meaning": "height",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "Pa"
+      ],
+      "dimensions": "[ML⁻¹T⁻²]",
+      "when_to_use": "Use along a streamline.",
+      "conditions": [
+        "Steady, incompressible, non-viscous flow."
+      ],
+      "assumptions": [
+        "No dissipative losses."
+      ],
+      "example": {
+        "question": "At equal height, if speed rises, pressure generally:",
+        "solution": "P+½ρv² constant.",
+        "answer": "Falls"
+      },
+      "common_mistakes": [
+        "Using it for highly viscous turbulent flow."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "bernoulli equation",
+        "P + ½ρv² + ρgh = constant",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_ideal_gas_pressure",
+      "type": "formula",
+      "title": "Ideal Gas Pressure Relation",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_thermal_physics",
+      "topic_id": "jee_main_physics_thermal_physics_core",
+      "formula_latex": "PV=nRT",
+      "formula_plain": "PV=nRT",
+      "summary": "Equation of state for an ideal gas.",
+      "explanation": "Equation of state for an ideal gas.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "V",
+          "meaning": "volume",
+          "unit": "m³"
+        },
+        {
+          "symbol": "n",
+          "meaning": "amount",
+          "unit": "mol"
+        },
+        {
+          "symbol": "T",
+          "meaning": "absolute temperature",
+          "unit": "K"
+        }
+      ],
+      "si_units": [
+        "Pa",
+        "m³",
+        "mol",
+        "K"
+      ],
+      "dimensions": "[ML²T⁻²]",
+      "when_to_use": "Use ideal-gas calculations.",
+      "conditions": [
+        "Temperature must be in kelvin."
+      ],
+      "assumptions": [
+        "Gas approximated as ideal."
+      ],
+      "example": {
+        "question": "Which temperature scale is used?",
+        "solution": "Convert Celsius by adding 273.15.",
+        "answer": "Kelvin"
+      },
+      "common_mistakes": [
+        "Using Celsius directly."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "ideal gas pressure relation",
+        "PV=nRT",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_shm_energy",
+      "type": "formula",
+      "title": "Total Energy in SHM",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_oscillations_and_waves",
+      "topic_id": "jee_main_physics_oscillations_and_waves_core",
+      "formula_latex": "E=\\frac12kA^2=\\frac12m\\omega^2A^2",
+      "formula_plain": "E = ½kA² = ½mω²A²",
+      "summary": "Total mechanical energy in ideal simple harmonic motion.",
+      "explanation": "Total mechanical energy in ideal simple harmonic motion.",
+      "variables": [
+        {
+          "symbol": "E",
+          "meaning": "total energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "k",
+          "meaning": "spring constant",
+          "unit": "N/m"
+        },
+        {
+          "symbol": "A",
+          "meaning": "amplitude",
+          "unit": "m"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "kg"
+        }
+      ],
+      "si_units": [
+        "J"
+      ],
+      "dimensions": "[ML²T⁻²]",
+      "when_to_use": "Use for ideal SHM.",
+      "conditions": [
+        "No damping."
+      ],
+      "assumptions": [
+        "Amplitude is maximum displacement."
+      ],
+      "example": {
+        "question": "If amplitude doubles, energy changes by:",
+        "solution": "E∝A².",
+        "answer": "Four times"
+      },
+      "common_mistakes": [
+        "Assuming energy is proportional to amplitude."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "total energy in shm",
+        "E = ½kA² = ½mω²A²",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_capacitor_parallel_plate",
+      "type": "formula",
+      "title": "Parallel-Plate Capacitance",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "formula_latex": "C=\\frac{\\varepsilon A}{d}",
+      "formula_plain": "C = εA/d",
+      "summary": "Capacitance of a parallel-plate capacitor with a uniform dielectric medium.",
+      "explanation": "Capacitance of a parallel-plate capacitor with a uniform dielectric medium.",
+      "variables": [
+        {
+          "symbol": "ε",
+          "meaning": "permittivity",
+          "unit": "F/m"
+        },
+        {
+          "symbol": "A",
+          "meaning": "plate area",
+          "unit": "m²"
+        },
+        {
+          "symbol": "d",
+          "meaning": "separation",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "F"
+      ],
+      "dimensions": "[M⁻¹L⁻²T⁴I²]",
+      "when_to_use": "Use for ideal parallel plates.",
+      "conditions": [
+        "Neglect edge effects."
+      ],
+      "assumptions": [
+        "Uniform medium between plates."
+      ],
+      "example": {
+        "question": "If plate area doubles, C becomes:",
+        "solution": "C∝A.",
+        "answer": "Double"
+      },
+      "common_mistakes": [
+        "Using volume or radius incorrectly."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "parallel-plate capacitance",
+        "C = εA/d",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_drift_current",
+      "type": "formula",
+      "title": "Current and Drift Speed",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "formula_latex": "I=nqAv_d",
+      "formula_plain": "I = nqAvd",
+      "summary": "Relates current to carrier density and drift speed.",
+      "explanation": "Relates current to carrier density and drift speed.",
+      "variables": [
+        {
+          "symbol": "I",
+          "meaning": "current",
+          "unit": "A"
+        },
+        {
+          "symbol": "n",
+          "meaning": "carrier number density",
+          "unit": "m⁻³"
+        },
+        {
+          "symbol": "q",
+          "meaning": "carrier charge",
+          "unit": "C"
+        },
+        {
+          "symbol": "A",
+          "meaning": "cross-sectional area",
+          "unit": "m²"
+        },
+        {
+          "symbol": "v_d",
+          "meaning": "drift speed",
+          "unit": "m/s"
+        }
+      ],
+      "si_units": [
+        "A"
+      ],
+      "dimensions": "[I]",
+      "when_to_use": "Use in microscopic current models.",
+      "conditions": [
+        "Charge sign and direction must be interpreted carefully."
+      ],
+      "assumptions": [
+        "Uniform carrier density approximation."
+      ],
+      "example": {
+        "question": "If area doubles with other quantities fixed, I becomes:",
+        "solution": "I∝A.",
+        "answer": "Double"
+      },
+      "common_mistakes": [
+        "Confusing drift speed with signal speed."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "current and drift speed",
+        "I = nqAvd",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_ac_impedance_series_rlc",
+      "type": "formula",
+      "title": "Series RLC Impedance",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "formula_latex": "Z=\\sqrt{R^2+(X_L-X_C)^2}",
+      "formula_plain": "Z = √[R²+(XL−XC)²]",
+      "summary": "Impedance magnitude of a series RLC circuit.",
+      "explanation": "Impedance magnitude of a series RLC circuit.",
+      "variables": [
+        {
+          "symbol": "Z",
+          "meaning": "impedance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "R",
+          "meaning": "resistance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "X_L",
+          "meaning": "inductive reactance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "X_C",
+          "meaning": "capacitive reactance",
+          "unit": "Ω"
+        }
+      ],
+      "si_units": [
+        "Ω"
+      ],
+      "dimensions": "[ML²T⁻³I⁻²]",
+      "when_to_use": "Use for sinusoidal steady-state series RLC circuits.",
+      "conditions": [
+        "Reactances use the same angular frequency."
+      ],
+      "assumptions": [
+        "Ideal lumped components."
+      ],
+      "example": {
+        "question": "At resonance, XL=XC. Then Z equals:",
+        "solution": "Z=√(R²).",
+        "answer": "R"
+      },
+      "common_mistakes": [
+        "Adding reactances without signs."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "series rlc impedance",
+        "Z = √[R²+(XL−XC)²]",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_ydse_fringe_width",
+      "type": "formula",
+      "title": "YDSE Fringe Width",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "formula_latex": "\\beta=\\frac{\\lambda D}{d}",
+      "formula_plain": "β = λD/d",
+      "summary": "Distance between successive bright or dark fringes in Young double-slit interference.",
+      "explanation": "Distance between successive bright or dark fringes in Young double-slit interference.",
+      "variables": [
+        {
+          "symbol": "β",
+          "meaning": "fringe width",
+          "unit": "m"
+        },
+        {
+          "symbol": "λ",
+          "meaning": "wavelength",
+          "unit": "m"
+        },
+        {
+          "symbol": "D",
+          "meaning": "screen distance",
+          "unit": "m"
+        },
+        {
+          "symbol": "d",
+          "meaning": "slit separation",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "m"
+      ],
+      "dimensions": "[L]",
+      "when_to_use": "Use for small-angle double-slit interference.",
+      "conditions": [
+        "Coherent sources and suitable geometry."
+      ],
+      "assumptions": [
+        "Slit separation is much smaller than screen distance."
+      ],
+      "example": {
+        "question": "If D doubles, fringe width becomes:",
+        "solution": "β∝D.",
+        "answer": "Double"
+      },
+      "common_mistakes": [
+        "Interchanging d and D."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "ydse fringe width",
+        "β = λD/d",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "physics_de_broglie",
+      "type": "formula",
+      "title": "de Broglie Wavelength",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "formula_latex": "\\lambda=\\frac{h}{p}",
+      "formula_plain": "λ = h/p",
+      "summary": "Matter-wave wavelength associated with momentum p.",
+      "explanation": "Matter-wave wavelength associated with momentum p.",
+      "variables": [
+        {
+          "symbol": "λ",
+          "meaning": "wavelength",
+          "unit": "m"
+        },
+        {
+          "symbol": "h",
+          "meaning": "Planck constant",
+          "unit": "J s"
+        },
+        {
+          "symbol": "p",
+          "meaning": "momentum",
+          "unit": "kg m/s"
+        }
+      ],
+      "si_units": [
+        "m"
+      ],
+      "dimensions": "[L]",
+      "when_to_use": "Use for matter-wave relations.",
+      "conditions": [
+        "Relativistic corrections may be needed at very high speeds."
+      ],
+      "assumptions": [
+        "Non-relativistic form when p=mv is used."
+      ],
+      "example": {
+        "question": "If momentum doubles, λ becomes:",
+        "solution": "λ∝1/p.",
+        "answer": "Half"
+      },
+      "common_mistakes": [
+        "Using kinetic energy directly without conversion."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "de broglie wavelength",
+        "λ = h/p",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_units_and_measurements_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Units and Measurements Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_units_and_measurements",
+      "topic_id": "jee_main_physics_units_and_measurements_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "units and measurements"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_mechanics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Mechanics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "mechanics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_properties_of_matter_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Properties of Matter Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "topic_id": "jee_main_physics_properties_of_matter_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "properties of matter"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_thermal_physics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Thermal Physics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_thermal_physics",
+      "topic_id": "jee_main_physics_thermal_physics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "thermal physics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_oscillations_and_waves_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Oscillations and Waves Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_oscillations_and_waves",
+      "topic_id": "jee_main_physics_oscillations_and_waves_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "oscillations and waves"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_electrostatics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Electrostatics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "electrostatics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_current_electricity_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Current Electricity Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "current electricity"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_magnetism_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Magnetism Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_magnetism",
+      "topic_id": "jee_main_physics_magnetism_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "magnetism"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_electromagnetic_induction_and_ac_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Electromagnetic Induction and AC Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "electromagnetic induction and ac"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_optics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Optics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "optics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_modern_physics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Modern Physics Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "modern physics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_trap_friction_direction",
+      "type": "common_trap",
+      "title": "Friction Direction",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "wrong_approach": "Friction always opposes velocity.",
+      "why_wrong": "Friction opposes relative or impending relative motion, not necessarily the centre-of-mass velocity.",
+      "correct_approach": "Determine the relative tendency at the contact and draw the free-body diagram.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_trap_potential_field",
+      "type": "common_trap",
+      "title": "Zero Potential Means Zero Field",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "wrong_approach": "If V=0 then E=0.",
+      "why_wrong": "Potential is scalar while field is the negative gradient of potential.",
+      "correct_approach": "Check spatial variation of V; zero potential at one point does not imply zero field.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_trap_rms_peak",
+      "type": "common_trap",
+      "title": "RMS Equals Peak",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "wrong_approach": "Use peak AC value as RMS value.",
+      "why_wrong": "For sinusoidal AC, RMS is peak divided by √2.",
+      "correct_approach": "Identify whether the problem gives peak or RMS quantities.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_shortcut_projectile_max_range",
+      "type": "shortcut",
+      "title": "Maximum Projectile Range",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "shortcut": "For equal launch and landing levels, maximum range occurs at θ=45° and Rmax=u²/g.",
+      "why_it_works": "sin 2θ is at most 1.",
+      "conditions": [
+        "No air resistance.",
+        "Equal launch and landing levels."
+      ],
+      "do_not_use_when": [
+        "Launch and landing heights differ."
+      ],
+      "example": "For u=20 m/s,g=10 m/s², Rmax=40 m.",
+      "keywords": [
+        "maximum projectile range",
+        "45 degree projectile"
+      ],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_mechanics_graph",
+      "type": "graph",
+      "title": "Velocity-Time Graph",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "x_axis": "time",
+      "y_axis": "velocity",
+      "relationship": "Slope gives acceleration; area gives displacement.",
+      "interpretation": [
+        "Read slope and area according to axis definitions."
+      ],
+      "important_points": [
+        "Use consistent units."
+      ],
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_current_electricity_graph",
+      "type": "graph",
+      "title": "Ohmic V-I Graph",
+      "chapter_id": "jee_main_physics_current_electricity",
+      "topic_id": "jee_main_physics_current_electricity_core",
+      "x_axis": "current",
+      "y_axis": "voltage",
+      "relationship": "Straight line through origin for constant resistance.",
+      "interpretation": [
+        "Read slope and area according to axis definitions."
+      ],
+      "important_points": [
+        "Use consistent units."
+      ],
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_modern_physics_graph",
+      "type": "graph",
+      "title": "Photoelectric Effect Graph",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "x_axis": "frequency",
+      "y_axis": "maximum kinetic energy",
+      "relationship": "Above threshold, maximum kinetic energy increases linearly with frequency.",
+      "interpretation": [
+        "Read slope and area according to axis definitions."
+      ],
+      "important_points": [
+        "Use consistent units."
+      ],
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_mechanics_diagram",
+      "type": "diagram_reference",
+      "title": "Free-Body Diagram",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "description": "Forces acting on a body with chosen axes.",
+      "labels_required": [
+        "weight",
+        "normal",
+        "friction",
+        "tension"
+      ],
+      "asset_required": true,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_electrostatics_diagram",
+      "type": "diagram_reference",
+      "title": "Electric Field Lines",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "description": "Field direction and charge configuration.",
+      "labels_required": [
+        "positive charge",
+        "negative charge",
+        "field lines"
+      ],
+      "asset_required": true,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    },
+    {
+      "id": "jee_main_physics_optics_diagram",
+      "type": "diagram_reference",
+      "title": "Lens Ray Diagram",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "description": "Principal rays for image construction.",
+      "labels_required": [
+        "optical centre",
+        "focus",
+        "object",
+        "image"
+      ],
+      "asset_required": true,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_physics_q_projectile_range",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_mechanics",
+      "topic_id": "jee_main_physics_mechanics_core",
+      "question": "For u=10 m/s, θ=45°, g=10 m/s², range is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 m"
+        },
+        {
+          "id": "B",
+          "text": "10 m"
+        },
+        {
+          "id": "C",
+          "text": "20 m"
+        },
+        {
+          "id": "D",
+          "text": "100 m"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "R=u²/g=10 m.",
+      "linked_formula_ids": [
+        "physics_projectile_range"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_physics_q_bernoulli",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "topic_id": "jee_main_physics_properties_of_matter_core",
+      "question": "At the same height in ideal flow, increasing speed causes pressure to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "increase"
+        },
+        {
+          "id": "B",
+          "text": "decrease"
+        },
+        {
+          "id": "C",
+          "text": "remain necessarily zero"
+        },
+        {
+          "id": "D",
+          "text": "become density"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "P+½ρv² is constant.",
+      "linked_formula_ids": [
+        "physics_bernoulli_equation"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "question_style": "conceptual",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_physics_q_capacitor",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electrostatics",
+      "topic_id": "jee_main_physics_electrostatics_core",
+      "question": "If plate area doubles while separation is unchanged, ideal capacitance:",
+      "options": [
+        {
+          "id": "A",
+          "text": "halves"
+        },
+        {
+          "id": "B",
+          "text": "unchanged"
+        },
+        {
+          "id": "C",
+          "text": "doubles"
+        },
+        {
+          "id": "D",
+          "text": "becomes zero"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "C=εA/d.",
+      "linked_formula_ids": [
+        "physics_capacitor_parallel_plate"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_physics_q_ac",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "question": "At series RLC resonance, impedance is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "zero"
+        },
+        {
+          "id": "B",
+          "text": "R"
+        },
+        {
+          "id": "C",
+          "text": "XL+XC"
+        },
+        {
+          "id": "D",
+          "text": "infinite"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "XL=XC, so Z=R.",
+      "linked_formula_ids": [
+        "physics_ac_impedance_series_rlc"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_physics_q_ydse",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_optics",
+      "topic_id": "jee_main_physics_optics_core",
+      "question": "If screen distance doubles in YDSE, fringe width:",
+      "options": [
+        {
+          "id": "A",
+          "text": "halves"
+        },
+        {
+          "id": "B",
+          "text": "unchanged"
+        },
+        {
+          "id": "C",
+          "text": "doubles"
+        },
+        {
+          "id": "D",
+          "text": "becomes zero"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "β=λD/d.",
+      "linked_formula_ids": [
+        "physics_ydse_fringe_width"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_physics_q_debroglie",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_modern_physics",
+      "topic_id": "jee_main_physics_modern_physics_core",
+      "question": "If particle momentum doubles, de Broglie wavelength:",
+      "options": [
+        {
+          "id": "A",
+          "text": "doubles"
+        },
+        {
+          "id": "B",
+          "text": "halves"
+        },
+        {
+          "id": "C",
+          "text": "quadruples"
+        },
+        {
+          "id": "D",
+          "text": "unchanged"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "λ=h/p.",
+      "linked_formula_ids": [
+        "physics_de_broglie"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

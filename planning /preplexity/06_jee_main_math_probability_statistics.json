@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_mathematics",
+    "exam": "JEE_MAIN",
+    "subject": "Mathematics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The accessible NTA page exposes the official syllabus download but the extracted text does not expose all topic details. Verify the downloaded PDF before final production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_mathematics",
+    "name": "Mathematics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_math_probability_and_statistics",
+      "name": "Probability and Statistics",
+      "subject_id": "jee_main_mathematics",
+      "order": 6,
+      "keywords": [
+        "probability and statistics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_math_probability_and_statistics_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_math_ref_math_bayes_theorem",
+      "type": "formula_reference",
+      "canonical_content_id": "math_bayes_theorem",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "jee_importance": 5,
+      "jee_notes": "Keep conditional probability direction correct.",
+      "common_traps": [
+        "Check conditions, domain and sign conventions."
+      ],
+      "keywords": [
+        "math_bayes_theorem",
+        "jee main formula",
+        "formula revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "math_probability_independence",
+      "type": "formula",
+      "title": "Independent Events",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "formula_latex": "P(A\\cap B)=P(A)P(B)",
+      "formula_plain": "P(A∩B)=P(A)P(B)",
+      "summary": "Multiplication relation for independent events.",
+      "explanation": "Multiplication relation for independent events.",
+      "variables": [
+        {
+          "symbol": "A,B",
+          "meaning": "events",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use only when events are independent.",
+      "conditions": [
+        "Independence must be established, not assumed."
+      ],
+      "example": {
+        "question": "If P(A)=1/2 and P(B)=1/3 independently, find P(A∩B).",
+        "solution": "1/2×1/3.",
+        "answer": "1/6"
+      },
+      "common_mistakes": [
+        "Confusing mutually exclusive with independent."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "independent events",
+        "P(A∩B)=P(A)P(B)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_probability_and_statistics_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Probability and Statistics Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "probability and statistics"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_q_independence",
+      "type": "mcq",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_probability_and_statistics",
+      "topic_id": "jee_main_math_probability_and_statistics_core",
+      "question": "If A and B are independent, P(A)=1/2 and P(B)=1/3, P(A∩B) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/5"
+        },
+        {
+          "id": "B",
+          "text": "1/6"
+        },
+        {
+          "id": "C",
+          "text": "2/3"
+        },
+        {
+          "id": "D",
+          "text": "5/6"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "Multiply the probabilities.",
+      "linked_formula_ids": [
+        "math_probability_independence"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 6,
+    "total_topics": 6,
+    "total_formula_references": 7,
+    "total_new_formulas": 8,
+    "total_identities": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 2,
+    "total_quick_revision_notes": 6,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

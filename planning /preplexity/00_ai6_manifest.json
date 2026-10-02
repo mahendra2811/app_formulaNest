@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_humanities",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Humanities",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Geography",
+      "Sociology",
+      "Psychology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE History Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/History_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Political Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/PoliticalScience_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Geography Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Geography_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Sociology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Sociology_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Psychology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Psychology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Economics is not duplicated because canonical Economics content is maintained by the Commerce dataset; a mapping file records this decision.",
+      "The extracted official PDFs contain some legacy session labels; explicit 2026-27 chapter structures should be checked against final school circulars before production import."
+    ]
+  },
+  "files": [
+    "11_history.json",
+    "11_political_science.json",
+    "11_geography.json",
+    "11_sociology.json",
+    "11_psychology.json",
+    "12_history.json",
+    "12_political_science.json",
+    "12_geography.json",
+    "12_sociology.json",
+    "12_psychology.json",
+    "11_humanities_economics_mapping.json",
+    "12_ai6_validation.json"
+  ]
+}

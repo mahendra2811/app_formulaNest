@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_mathematics",
+    "exam": "JEE_MAIN",
+    "subject": "Mathematics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The accessible NTA page exposes the official syllabus download but the extracted text does not expose all topic details. Verify the downloaded PDF before final production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_mathematics",
+    "name": "Mathematics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_math_coordinate_geometry",
+      "name": "Coordinate Geometry",
+      "subject_id": "jee_main_mathematics",
+      "order": 4,
+      "keywords": [
+        "coordinate geometry"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_math_coordinate_geometry_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [],
+  "content": [
+    {
+      "id": "math_parabola_tangent",
+      "type": "formula",
+      "title": "Tangent to y²=4ax",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "topic_id": "jee_main_math_coordinate_geometry_core",
+      "formula_latex": "yy_1=2a(x+x_1)",
+      "formula_plain": "yy₁ = 2a(x+x₁)",
+      "summary": "Tangent at (x₁,y₁) to the standard parabola.",
+      "explanation": "Tangent at (x₁,y₁) to the standard parabola.",
+      "variables": [
+        {
+          "symbol": "a",
+          "meaning": "parabola parameter",
+          "unit": "coordinate unit"
+        }
+      ],
+      "when_to_use": "Use at a point on y²=4ax.",
+      "conditions": [
+        "The point must lie on the parabola."
+      ],
+      "example": {
+        "question": "For y²=4x at (1,2), write tangent.",
+        "solution": "2y=2(x+1).",
+        "answer": "y=x+1"
+      },
+      "common_mistakes": [
+        "Using a point not on the curve."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "tangent to y²=4ax",
+        "yy₁ = 2a(x+x₁)",
+        "jee maths"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_math_coordinate_geometry_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Coordinate Geometry Quick Revision",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "topic_id": "jee_main_math_coordinate_geometry_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall canonical formulas and standard results.",
+            "Check domain, sign convention and exceptional cases.",
+            "Use exact values and simplify before substitution.",
+            "Audit for extraneous roots or invalid cancellation."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall canonical formulas and standard results.",
+        "Check domain, sign convention and exceptional cases.",
+        "Use exact values and simplify before substitution.",
+        "Audit for extraneous roots or invalid cancellation."
+      ],
+      "common_mistakes": [
+        "Ignoring domain, sign, endpoint or multiplicity conditions."
+      ],
+      "related_content_ids": [],
+      "keywords": [
+        "jee main revision",
+        "coordinate geometry"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_q_parabola_tangent",
+      "type": "mcq",
+      "subject_id": "jee_main_mathematics",
+      "chapter_id": "jee_main_math_coordinate_geometry",
+      "topic_id": "jee_main_math_coordinate_geometry_core",
+      "question": "The tangent to y²=4x at (1,2) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "y=x−1"
+        },
+        {
+          "id": "B",
+          "text": "y=x+1"
+        },
+        {
+          "id": "C",
+          "text": "y=2x+1"
+        },
+        {
+          "id": "D",
+          "text": "y=2x−1"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "yy₁=2a(x+x₁): 2y=2(x+1).",
+      "linked_formula_ids": [
+        "math_parabola_tangent"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "question_style": "application",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 6,
+    "total_topics": 6,
+    "total_formula_references": 7,
+    "total_new_formulas": 8,
+    "total_identities": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 2,
+    "total_quick_revision_notes": 6,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

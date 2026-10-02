@@ -1,0 +1,870 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_commerce",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Commerce",
+    "subjects": [
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Accountancy Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Accountancy_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Business Studies Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/BusinessStudies_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Economics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Economics_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Applied Mathematics was not included because its official 2026-27 PDF was not confidently retrieved in this research pass; no Applied Mathematics records are invented.",
+      "The official PDFs display some legacy session labels in their extracted text; chapter mappings use the explicitly labelled Class XI/XII 2026-27 sections."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_economics",
+      "name": "Economics",
+      "class_id": "cbse_class_11",
+      "stream": "commerce"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_economics_1",
+      "name": "Introduction",
+      "subject_id": "cbse_class11_economics",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "introduction"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_2",
+      "name": "Collection, Organisation and Presentation of Data",
+      "subject_id": "cbse_class11_economics",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "collection, organisation and presentation of data"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_3",
+      "name": "Statistical Tools and Interpretation",
+      "subject_id": "cbse_class11_economics",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "statistical tools and interpretation"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_4",
+      "name": "Introductory Microeconomics",
+      "subject_id": "cbse_class11_economics",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "introductory microeconomics"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_5",
+      "name": "Consumer’s Equilibrium and Demand",
+      "subject_id": "cbse_class11_economics",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "consumer’s equilibrium and demand"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_6",
+      "name": "Producer Behaviour and Supply",
+      "subject_id": "cbse_class11_economics",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "producer behaviour and supply"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_7",
+      "name": "Perfect Competition and Price Determination",
+      "subject_id": "cbse_class11_economics",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Commerce curriculum chapter mapping for 2026-27.",
+      "keywords": [
+        "perfect competition and price determination"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_economics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_economics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_economics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_economics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_economics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_economics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_economics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_economics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_economics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "economics_arithmetic_mean",
+      "type": "formula",
+      "title": "Arithmetic Mean",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_3",
+      "topic_id": "cbse_class11_economics_3_core",
+      "summary": "Mean of ungrouped observations.",
+      "keywords": [
+        "arithmetic mean",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\bar{x}=\\frac{\\sum x}{N}",
+      "formula_plain": "x̄ = Σx/N",
+      "explanation": "Mean of ungrouped observations.",
+      "variables": [
+        {
+          "symbol": "x̄",
+          "meaning": "arithmetic mean",
+          "unit": "same as data"
+        },
+        {
+          "symbol": "N",
+          "meaning": "number of observations",
+          "unit": "count"
+        }
+      ],
+      "when_to_use": "Use for ungrouped data.",
+      "conditions": [
+        "All observations receive equal weight."
+      ],
+      "example": {
+        "question": "Find mean of 2,4,6.",
+        "solution": "(2+4+6)/3.",
+        "answer": "4"
+      },
+      "common_mistakes": [
+        "Dividing by wrong number of observations."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "economics_price_elasticity_demand",
+      "type": "formula",
+      "title": "Price Elasticity of Demand",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_5",
+      "topic_id": "cbse_class11_economics_5_core",
+      "summary": "Measures responsiveness of demand to price.",
+      "keywords": [
+        "price elasticity of demand",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "E_d=\\frac{\\%\\Delta Q_d}{\\%\\Delta P}",
+      "formula_plain": "Ed = percentage change in quantity demanded / percentage change in price",
+      "explanation": "Measures responsiveness of demand to price.",
+      "variables": [
+        {
+          "symbol": "Ed",
+          "meaning": "price elasticity",
+          "unit": "dimensionless"
+        }
+      ],
+      "when_to_use": "Use with percentage changes or the specified method.",
+      "conditions": [
+        "Signed and absolute conventions should be distinguished."
+      ],
+      "example": {
+        "question": "Quantity changes 20% and price 10%.",
+        "solution": "20/10.",
+        "answer": "Absolute elasticity = 2"
+      },
+      "common_mistakes": [
+        "Confusing percentage change with absolute change."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "economics_total_cost",
+      "type": "formula",
+      "title": "Total Cost",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_6",
+      "topic_id": "cbse_class11_economics_6_core",
+      "summary": "Total cost equals total fixed cost plus total variable cost.",
+      "keywords": [
+        "total cost",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "formula",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "formula_latex": "TC=TFC+TVC",
+      "formula_plain": "TC = TFC + TVC",
+      "explanation": "Total cost equals total fixed cost plus total variable cost.",
+      "variables": [
+        {
+          "symbol": "TC",
+          "meaning": "total cost",
+          "unit": "currency"
+        },
+        {
+          "symbol": "TFC",
+          "meaning": "total fixed cost",
+          "unit": "currency"
+        },
+        {
+          "symbol": "TVC",
+          "meaning": "total variable cost",
+          "unit": "currency"
+        }
+      ],
+      "when_to_use": "Use in short-run cost analysis.",
+      "conditions": [
+        "Fixed cost remains constant with output in the short run."
+      ],
+      "example": {
+        "question": "TFC 100 and TVC 250.",
+        "solution": "TC=100+250.",
+        "answer": "350"
+      },
+      "common_mistakes": [
+        "Subtracting variable cost."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class11_economics_1_quick_revision",
+      "type": "short_note",
+      "title": "Introduction — Chapter Quick Revision",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_1",
+      "topic_id": "cbse_class11_economics_1_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "introduction — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_economics_2_quick_revision",
+      "type": "short_note",
+      "title": "Collection, Organisation and Presentation of Data — Chapter Quick Revision",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_2",
+      "topic_id": "cbse_class11_economics_2_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "collection, organisation and presentation of data — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_economics_3_quick_revision",
+      "type": "short_note",
+      "title": "Statistical Tools and Interpretation — Chapter Quick Revision",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_3",
+      "topic_id": "cbse_class11_economics_3_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "statistical tools and interpretation — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_economics_4_quick_revision",
+      "type": "short_note",
+      "title": "Introductory Microeconomics — Chapter Quick Revision",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_4",
+      "topic_id": "cbse_class11_economics_4_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "introductory microeconomics — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_economics_5_quick_revision",
+      "type": "short_note",
+      "title": "Consumer’s Equilibrium and Demand — Chapter Quick Revision",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_5",
+      "topic_id": "cbse_class11_economics_5_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "consumer’s equilibrium and demand — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_economics_6_quick_revision",
+      "type": "short_note",
+      "title": "Producer Behaviour and Supply — Chapter Quick Revision",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_6",
+      "topic_id": "cbse_class11_economics_6_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "producer behaviour and supply — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_economics_7_quick_revision",
+      "type": "short_note",
+      "title": "Perfect Competition and Price Determination — Chapter Quick Revision",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_7",
+      "topic_id": "cbse_class11_economics_7_core",
+      "summary": "Concise chapter revision note.",
+      "keywords": [
+        "perfect competition and price determination — chapter quick revision",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall key terms, classifications and principles.",
+            "Apply formulas only with the stated accounting or economic context.",
+            "Use correct presentation and interpretation.",
+            "Check units, signs and numerator/denominator."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall key terms, classifications and principles.",
+        "Apply formulas only with the stated accounting or economic context.",
+        "Use correct presentation and interpretation.",
+        "Check units, signs and numerator/denominator."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, classifications or calculation bases."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "economics_demand_curve",
+      "type": "graph",
+      "title": "Demand Curve",
+      "subject_id": "cbse_class11_economics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_economics_5",
+      "topic_id": "cbse_class11_economics_5_core",
+      "summary": "Inverse relation between price and quantity demanded, ceteris paribus.",
+      "keywords": [
+        "demand curve",
+        "quick revision",
+        "cbse commerce"
+      ],
+      "tags": [
+        "graph",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false,
+      "x_axis": "quantity demanded",
+      "y_axis": "price",
+      "relationship": "Quantity demanded generally falls as price rises, other factors unchanged.",
+      "interpretation": [
+        "Movement along curve follows price change.",
+        "Shift follows non-price determinants."
+      ],
+      "important_points": [
+        "Axes should be labelled."
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_econ_mean",
+      "type": "mcq",
+      "subject_id": "cbse_class11_economics",
+      "chapter_id": "cbse_class11_economics_3",
+      "topic_id": "cbse_class11_economics_3_core",
+      "question": "The mean of 2, 4 and 6 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "(2+4+6)/3 = 4.",
+      "linked_formula_ids": [
+        "economics_arithmetic_mean"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "commerce"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 6,
+    "total_units": 0,
+    "total_chapters": 44,
+    "total_topics": 44,
+    "total_content_items": 61,
+    "total_formulas": 13,
+    "total_short_notes": 44,
+    "total_accounting_entries": 2,
+    "total_tables": 1,
+    "total_graphs": 1,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

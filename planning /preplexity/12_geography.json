@@ -1,0 +1,1482 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_humanities",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Humanities",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Geography",
+      "Sociology",
+      "Psychology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE History Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/History_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Political Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/PoliticalScience_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Geography Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Geography_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Sociology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Sociology_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Psychology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Psychology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Economics is not duplicated because canonical Economics content is maintained by the Commerce dataset; a mapping file records this decision.",
+      "The extracted official PDFs contain some legacy session labels; explicit 2026-27 chapter structures should be checked against final school circulars before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_geography",
+      "name": "Geography",
+      "class_id": "cbse_class_12",
+      "stream": "humanities"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_geography_1",
+      "name": "Human Geography: Nature and Scope",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "human geography: nature and scope"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_2",
+      "name": "The World Population: Distribution, Density and Growth",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "the world population: distribution, density and growth"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_3",
+      "name": "Human Development",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "human development"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_4",
+      "name": "Primary Activities",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "primary activities"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_5",
+      "name": "Secondary Activities",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "secondary activities"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_6",
+      "name": "Tertiary and Quaternary Activities",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "tertiary and quaternary activities"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_7",
+      "name": "Transport and Communication",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "transport and communication"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_8",
+      "name": "International Trade",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "international trade"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_9",
+      "name": "Population: Distribution, Density, Growth and Composition",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "population: distribution, density, growth and composition"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_10",
+      "name": "Migration: Types, Causes and Consequences",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "migration: types, causes and consequences"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_11",
+      "name": "Human Settlements",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "human settlements"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_12",
+      "name": "Land Resources and Agriculture",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "land resources and agriculture"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_13",
+      "name": "Water Resources",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 13,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "water resources"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_14",
+      "name": "Mineral and Energy Resources",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 14,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "mineral and energy resources"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_15",
+      "name": "Planning and Sustainable Development in Indian Context",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 15,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "planning and sustainable development in indian context"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_16",
+      "name": "Transport and Communication",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 16,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "transport and communication"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_17",
+      "name": "International Trade",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 17,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "international trade"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_18",
+      "name": "Geographical Perspective on Selected Issues and Problems",
+      "subject_id": "cbse_class12_geography",
+      "class_id": "cbse_class_12",
+      "order": 18,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "geographical perspective on selected issues and problems"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_geography_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_15_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_15",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_16_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_16",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_17_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_17",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_geography_18_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_geography_18",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class12_geography_1_quick_revision",
+      "type": "short_note",
+      "title": "Human Geography: Nature and Scope — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_1",
+      "topic_id": "cbse_class12_geography_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "human geography: nature and scope — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_2_quick_revision",
+      "type": "short_note",
+      "title": "The World Population: Distribution, Density and Growth — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_2",
+      "topic_id": "cbse_class12_geography_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "the world population: distribution, density and growth — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_3_quick_revision",
+      "type": "short_note",
+      "title": "Human Development — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_3",
+      "topic_id": "cbse_class12_geography_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "human development — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_4_quick_revision",
+      "type": "short_note",
+      "title": "Primary Activities — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_4",
+      "topic_id": "cbse_class12_geography_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "primary activities — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_5_quick_revision",
+      "type": "short_note",
+      "title": "Secondary Activities — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_5",
+      "topic_id": "cbse_class12_geography_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "secondary activities — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_6_quick_revision",
+      "type": "short_note",
+      "title": "Tertiary and Quaternary Activities — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_6",
+      "topic_id": "cbse_class12_geography_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "tertiary and quaternary activities — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_7_quick_revision",
+      "type": "short_note",
+      "title": "Transport and Communication — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_7",
+      "topic_id": "cbse_class12_geography_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "transport and communication — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_8_quick_revision",
+      "type": "short_note",
+      "title": "International Trade — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_8",
+      "topic_id": "cbse_class12_geography_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "international trade — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_9_quick_revision",
+      "type": "short_note",
+      "title": "Population: Distribution, Density, Growth and Composition — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_9",
+      "topic_id": "cbse_class12_geography_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "population: distribution, density, growth and composition — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_10_quick_revision",
+      "type": "short_note",
+      "title": "Migration: Types, Causes and Consequences — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_10",
+      "topic_id": "cbse_class12_geography_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "migration: types, causes and consequences — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_11_quick_revision",
+      "type": "short_note",
+      "title": "Human Settlements — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_11",
+      "topic_id": "cbse_class12_geography_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "human settlements — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_12_quick_revision",
+      "type": "short_note",
+      "title": "Land Resources and Agriculture — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_12",
+      "topic_id": "cbse_class12_geography_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "land resources and agriculture — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_13_quick_revision",
+      "type": "short_note",
+      "title": "Water Resources — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_13",
+      "topic_id": "cbse_class12_geography_13_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "water resources — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_14_quick_revision",
+      "type": "short_note",
+      "title": "Mineral and Energy Resources — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_14",
+      "topic_id": "cbse_class12_geography_14_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "mineral and energy resources — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_15_quick_revision",
+      "type": "short_note",
+      "title": "Planning and Sustainable Development in Indian Context — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_15",
+      "topic_id": "cbse_class12_geography_15_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "planning and sustainable development in indian context — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_16_quick_revision",
+      "type": "short_note",
+      "title": "Transport and Communication — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_16",
+      "topic_id": "cbse_class12_geography_16_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "transport and communication — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_17_quick_revision",
+      "type": "short_note",
+      "title": "International Trade — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_17",
+      "topic_id": "cbse_class12_geography_17_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "international trade — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_geography_18_quick_revision",
+      "type": "short_note",
+      "title": "Geographical Perspective on Selected Issues and Problems — Chapter Quick Revision",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_18",
+      "topic_id": "cbse_class12_geography_18_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "geographical perspective on selected issues and problems — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "geography_human_development_indicators",
+      "type": "table",
+      "title": "Human Development Indicators",
+      "subject_id": "cbse_class12_geography",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_geography_3",
+      "topic_id": "cbse_class12_geography_3_core",
+      "summary": "Common dimensions used to describe human development.",
+      "keywords": [
+        "human development indicators",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "table",
+        "geography"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "headers": [
+        "Dimension",
+        "What it indicates",
+        "Example measure"
+      ],
+      "rows": [
+        [
+          "Health",
+          "Ability to live a long and healthy life",
+          "Life expectancy"
+        ],
+        [
+          "Education",
+          "Access to knowledge",
+          "Years of schooling"
+        ],
+        [
+          "Income",
+          "Command over resources",
+          "Per capita income"
+        ]
+      ]
+    }
+  ],
+  "questions": [],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 10,
+    "total_units": 0,
+    "total_chapters": 124,
+    "total_topics": 124,
+    "total_content_items": 132,
+    "total_short_notes": 124,
+    "total_definitions": 1,
+    "total_timelines": 1,
+    "total_comparisons": 1,
+    "total_maps": 1,
+    "total_diagram_references": 0,
+    "total_formulas": 1,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

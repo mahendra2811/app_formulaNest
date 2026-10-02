@@ -1,0 +1,1952 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_class11_science",
+    "board": "CBSE",
+    "class": 11,
+    "stream": "Science",
+    "subjects": [
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Biology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Physics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Physics_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Chemistry Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Mathematics Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Maths_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Biology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Biology_SecP2_2026-27.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "Chemistry gaseous state and s/p block topics are listed as formative-only in the 2026-27 CBSE document and are marked for review where included.",
+      "Some Mathematics topics are formative-only; this starter dataset does not mark every formative mapping individually."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class11_physics",
+      "name": "Physics",
+      "class_id": "cbse_class_11",
+      "stream": "science"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class11_physics_1",
+      "name": "Units and Measurements",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 1,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "units and measurements"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_2",
+      "name": "Motion in a Straight Line",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 2,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "motion in a straight line"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_3",
+      "name": "Motion in a Plane",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 3,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "motion in a plane"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_4",
+      "name": "Laws of Motion",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 4,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "laws of motion"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_5",
+      "name": "Work, Energy and Power",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 5,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "work, energy and power"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_6",
+      "name": "System of Particles and Rotational Motion",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 6,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "system of particles and rotational motion"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_7",
+      "name": "Gravitation",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 7,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "gravitation"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_8",
+      "name": "Mechanical Properties of Solids",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 8,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "mechanical properties of solids"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_9",
+      "name": "Mechanical Properties of Fluids",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 9,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "mechanical properties of fluids"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_10",
+      "name": "Thermal Properties of Matter",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 10,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "thermal properties of matter"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_11",
+      "name": "Thermodynamics",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 11,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "thermodynamics"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_12",
+      "name": "Kinetic Theory",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 12,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "kinetic theory"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_13",
+      "name": "Oscillations",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 13,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "oscillations"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_14",
+      "name": "Waves",
+      "subject_id": "cbse_class11_physics",
+      "class_id": "cbse_class_11",
+      "order": 14,
+      "description": "CBSE Class 11 chapter for the 2026-27 curriculum.",
+      "keywords": [
+        "waves"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class11_physics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class11_physics_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class11_physics_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_speed",
+      "type": "formula",
+      "title": "Average Speed",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Average speed uses total distance and total time.",
+      "keywords": [
+        "average speed",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "v_{avg}=\\frac{\\text{total distance}}{\\text{total time}}",
+      "formula_plain": "average speed = total distance / total time",
+      "explanation": "Average speed uses total distance and total time.",
+      "variables": [
+        {
+          "symbol": "v_avg",
+          "meaning": "average speed",
+          "unit": "m/s"
+        }
+      ],
+      "when_to_use": "Use for total-trip average speed.",
+      "conditions": [
+        "Distance and time must use compatible units."
+      ],
+      "example": {
+        "question": "A body covers 100 m in 20 s.",
+        "solution": "v = 100/20.",
+        "answer": "5 m/s"
+      },
+      "common_mistakes": [
+        "Confusing average speed with average velocity."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_uniform_motion",
+      "type": "formula",
+      "title": "Uniform Acceleration Equations",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Relations for one-dimensional motion with constant acceleration.",
+      "keywords": [
+        "uniform acceleration equations",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "v=u+at;\\quad s=ut+\\frac{1}{2}at^2;\\quad v^2=u^2+2as",
+      "formula_plain": "v = u + at; s = ut + ½at²; v² = u² + 2as",
+      "explanation": "Relations for one-dimensional motion with constant acceleration.",
+      "variables": [
+        {
+          "symbol": "u",
+          "meaning": "initial velocity",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "v",
+          "meaning": "final velocity",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "a",
+          "meaning": "acceleration",
+          "unit": "m/s²"
+        },
+        {
+          "symbol": "t",
+          "meaning": "time",
+          "unit": "s"
+        },
+        {
+          "symbol": "s",
+          "meaning": "displacement",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for constant acceleration.",
+      "conditions": [
+        "Acceleration must be constant."
+      ],
+      "example": {
+        "question": "u=0, a=2 m/s², t=3 s.",
+        "solution": "v=6 m/s; s=½×2×9.",
+        "answer": "v=6 m/s, s=9 m"
+      },
+      "common_mistakes": [
+        "Using equations for variable acceleration."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_newtons_second_law",
+      "type": "formula",
+      "title": "Newton’s Second Law",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_4",
+      "topic_id": "cbse_class11_physics_4_core",
+      "summary": "Net force equals rate of change of momentum.",
+      "keywords": [
+        "newton’s second law",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\vec{F}=\\frac{d\\vec{p}}{dt};\\quad F=ma",
+      "formula_plain": "F = dp/dt; for constant mass F = ma",
+      "explanation": "Net force equals rate of change of momentum.",
+      "variables": [
+        {
+          "symbol": "F",
+          "meaning": "net force",
+          "unit": "N"
+        },
+        {
+          "symbol": "p",
+          "meaning": "momentum",
+          "unit": "kg m/s"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "a",
+          "meaning": "acceleration",
+          "unit": "m/s²"
+        }
+      ],
+      "when_to_use": "Use for dynamics problems.",
+      "conditions": [
+        "F is net force; vectors require direction."
+      ],
+      "example": {
+        "question": "A 2 kg body accelerates at 3 m/s².",
+        "solution": "F = ma = 2×3.",
+        "answer": "6 N"
+      },
+      "common_mistakes": [
+        "Using one force instead of net force."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_kinetic_energy",
+      "type": "formula",
+      "title": "Kinetic Energy",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_5",
+      "topic_id": "cbse_class11_physics_5_core",
+      "summary": "Energy due to motion.",
+      "keywords": [
+        "kinetic energy",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "K=\\frac{1}{2}mv^2",
+      "formula_plain": "K = ½mv²",
+      "explanation": "Energy due to motion.",
+      "variables": [
+        {
+          "symbol": "K",
+          "meaning": "kinetic energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "v",
+          "meaning": "speed",
+          "unit": "m/s"
+        }
+      ],
+      "when_to_use": "Use for translational kinetic energy.",
+      "conditions": [
+        "Speed is squared."
+      ],
+      "example": {
+        "question": "m=2 kg, v=3 m/s.",
+        "solution": "K=½×2×9.",
+        "answer": "9 J"
+      },
+      "common_mistakes": [
+        "Forgetting the square on speed."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_work_constant_force",
+      "type": "formula",
+      "title": "Work by a Constant Force",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_5",
+      "topic_id": "cbse_class11_physics_5_core",
+      "summary": "Work is the component of force along displacement multiplied by displacement.",
+      "keywords": [
+        "work by a constant force",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "W=Fs\\cos\\theta",
+      "formula_plain": "W = F s cos θ",
+      "explanation": "Work is the component of force along displacement multiplied by displacement.",
+      "variables": [
+        {
+          "symbol": "W",
+          "meaning": "work",
+          "unit": "J"
+        },
+        {
+          "symbol": "F",
+          "meaning": "force",
+          "unit": "N"
+        },
+        {
+          "symbol": "s",
+          "meaning": "displacement",
+          "unit": "m"
+        },
+        {
+          "symbol": "θ",
+          "meaning": "angle between force and displacement",
+          "unit": "degree or radian"
+        }
+      ],
+      "when_to_use": "Use for constant force and straight displacement.",
+      "conditions": [
+        "Work can be negative or zero."
+      ],
+      "example": {
+        "question": "F=10 N, s=2 m, same direction.",
+        "solution": "W=10×2×1.",
+        "answer": "20 J"
+      },
+      "common_mistakes": [
+        "Using F s without the angle factor."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_gravitational_potential",
+      "type": "formula",
+      "title": "Gravitational Potential Energy Near Earth",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_7",
+      "topic_id": "cbse_class11_physics_7_core",
+      "summary": "Potential energy relative to a chosen reference level near Earth’s surface.",
+      "keywords": [
+        "gravitational potential energy near earth",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "U=mgh",
+      "formula_plain": "U = mgh",
+      "explanation": "Potential energy relative to a chosen reference level near Earth’s surface.",
+      "variables": [
+        {
+          "symbol": "U",
+          "meaning": "potential energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "m",
+          "meaning": "mass",
+          "unit": "kg"
+        },
+        {
+          "symbol": "g",
+          "meaning": "acceleration due to gravity",
+          "unit": "m/s²"
+        },
+        {
+          "symbol": "h",
+          "meaning": "height difference",
+          "unit": "m"
+        }
+      ],
+      "when_to_use": "Use for small height changes near Earth.",
+      "conditions": [
+        "Reference level must be stated."
+      ],
+      "example": {
+        "question": "m=2 kg, g=10 m/s², h=3 m.",
+        "solution": "U=2×10×3.",
+        "answer": "60 J"
+      },
+      "common_mistakes": [
+        "Confusing height with path length."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_escape_velocity",
+      "type": "formula",
+      "title": "Escape Speed",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_7",
+      "topic_id": "cbse_class11_physics_7_core",
+      "summary": "Minimum speed needed to escape a spherical body without further propulsion, neglecting atmosphere and rotation.",
+      "keywords": [
+        "escape speed",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "hard",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "v_e=\\sqrt{\\frac{2GM}{R}}=\\sqrt{2gR}",
+      "formula_plain": "vₑ = √(2GM/R) = √(2gR)",
+      "explanation": "Minimum speed needed to escape a spherical body without further propulsion, neglecting atmosphere and rotation.",
+      "variables": [
+        {
+          "symbol": "G",
+          "meaning": "gravitational constant",
+          "unit": "N m²/kg²"
+        },
+        {
+          "symbol": "M",
+          "meaning": "mass of body",
+          "unit": "kg"
+        },
+        {
+          "symbol": "R",
+          "meaning": "radius of body",
+          "unit": "m"
+        },
+        {
+          "symbol": "g",
+          "meaning": "surface acceleration due to gravity",
+          "unit": "m/s²"
+        }
+      ],
+      "when_to_use": "Use for ideal escape from a spherical body.",
+      "conditions": [
+        "Neglect atmosphere and Earth rotation."
+      ],
+      "example": {
+        "question": "For g=10 m/s² and R=6.4×10⁶ m, estimate vₑ.",
+        "solution": "vₑ=√(2×10×6.4×10⁶).",
+        "answer": "Approximately 11.3 km/s"
+      },
+      "common_mistakes": [
+        "Confusing escape speed with orbital speed."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_fluid_pressure",
+      "type": "formula",
+      "title": "Pressure",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_9",
+      "topic_id": "cbse_class11_physics_9_core",
+      "summary": "Pressure is normal force per unit area.",
+      "keywords": [
+        "pressure",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "P=\\frac{F}{A}",
+      "formula_plain": "P = F/A",
+      "explanation": "Pressure is normal force per unit area.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "F",
+          "meaning": "normal force",
+          "unit": "N"
+        },
+        {
+          "symbol": "A",
+          "meaning": "area",
+          "unit": "m²"
+        }
+      ],
+      "when_to_use": "Use for force distributed over an area.",
+      "conditions": [
+        "Force must be normal to area for this simple form."
+      ],
+      "example": {
+        "question": "F=100 N over 2 m².",
+        "solution": "P=100/2.",
+        "answer": "50 Pa"
+      },
+      "common_mistakes": [
+        "Using length instead of area."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_thermodynamics_first_law",
+      "type": "formula",
+      "title": "First Law of Thermodynamics",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_11",
+      "topic_id": "cbse_class11_physics_11_core",
+      "summary": "Heat supplied equals increase in internal energy plus work done by the system.",
+      "keywords": [
+        "first law of thermodynamics",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "\\Delta Q=\\Delta U+W",
+      "formula_plain": "ΔQ = ΔU + W",
+      "explanation": "Heat supplied equals increase in internal energy plus work done by the system.",
+      "variables": [
+        {
+          "symbol": "ΔQ",
+          "meaning": "heat supplied",
+          "unit": "J"
+        },
+        {
+          "symbol": "ΔU",
+          "meaning": "change in internal energy",
+          "unit": "J"
+        },
+        {
+          "symbol": "W",
+          "meaning": "work done by system",
+          "unit": "J"
+        }
+      ],
+      "when_to_use": "Use with the stated sign convention.",
+      "conditions": [
+        "Sign convention must be consistent."
+      ],
+      "example": {
+        "question": "If ΔQ=100 J and W=30 J, find ΔU.",
+        "solution": "ΔU=100−30.",
+        "answer": "70 J"
+      },
+      "common_mistakes": [
+        "Reversing work sign conventions."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "physics_shm_period",
+      "type": "formula",
+      "title": "Time Period of a Simple Pendulum",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_13",
+      "topic_id": "cbse_class11_physics_13_core",
+      "summary": "Time period of a simple pendulum for small angular oscillations.",
+      "keywords": [
+        "time period of a simple pendulum",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "formula_latex": "T=2\\pi\\sqrt{\\frac{l}{g}}",
+      "formula_plain": "T = 2π√(l/g)",
+      "explanation": "Time period of a simple pendulum for small angular oscillations.",
+      "variables": [
+        {
+          "symbol": "T",
+          "meaning": "time period",
+          "unit": "s"
+        },
+        {
+          "symbol": "l",
+          "meaning": "effective length",
+          "unit": "m"
+        },
+        {
+          "symbol": "g",
+          "meaning": "acceleration due to gravity",
+          "unit": "m/s²"
+        }
+      ],
+      "when_to_use": "Use for small-amplitude oscillations.",
+      "conditions": [
+        "Small angle approximation; independent of bob mass."
+      ],
+      "example": {
+        "question": "How does T change if l becomes four times?",
+        "solution": "T is proportional to √l.",
+        "answer": "T becomes twice."
+      },
+      "common_mistakes": [
+        "Including bob mass in the formula."
+      ],
+      "related_formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_1_quick_revision",
+      "type": "short_note",
+      "title": "Units and Measurements — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_1",
+      "topic_id": "cbse_class11_physics_1_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "units and measurements — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_2_quick_revision",
+      "type": "short_note",
+      "title": "Motion in a Straight Line — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "motion in a straight line — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_3_quick_revision",
+      "type": "short_note",
+      "title": "Motion in a Plane — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_3",
+      "topic_id": "cbse_class11_physics_3_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "motion in a plane — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_4_quick_revision",
+      "type": "short_note",
+      "title": "Laws of Motion — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_4",
+      "topic_id": "cbse_class11_physics_4_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "laws of motion — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_5_quick_revision",
+      "type": "short_note",
+      "title": "Work, Energy and Power — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_5",
+      "topic_id": "cbse_class11_physics_5_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "work, energy and power — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_6_quick_revision",
+      "type": "short_note",
+      "title": "System of Particles and Rotational Motion — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_6",
+      "topic_id": "cbse_class11_physics_6_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "system of particles and rotational motion — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_7_quick_revision",
+      "type": "short_note",
+      "title": "Gravitation — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_7",
+      "topic_id": "cbse_class11_physics_7_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "gravitation — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_8_quick_revision",
+      "type": "short_note",
+      "title": "Mechanical Properties of Solids — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_8",
+      "topic_id": "cbse_class11_physics_8_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "mechanical properties of solids — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_9_quick_revision",
+      "type": "short_note",
+      "title": "Mechanical Properties of Fluids — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_9",
+      "topic_id": "cbse_class11_physics_9_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "mechanical properties of fluids — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_10_quick_revision",
+      "type": "short_note",
+      "title": "Thermal Properties of Matter — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_10",
+      "topic_id": "cbse_class11_physics_10_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "thermal properties of matter — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_11_quick_revision",
+      "type": "short_note",
+      "title": "Thermodynamics — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_11",
+      "topic_id": "cbse_class11_physics_11_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "thermodynamics — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_12_quick_revision",
+      "type": "short_note",
+      "title": "Kinetic Theory — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_12",
+      "topic_id": "cbse_class11_physics_12_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "kinetic theory — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_13_quick_revision",
+      "type": "short_note",
+      "title": "Oscillations — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_13",
+      "topic_id": "cbse_class11_physics_13_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "oscillations — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "cbse_class11_physics_14_quick_revision",
+      "type": "short_note",
+      "title": "Waves — Chapter Quick Revision",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_14",
+      "topic_id": "cbse_class11_physics_14_core",
+      "summary": "Concise 5–10 minute chapter revision note.",
+      "keywords": [
+        "waves — chapter quick revision",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Recall the chapter’s central definitions and laws.",
+            "Connect representations, diagrams and equations.",
+            "Check assumptions, units and exceptions.",
+            "Practise one direct and one application example."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Recall the chapter’s central definitions and laws.",
+        "Connect representations, diagrams and equations.",
+        "Check assumptions, units and exceptions.",
+        "Practise one direct and one application example."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, signs, units or conditions."
+      ],
+      "formula_ids": []
+    },
+    {
+      "id": "physics_velocity_time_graph",
+      "type": "graph",
+      "title": "Velocity-Time Graph",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_2",
+      "topic_id": "cbse_class11_physics_2_core",
+      "summary": "Interpretation of a velocity-time graph.",
+      "keywords": [
+        "velocity-time graph",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "graph",
+        "quick_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "x_axis": "time",
+      "y_axis": "velocity",
+      "relationship": "Slope gives acceleration; area under curve gives displacement.",
+      "interpretation": [
+        "Horizontal line indicates constant velocity.",
+        "Positive slope indicates positive acceleration."
+      ],
+      "important_points": [
+        "Units must be consistent."
+      ]
+    },
+    {
+      "id": "transverse_and_longitudinal_waves",
+      "type": "diagram_reference",
+      "title": "Transverse and Longitudinal Waves",
+      "subject_id": "cbse_class11_physics",
+      "unit_id": "",
+      "chapter_id": "cbse_class11_physics_14",
+      "topic_id": "cbse_class11_physics_14_core",
+      "summary": "Visual reference for quick understanding.",
+      "keywords": [
+        "transverse and longitudinal waves",
+        "class 11",
+        "quick revision"
+      ],
+      "tags": [
+        "diagram",
+        "quick_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false,
+      "description": "Diagram comparing particle vibration direction with wave propagation.",
+      "labels_required": [
+        "crest",
+        "trough",
+        "compression",
+        "rarefaction",
+        "wavelength"
+      ],
+      "asset_required": true
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_physics_newton",
+      "type": "mcq",
+      "subject_id": "cbse_class11_physics",
+      "chapter_id": "cbse_class11_physics_4",
+      "topic_id": "cbse_class11_physics_4_core",
+      "question": "A 2 kg body accelerates at 3 m/s². Net force is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5 N"
+        },
+        {
+          "id": "B",
+          "text": "5 N"
+        },
+        {
+          "id": "C",
+          "text": "6 N"
+        },
+        {
+          "id": "D",
+          "text": "9 N"
+        }
+      ],
+      "correct_option": "C",
+      "explanation": "F=ma=2×3=6 N",
+      "linked_formula_ids": [
+        "physics_newtons_second_law"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "q_physics_shm",
+      "type": "mcq",
+      "subject_id": "cbse_class11_physics",
+      "chapter_id": "cbse_class11_physics_13",
+      "topic_id": "cbse_class11_physics_13_core",
+      "question": "The period of a simple pendulum depends on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "mass only"
+        },
+        {
+          "id": "B",
+          "text": "length and g"
+        },
+        {
+          "id": "C",
+          "text": "amplitude only"
+        },
+        {
+          "id": "D",
+          "text": "bob colour"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "For small oscillations T=2π√(l/g).",
+      "linked_formula_ids": [
+        "physics_shm_period"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "classes": [
+        11
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "science"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 1,
+    "total_subjects": 4,
+    "total_units": 0,
+    "total_chapters": 56,
+    "total_topics": 56,
+    "total_content_items": 83,
+    "total_formulas": 19,
+    "total_short_notes": 56,
+    "total_definitions": 0,
+    "total_reactions": 1,
+    "total_tables": 3,
+    "total_graphs": 1,
+    "total_diagram_references": 3,
+    "total_questions": 8,
+    "duplicate_ids_found": 28,
+    "broken_references_found": 0,
+    "items_needing_review": 1
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "name": "Electromagnetic Induction and AC",
+      "subject_id": "jee_main_physics",
+      "order": 9,
+      "keywords": [
+        "electromagnetic induction and ac"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [
+    {
+      "id": "jee_main_physics_ref_physics_faradays_law",
+      "type": "formula_reference",
+      "canonical_content_id": "physics_faradays_law",
+      "exam": "JEE_MAIN",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "jee_importance": 5,
+      "jee_notes": "Minus sign represents Lenz law.",
+      "common_traps": [
+        "Check units, signs and assumptions."
+      ],
+      "keywords": [
+        "physics_faradays_law",
+        "jee physics formula",
+        "quick revision"
+      ],
+      "tags": [
+        "formula_reference",
+        "high_value",
+        "last_minute"
+      ],
+      "needs_review": false,
+      "canonical_reference_needs_merge": true
+    }
+  ],
+  "content": [
+    {
+      "id": "physics_ac_impedance_series_rlc",
+      "type": "formula",
+      "title": "Series RLC Impedance",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "formula_latex": "Z=\\sqrt{R^2+(X_L-X_C)^2}",
+      "formula_plain": "Z = √[R²+(XL−XC)²]",
+      "summary": "Impedance magnitude of a series RLC circuit.",
+      "explanation": "Impedance magnitude of a series RLC circuit.",
+      "variables": [
+        {
+          "symbol": "Z",
+          "meaning": "impedance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "R",
+          "meaning": "resistance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "X_L",
+          "meaning": "inductive reactance",
+          "unit": "Ω"
+        },
+        {
+          "symbol": "X_C",
+          "meaning": "capacitive reactance",
+          "unit": "Ω"
+        }
+      ],
+      "si_units": [
+        "Ω"
+      ],
+      "dimensions": "[ML²T⁻³I⁻²]",
+      "when_to_use": "Use for sinusoidal steady-state series RLC circuits.",
+      "conditions": [
+        "Reactances use the same angular frequency."
+      ],
+      "assumptions": [
+        "Ideal lumped components."
+      ],
+      "example": {
+        "question": "At resonance, XL=XC. Then Z equals:",
+        "solution": "Z=√(R²).",
+        "answer": "R"
+      },
+      "common_mistakes": [
+        "Adding reactances without signs."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "series rlc impedance",
+        "Z = √[R²+(XL−XC)²]",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_electromagnetic_induction_and_ac_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Electromagnetic Induction and AC Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "electromagnetic induction and ac"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_trap_rms_peak",
+      "type": "common_trap",
+      "title": "RMS Equals Peak",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "wrong_approach": "Use peak AC value as RMS value.",
+      "why_wrong": "For sinusoidal AC, RMS is peak divided by √2.",
+      "correct_approach": "Identify whether the problem gives peak or RMS quantities.",
+      "related_content_ids": [],
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_physics_q_ac",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_electromagnetic_induction_and_ac",
+      "topic_id": "jee_main_physics_electromagnetic_induction_and_ac_core",
+      "question": "At series RLC resonance, impedance is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "zero"
+        },
+        {
+          "id": "B",
+          "text": "R"
+        },
+        {
+          "id": "C",
+          "text": "XL+XC"
+        },
+        {
+          "id": "D",
+          "text": "infinite"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "XL=XC, so Z=R.",
+      "linked_formula_ids": [
+        "physics_ac_impedance_series_rlc"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "conceptual",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

@@ -1,0 +1,1206 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_11_12_humanities",
+    "board": "CBSE",
+    "classes": [
+      11,
+      12
+    ],
+    "stream": "Humanities",
+    "subjects": [
+      "History",
+      "Political Science",
+      "Geography",
+      "Sociology",
+      "Psychology"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE History Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/History_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Political Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/PoliticalScience_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Geography Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Geography_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Sociology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Sociology_SecP2_2026-27.pdf"
+      },
+      {
+        "name": "CBSE Psychology Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Psychology_SecP2_2026-27.pdf"
+      }
+    ],
+    "uncertainty_notes": [
+      "Economics is not duplicated because canonical Economics content is maintained by the Commerce dataset; a mapping file records this decision.",
+      "The extracted official PDFs contain some legacy session labels; explicit 2026-27 chapter structures should be checked against final school circulars before production import."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_11",
+      "name": "Class 11",
+      "number": 11,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_12",
+      "name": "Class 12",
+      "number": 12,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class12_political_science",
+      "name": "Political Science",
+      "class_id": "cbse_class_12",
+      "stream": "humanities"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class12_political_science_1",
+      "name": "The End of Bipolarity",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 1,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "the end of bipolarity"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_2",
+      "name": "Contemporary Centres of Power",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 2,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "contemporary centres of power"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_3",
+      "name": "Contemporary South Asia",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 3,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "contemporary south asia"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_4",
+      "name": "International Organisations",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 4,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "international organisations"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_5",
+      "name": "Security in the Contemporary World",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 5,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "security in the contemporary world"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_6",
+      "name": "Environment and Natural Resources",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 6,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "environment and natural resources"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_7",
+      "name": "Globalisation",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 7,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "globalisation"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_8",
+      "name": "Challenges of Nation-Building",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 8,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "challenges of nation-building"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_9",
+      "name": "Era of One-Party Dominance",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 9,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "era of one-party dominance"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_10",
+      "name": "Politics of Planned Development",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 10,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "politics of planned development"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_11",
+      "name": "India’s External Relations",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 11,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "india’s external relations"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_12",
+      "name": "Challenges to and Restoration of the Congress System",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 12,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "challenges to and restoration of the congress system"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_13",
+      "name": "The Crisis of Democratic Order",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 13,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "the crisis of democratic order"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_14",
+      "name": "Regional Aspirations",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 14,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "regional aspirations"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_15",
+      "name": "Recent Developments in Indian Politics",
+      "subject_id": "cbse_class12_political_science",
+      "class_id": "cbse_class_12",
+      "order": 15,
+      "description": "CBSE Humanities chapter mapping for 2026-27.",
+      "keywords": [
+        "recent developments in indian politics"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class12_political_science_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class12_political_science_15_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class12_political_science_15",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "cbse_class12_political_science_1_quick_revision",
+      "type": "short_note",
+      "title": "The End of Bipolarity — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_1",
+      "topic_id": "cbse_class12_political_science_1_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "the end of bipolarity — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_2_quick_revision",
+      "type": "short_note",
+      "title": "Contemporary Centres of Power — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_2",
+      "topic_id": "cbse_class12_political_science_2_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "contemporary centres of power — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_3_quick_revision",
+      "type": "short_note",
+      "title": "Contemporary South Asia — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_3",
+      "topic_id": "cbse_class12_political_science_3_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "contemporary south asia — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_4_quick_revision",
+      "type": "short_note",
+      "title": "International Organisations — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_4",
+      "topic_id": "cbse_class12_political_science_4_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "international organisations — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_5_quick_revision",
+      "type": "short_note",
+      "title": "Security in the Contemporary World — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_5",
+      "topic_id": "cbse_class12_political_science_5_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "security in the contemporary world — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_6_quick_revision",
+      "type": "short_note",
+      "title": "Environment and Natural Resources — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_6",
+      "topic_id": "cbse_class12_political_science_6_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "environment and natural resources — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_7_quick_revision",
+      "type": "short_note",
+      "title": "Globalisation — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_7",
+      "topic_id": "cbse_class12_political_science_7_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "globalisation — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_8_quick_revision",
+      "type": "short_note",
+      "title": "Challenges of Nation-Building — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_8",
+      "topic_id": "cbse_class12_political_science_8_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "challenges of nation-building — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_9_quick_revision",
+      "type": "short_note",
+      "title": "Era of One-Party Dominance — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_9",
+      "topic_id": "cbse_class12_political_science_9_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "era of one-party dominance — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_10_quick_revision",
+      "type": "short_note",
+      "title": "Politics of Planned Development — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_10",
+      "topic_id": "cbse_class12_political_science_10_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "politics of planned development — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_11_quick_revision",
+      "type": "short_note",
+      "title": "India’s External Relations — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_11",
+      "topic_id": "cbse_class12_political_science_11_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "india’s external relations — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_12_quick_revision",
+      "type": "short_note",
+      "title": "Challenges to and Restoration of the Congress System — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_12",
+      "topic_id": "cbse_class12_political_science_12_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "challenges to and restoration of the congress system — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_13_quick_revision",
+      "type": "short_note",
+      "title": "The Crisis of Democratic Order — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_13",
+      "topic_id": "cbse_class12_political_science_13_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "the crisis of democratic order — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_14_quick_revision",
+      "type": "short_note",
+      "title": "Regional Aspirations — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_14",
+      "topic_id": "cbse_class12_political_science_14_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "regional aspirations — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    },
+    {
+      "id": "cbse_class12_political_science_15_quick_revision",
+      "type": "short_note",
+      "title": "Recent Developments in Indian Politics — Chapter Quick Revision",
+      "subject_id": "cbse_class12_political_science",
+      "unit_id": "",
+      "chapter_id": "cbse_class12_political_science_15",
+      "topic_id": "cbse_class12_political_science_15_core",
+      "summary": "Concise 5–10 minute revision note.",
+      "keywords": [
+        "recent developments in indian politics — chapter quick revision",
+        "quick revision",
+        "humanities"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "classes": [
+        12
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [
+        "humanities"
+      ],
+      "needs_review": false,
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Identify the central theme and key terms.",
+            "Connect causes, processes, institutions or evidence.",
+            "Remember important comparisons and examples.",
+            "Avoid confusing similar concepts or periods."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Identify the central theme and key terms.",
+        "Connect causes, processes, institutions or evidence.",
+        "Remember important comparisons and examples.",
+        "Avoid confusing similar concepts or periods."
+      ],
+      "common_mistakes": [
+        "Confusing chronology, definitions, institutions or theoretical distinctions."
+      ],
+      "related_content_ids": []
+    }
+  ],
+  "questions": [],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 10,
+    "total_units": 0,
+    "total_chapters": 124,
+    "total_topics": 124,
+    "total_content_items": 132,
+    "total_short_notes": 124,
+    "total_definitions": 1,
+    "total_timelines": 1,
+    "total_comparisons": 1,
+    "total_maps": 1,
+    "total_diagram_references": 0,
+    "total_formulas": 1,
+    "total_questions": 4,
+    "duplicate_ids_found": 12,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}

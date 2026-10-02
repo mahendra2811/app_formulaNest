@@ -1,0 +1,1626 @@
+{
+  "metadata": {
+    "dataset_id": "cbse_classes_9_10_math_science",
+    "board": "CBSE",
+    "classes": [
+      9,
+      10
+    ],
+    "subjects": [
+      "Mathematics",
+      "Science"
+    ],
+    "syllabus_year": "2026-27",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "CBSE Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/curriculum_2027.html"
+      },
+      {
+        "name": "CBSE Class X Science Curriculum 2026-27",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf"
+      },
+      {
+        "name": "NCERT Grade 9 Mathematics Ganita Manjari Part I, 2026",
+        "url": "https://ncert.nic.in/textbook/pdf/iemh1ps.pdf"
+      },
+      {
+        "name": "NCERT Class IX Science textbook portal",
+        "url": "https://ncert.nic.in/textbook/pdf/iesc1ps.pdf"
+      }
+    ],
+    "syllabus_uncertainty": [
+      "The 2026 NCERT Grade 9 Mathematics textbook has a new eight-chapter structure. CBSE assessment mapping should be confirmed before production import.",
+      "The Class X Science curriculum identifies Periodic Classification, Heredity and Evolution, and certain electricity topics as formative/not assessed in the year-end examination; they remain represented with appropriate review status in downstream normalization."
+    ]
+  },
+  "classes": [
+    {
+      "id": "cbse_class_9",
+      "name": "Class 9",
+      "number": 9,
+      "board": "CBSE"
+    },
+    {
+      "id": "cbse_class_10",
+      "name": "Class 10",
+      "number": 10,
+      "board": "CBSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "cbse_class10_mathematics",
+      "name": "Mathematics",
+      "class_id": "cbse_class_10"
+    }
+  ],
+  "units": [],
+  "chapters": [
+    {
+      "id": "cbse_class10_mathematics_1",
+      "name": "Real Numbers",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 1,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "real numbers"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_2",
+      "name": "Polynomials",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 2,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "polynomials"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_3",
+      "name": "Pair of Linear Equations in Two Variables",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 3,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "pair of linear equations in two variables"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_4",
+      "name": "Quadratic Equations",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 4,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "quadratic equations"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_5",
+      "name": "Arithmetic Progressions",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 5,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "arithmetic progressions"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_6",
+      "name": "Triangles",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 6,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "triangles"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_7",
+      "name": "Coordinate Geometry",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 7,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "coordinate geometry"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_8",
+      "name": "Introduction to Trigonometry",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 8,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "introduction to trigonometry"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_9",
+      "name": "Applications of Trigonometry",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 9,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "applications of trigonometry"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_10",
+      "name": "Circles",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 10,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "circles"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_11",
+      "name": "Areas Related to Circles",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 11,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "areas related to circles"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_12",
+      "name": "Surface Areas and Volumes",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 12,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "surface areas and volumes"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_13",
+      "name": "Statistics",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 13,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "statistics"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_14",
+      "name": "Probability",
+      "subject_id": "cbse_class10_mathematics",
+      "class_id": "cbse_class_10",
+      "order": 14,
+      "description": "Chapter mapping for the CBSE/NCERT 2026-27 revision layer.",
+      "keywords": [
+        "probability"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "cbse_class10_mathematics_1_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_1",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_2_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_2",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_3_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_3",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_4_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_4",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_5_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_5",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_6_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_6",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_7_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_7",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_8_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_8",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_9_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_9",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_10_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_10",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_11_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_11",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_12_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_12",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_13_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_13",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    },
+    {
+      "id": "cbse_class10_mathematics_14_core",
+      "name": "Core concepts and quick revision",
+      "chapter_id": "cbse_class10_mathematics_14",
+      "order": 1,
+      "keywords": [
+        "quick revision",
+        "core concepts"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "id": "math_quadratic_roots",
+      "type": "formula",
+      "title": "Quadratic Formula",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_4",
+      "topic_id": "cbse_class10_mathematics_4_core",
+      "formula_latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+      "formula_plain": "x = (-b ± √(b² − 4ac)) / 2a",
+      "summary": "Gives the roots of ax² + bx + c = 0.",
+      "explanation": "Gives the roots of ax² + bx + c = 0.",
+      "variables": [
+        {
+          "symbol": "a",
+          "meaning": "coefficient of x²",
+          "unit": ""
+        },
+        {
+          "symbol": "b",
+          "meaning": "coefficient of x",
+          "unit": ""
+        },
+        {
+          "symbol": "c",
+          "meaning": "constant term",
+          "unit": ""
+        },
+        {
+          "symbol": "x",
+          "meaning": "root",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use to solve a quadratic equation.",
+      "conditions": [
+        "a ≠ 0",
+        "Equation must be in standard form."
+      ],
+      "example": {
+        "question": "Solve x² − 5x + 6 = 0.",
+        "solution": "x = (5 ± √(25 − 24))/2 = (5 ± 1)/2.",
+        "answer": "x = 2 or 3"
+      },
+      "common_mistakes": [
+        "Sign errors in b.",
+        "Forgetting ±."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "quadratic formula",
+        "x = (-b ± √(b² − 4ac)) / 2a"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "math_quadratic_discriminant",
+      "type": "formula",
+      "title": "Discriminant",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_4",
+      "topic_id": "cbse_class10_mathematics_4_core",
+      "formula_latex": "\\Delta = b^2 - 4ac",
+      "formula_plain": "Δ = b² − 4ac",
+      "summary": "The discriminant determines the nature of roots.",
+      "explanation": "The discriminant determines the nature of roots.",
+      "variables": [
+        {
+          "symbol": "Δ",
+          "meaning": "discriminant",
+          "unit": ""
+        },
+        {
+          "symbol": "a",
+          "meaning": "coefficient of x²",
+          "unit": ""
+        },
+        {
+          "symbol": "b",
+          "meaning": "coefficient of x",
+          "unit": ""
+        },
+        {
+          "symbol": "c",
+          "meaning": "constant",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use to determine root type.",
+      "conditions": [
+        "a ≠ 0"
+      ],
+      "example": {
+        "question": "For x² + 2x + 1 = 0, find Δ.",
+        "solution": "Δ = 2² − 4(1)(1) = 0.",
+        "answer": "Equal real roots."
+      },
+      "common_mistakes": [
+        "Confusing Δ = 0 with no real roots."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "discriminant",
+        "Δ = b² − 4ac"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "math_ap_nth_term",
+      "type": "formula",
+      "title": "nth Term of an Arithmetic Progression",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_5",
+      "topic_id": "cbse_class10_mathematics_5_core",
+      "formula_latex": "a_n = a + (n-1)d",
+      "formula_plain": "aₙ = a + (n − 1)d",
+      "summary": "Finds the nth term of an AP.",
+      "explanation": "Finds the nth term of an AP.",
+      "variables": [
+        {
+          "symbol": "aₙ",
+          "meaning": "nth term",
+          "unit": ""
+        },
+        {
+          "symbol": "a",
+          "meaning": "first term",
+          "unit": ""
+        },
+        {
+          "symbol": "n",
+          "meaning": "term number",
+          "unit": ""
+        },
+        {
+          "symbol": "d",
+          "meaning": "common difference",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use when the first term, common difference and term position are known.",
+      "conditions": [
+        "Terms must form an arithmetic progression."
+      ],
+      "example": {
+        "question": "Find the 5th term of 3, 7, 11, ...",
+        "solution": "a = 3, d = 4, n = 5; a₅ = 3 + 4(4).",
+        "answer": "19"
+      },
+      "common_mistakes": [
+        "Using n instead of n − 1."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "nth term of an arithmetic progression",
+        "aₙ = a + (n − 1)d"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "math_ap_sum",
+      "type": "formula",
+      "title": "Sum of First n Terms of an AP",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_5",
+      "topic_id": "cbse_class10_mathematics_5_core",
+      "formula_latex": "S_n = \\frac{n}{2}[2a+(n-1)d]",
+      "formula_plain": "Sₙ = n/2 [2a + (n − 1)d]",
+      "summary": "Finds the sum of the first n terms of an AP.",
+      "explanation": "Finds the sum of the first n terms of an AP.",
+      "variables": [
+        {
+          "symbol": "Sₙ",
+          "meaning": "sum of first n terms",
+          "unit": ""
+        },
+        {
+          "symbol": "a",
+          "meaning": "first term",
+          "unit": ""
+        },
+        {
+          "symbol": "n",
+          "meaning": "number of terms",
+          "unit": ""
+        },
+        {
+          "symbol": "d",
+          "meaning": "common difference",
+          "unit": ""
+        }
+      ],
+      "when_to_use": "Use for the sum of a finite AP.",
+      "conditions": [
+        "The sequence must be arithmetic."
+      ],
+      "example": {
+        "question": "Find the sum of the first 5 terms of 3, 7, 11, ...",
+        "solution": "S₅ = 5/2[6 + 16] = 55.",
+        "answer": "55"
+      },
+      "common_mistakes": [
+        "Dropping the factor n/2."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "sum of first n terms of an ap",
+        "Sₙ = n/2 [2a + (n − 1)d]"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "math_distance_formula",
+      "type": "formula",
+      "title": "Distance Formula",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_7",
+      "topic_id": "cbse_class10_mathematics_7_core",
+      "formula_latex": "d = \\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}",
+      "formula_plain": "d = √[(x₂ − x₁)² + (y₂ − y₁)²]",
+      "summary": "Finds the distance between two points in a Cartesian plane.",
+      "explanation": "Finds the distance between two points in a Cartesian plane.",
+      "variables": [
+        {
+          "symbol": "x₁,y₁",
+          "meaning": "coordinates of first point",
+          "unit": ""
+        },
+        {
+          "symbol": "x₂,y₂",
+          "meaning": "coordinates of second point",
+          "unit": ""
+        },
+        {
+          "symbol": "d",
+          "meaning": "distance",
+          "unit": "unit length"
+        }
+      ],
+      "when_to_use": "Use for distance between two coordinate points.",
+      "conditions": [
+        "Use the same coordinate units."
+      ],
+      "example": {
+        "question": "Find the distance between (0,0) and (3,4).",
+        "solution": "d = √(3² + 4²) = 5.",
+        "answer": "5 units"
+      },
+      "common_mistakes": [
+        "Forgetting to square negative differences."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "distance formula",
+        "d = √[(x₂ − x₁)² + (y₂ − y₁)²]"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_1_quick_revision",
+      "type": "short_note",
+      "title": "Real Numbers — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_1",
+      "topic_id": "cbse_class10_mathematics_1_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "real numbers — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_2_quick_revision",
+      "type": "short_note",
+      "title": "Polynomials — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_2",
+      "topic_id": "cbse_class10_mathematics_2_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "polynomials — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_3_quick_revision",
+      "type": "short_note",
+      "title": "Pair of Linear Equations in Two Variables — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_3",
+      "topic_id": "cbse_class10_mathematics_3_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "pair of linear equations in two variables — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_4_quick_revision",
+      "type": "short_note",
+      "title": "Quadratic Equations — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_4",
+      "topic_id": "cbse_class10_mathematics_4_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "quadratic equations — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_5_quick_revision",
+      "type": "short_note",
+      "title": "Arithmetic Progressions — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_5",
+      "topic_id": "cbse_class10_mathematics_5_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "arithmetic progressions — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_6_quick_revision",
+      "type": "short_note",
+      "title": "Triangles — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_6",
+      "topic_id": "cbse_class10_mathematics_6_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "triangles — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_7_quick_revision",
+      "type": "short_note",
+      "title": "Coordinate Geometry — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_7",
+      "topic_id": "cbse_class10_mathematics_7_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "coordinate geometry — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_8_quick_revision",
+      "type": "short_note",
+      "title": "Introduction to Trigonometry — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_8",
+      "topic_id": "cbse_class10_mathematics_8_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "introduction to trigonometry — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_9_quick_revision",
+      "type": "short_note",
+      "title": "Applications of Trigonometry — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_9",
+      "topic_id": "cbse_class10_mathematics_9_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "applications of trigonometry — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_10_quick_revision",
+      "type": "short_note",
+      "title": "Circles — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_10",
+      "topic_id": "cbse_class10_mathematics_10_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "circles — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_11_quick_revision",
+      "type": "short_note",
+      "title": "Areas Related to Circles — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_11",
+      "topic_id": "cbse_class10_mathematics_11_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "areas related to circles — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_12_quick_revision",
+      "type": "short_note",
+      "title": "Surface Areas and Volumes — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_12",
+      "topic_id": "cbse_class10_mathematics_12_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "surface areas and volumes — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_13_quick_revision",
+      "type": "short_note",
+      "title": "Statistics — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_13",
+      "topic_id": "cbse_class10_mathematics_13_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "statistics — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "cbse_class10_mathematics_14_quick_revision",
+      "type": "short_note",
+      "title": "Probability — Chapter Quick Revision",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_14",
+      "topic_id": "cbse_class10_mathematics_14_core",
+      "summary": "Core revision points for this chapter.",
+      "sections": [
+        {
+          "heading": "Key points",
+          "points": [
+            "Know the key definitions and representations.",
+            "Apply formulas only under their stated conditions.",
+            "Use diagrams, units and sign conventions carefully.",
+            "Check results for reasonableness."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Know the key definitions and representations.",
+        "Apply formulas only under their stated conditions.",
+        "Use diagrams, units and sign conventions carefully.",
+        "Check results for reasonableness."
+      ],
+      "common_mistakes": [
+        "Confusing definitions, units or conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "probability — chapter quick revision",
+        "quick revision",
+        "important points"
+      ],
+      "tags": [
+        "quick_revision",
+        "board_revision"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "math_trigonometry_standard_values",
+      "type": "table",
+      "title": "Standard Trigonometric Values",
+      "subject_id": "cbse_class10_mathematics",
+      "unit_id": "",
+      "chapter_id": "cbse_class10_mathematics_8",
+      "topic_id": "cbse_class10_mathematics_8_core",
+      "summary": "Exact values of trigonometric ratios for standard angles.",
+      "headers": [
+        "Angle",
+        "sin θ",
+        "cos θ",
+        "tan θ"
+      ],
+      "rows": [
+        [
+          "0°",
+          "0",
+          "1",
+          "0"
+        ],
+        [
+          "30°",
+          "1/2",
+          "√3/2",
+          "1/√3"
+        ],
+        [
+          "45°",
+          "1/√2",
+          "1/√2",
+          "1"
+        ],
+        [
+          "60°",
+          "√3/2",
+          "1/2",
+          "√3"
+        ],
+        [
+          "90°",
+          "1",
+          "0",
+          "not defined"
+        ]
+      ],
+      "keywords": [
+        "trigonometric table",
+        "standard angles",
+        "sin cos tan"
+      ],
+      "tags": [
+        "formula",
+        "important",
+        "board_revision"
+      ],
+      "difficulty": "easy",
+      "importance": 5,
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_math10_quad",
+      "type": "mcq",
+      "subject_id": "cbse_class10_mathematics",
+      "chapter_id": "cbse_class10_mathematics_4",
+      "topic_id": "cbse_class10_mathematics_4_core",
+      "question": "The discriminant of x² − 4x + 4 = 0 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "16"
+        }
+      ],
+      "correct_option": "A",
+      "explanation": "Δ = (−4)² − 4(1)(4) = 0.",
+      "linked_formula_ids": [
+        "math_quadratic_discriminant"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "q_math10_ap",
+      "type": "mcq",
+      "subject_id": "cbse_class10_mathematics",
+      "chapter_id": "cbse_class10_mathematics_5",
+      "topic_id": "cbse_class10_mathematics_5_core",
+      "question": "The 10th term of the AP 2, 5, 8, ... is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "26"
+        },
+        {
+          "id": "B",
+          "text": "29"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "32"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "a₁₀ = 2 + 9(3) = 29.",
+      "linked_formula_ids": [
+        "math_ap_nth_term"
+      ],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "numerical",
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    },
+    {
+      "id": "q_math10_trig",
+      "type": "mcq",
+      "subject_id": "cbse_class10_mathematics",
+      "chapter_id": "cbse_class10_mathematics_8",
+      "topic_id": "cbse_class10_mathematics_8_core",
+      "question": "What is sin 30°?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1/2"
+        },
+        {
+          "id": "C",
+          "text": "√3/2"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "The exact standard value is 1/2.",
+      "linked_formula_ids": [],
+      "difficulty": "easy",
+      "importance": 4,
+      "question_style": "direct",
+      "classes": [
+        10
+      ],
+      "boards": [
+        "CBSE"
+      ],
+      "exams": [],
+      "streams": [],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_classes": 2,
+    "total_subjects": 4,
+    "total_chapters": 49,
+    "total_topics": 49,
+    "total_content_items": 64,
+    "total_formulas": 11,
+    "total_short_notes": 52,
+    "total_definitions": 0,
+    "total_theorems": 0,
+    "total_diagram_references": 0,
+    "total_questions": 7,
+    "duplicate_ids_found": 27,
+    "broken_references_found": 0,
+    "items_needing_review": 8
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "dataset_id": "jee_main_physics",
+    "exam": "JEE_MAIN",
+    "subject": "Physics",
+    "syllabus_year": "2026",
+    "generated_for": "offline_formula_revision_app",
+    "research_date": "2026-10-02",
+    "sources_consulted": [
+      {
+        "name": "Official NTA JEE Main 2026 syllabus page",
+        "url": "https://jeemain.nta.nic.in/document/syllabus-2026/"
+      }
+    ],
+    "uncertainty_notes": [
+      "The official page exposes the syllabus download but the complete PDF text was not available in extracted form; verify the downloadable PDF before production import."
+    ]
+  },
+  "exam": {
+    "id": "jee_main",
+    "name": "JEE Main",
+    "year": 2026
+  },
+  "subject": {
+    "id": "jee_main_physics",
+    "name": "Physics"
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "jee_main_physics_properties_of_matter",
+      "name": "Properties of Matter",
+      "subject_id": "jee_main_physics",
+      "order": 3,
+      "keywords": [
+        "properties of matter"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "jee_main_physics_properties_of_matter_core",
+      "name": "Core JEE Main results and revision",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "order": 1,
+      "keywords": [
+        "jee main",
+        "physics formula",
+        "revision"
+      ]
+    }
+  ],
+  "formula_references": [],
+  "content": [
+    {
+      "id": "physics_bernoulli_equation",
+      "type": "formula",
+      "title": "Bernoulli Equation",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "topic_id": "jee_main_physics_properties_of_matter_core",
+      "formula_latex": "P+\\frac12\\rho v^2+\\rho gh=constant",
+      "formula_plain": "P + ½ρv² + ρgh = constant",
+      "summary": "Energy conservation relation for steady ideal fluid flow.",
+      "explanation": "Energy conservation relation for steady ideal fluid flow.",
+      "variables": [
+        {
+          "symbol": "P",
+          "meaning": "pressure",
+          "unit": "Pa"
+        },
+        {
+          "symbol": "ρ",
+          "meaning": "fluid density",
+          "unit": "kg/m³"
+        },
+        {
+          "symbol": "v",
+          "meaning": "flow speed",
+          "unit": "m/s"
+        },
+        {
+          "symbol": "h",
+          "meaning": "height",
+          "unit": "m"
+        }
+      ],
+      "si_units": [
+        "Pa"
+      ],
+      "dimensions": "[ML⁻¹T⁻²]",
+      "when_to_use": "Use along a streamline.",
+      "conditions": [
+        "Steady, incompressible, non-viscous flow."
+      ],
+      "assumptions": [
+        "No dissipative losses."
+      ],
+      "example": {
+        "question": "At equal height, if speed rises, pressure generally:",
+        "solution": "P+½ρv² constant.",
+        "answer": "Falls"
+      },
+      "common_mistakes": [
+        "Using it for highly viscous turbulent flow."
+      ],
+      "related_formula_ids": [],
+      "keywords": [
+        "bernoulli equation",
+        "P + ½ρv² + ρgh = constant",
+        "jee physics"
+      ],
+      "tags": [
+        "new_formula",
+        "high_value"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "jee_main_physics_properties_of_matter_quick_revision",
+      "type": "short_note",
+      "title": "JEE Main Properties of Matter Quick Revision",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "topic_id": "jee_main_physics_properties_of_matter_core",
+      "summary": "Five-to-ten minute revision note.",
+      "sections": [
+        {
+          "heading": "Must revise",
+          "points": [
+            "Recall core equations and units.",
+            "Check vectors, signs, assumptions and limiting cases.",
+            "Interpret graphs and diagrams physically.",
+            "Audit units before accepting a numerical answer."
+          ]
+        }
+      ],
+      "must_remember": [
+        "Use SI units unless conversion is explicit.",
+        "Distinguish scalar and vector quantities.",
+        "State assumptions for idealised formulas."
+      ],
+      "common_mistakes": [
+        "Using a formula outside its conditions."
+      ],
+      "formula_ids": [],
+      "keywords": [
+        "jee physics revision",
+        "properties of matter"
+      ],
+      "tags": [
+        "quick_revision",
+        "last_minute",
+        "must_remember"
+      ],
+      "difficulty": "medium",
+      "importance": 5,
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "questions": [
+    {
+      "id": "jee_physics_q_bernoulli",
+      "type": "mcq",
+      "subject_id": "jee_main_physics",
+      "chapter_id": "jee_main_physics_properties_of_matter",
+      "topic_id": "jee_main_physics_properties_of_matter_core",
+      "question": "At the same height in ideal flow, increasing speed causes pressure to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "increase"
+        },
+        {
+          "id": "B",
+          "text": "decrease"
+        },
+        {
+          "id": "C",
+          "text": "remain necessarily zero"
+        },
+        {
+          "id": "D",
+          "text": "become density"
+        }
+      ],
+      "correct_option": "B",
+      "explanation": "P+½ρv² is constant.",
+      "linked_formula_ids": [
+        "physics_bernoulli_equation"
+      ],
+      "difficulty": "medium",
+      "importance": 4,
+      "question_style": "conceptual",
+      "exams": [
+        "JEE_MAIN"
+      ],
+      "needs_review": false
+    }
+  ],
+  "validation": {
+    "total_units": 0,
+    "total_chapters": 11,
+    "total_topics": 11,
+    "total_formula_references": 7,
+    "total_new_formulas": 11,
+    "total_laws": 0,
+    "total_standard_results": 0,
+    "total_shortcuts": 1,
+    "total_common_traps": 3,
+    "total_graphs": 3,
+    "total_diagram_references": 3,
+    "total_quick_revision_notes": 11,
+    "total_questions": 6,
+    "duplicate_ids_found": 20,
+    "broken_references_found": 0,
+    "items_needing_review": 0
+  }
+}
