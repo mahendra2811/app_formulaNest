@@ -134,3 +134,28 @@ Follow the full journey in the supplied primary prompt or run `npm run test:e2e`
 ## Future work — Phase 2 ideas only
 
 Complete independently reviewed syllabus packs, LaTeX typography, image sharing, PDF export, personal notes, more boards/exams and spaced revision. These are not implemented in Phase 1.
+
+Done—the local app identity is reset:
+
+- Package ID: **`com.pooniya.formulanestapp`**
+- App name: **Formula Nest**
+- Deleted all three old local signing keys and their temporary backups.
+- Removed the old Expo project link.
+- Updated the slug, deep-link scheme, and local storage names.
+- TypeScript and lint checks passed.
+
+**New signing keys haven’t been generated yet.** Old credentials on Expo’s servers and the old Play listing haven’t been deleted.
+
+Run these commands from the project folder:
+
+```
+npx eas-cli@latest login
+npx eas-cli@latest init
+npx eas-cli@latest build --platform android --profile production --clear-cache
+```
+
+Choose **Create a new project** during initialization and **Generate a new Android Keystore** during the build. [Expo signing instructions](https://docs.expo.dev/app-signing/managed-credentials/).
+
+Create a **new app listing** in Play Console, then upload the resulting AAB. Its package ID comes from the AAB. [Play Console setup](https://support.google.com/googleplay/android-developer/answer/9859152).
+
+Send me the new Expo project ID/build URL and any Play Console requirements or errors. Keep private keys and passwords out of chat.

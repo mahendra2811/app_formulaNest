@@ -2,7 +2,7 @@
   "expo": {
     "name": "Formula Nest",
     "slug": "formula-nest-app",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "scheme": "formula-nest-app",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
@@ -18,7 +18,7 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundColor": "#eef4f0"
       },
-      "versionCode": 1
+      "versionCode": 3
     },
     "web": {
       "bundler": "metro",
@@ -59,7 +59,11 @@
           "Cross-Origin-Embedder-Policy": "credentialless",
           "Cross-Origin-Opener-Policy": "same-origin"
         }
+      },
+      "eas": {
+        "projectId": "d5731a65-f59b-4413-acd2-79dc4aca4cea"
       }
-    }
+    },
+    "owner": "mahi0092"
   }
 }
