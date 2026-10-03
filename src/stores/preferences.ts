@@ -35,7 +35,7 @@ export const usePreferences = create<State>()(
       setHydrated: () => set({ hydrated: true }),
     }),
     {
-      name: "formula-learner-preferences-v1",
+      name: "formula-nest-app-preferences-v1",
       storage: createJSONStorage(() => AsyncStorage),
       partialize: ({ preferences, theme, learningMode }) => ({
         preferences,

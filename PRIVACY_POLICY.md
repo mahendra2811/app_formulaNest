@@ -1,12 +1,12 @@
-# Privacy Policy — Formula Learner
+# Privacy Policy — Formula Nest
 
 **Last updated: October 2, 2026**
 
-Formula Learner is an offline educational app for studying formulas, revision notes, and practice questions. This policy explains how the current app handles your information.
+Formula Nest is an offline educational app for studying formulas, revision notes, and practice questions. This policy explains how the current app handles your information.
 
 ## Information stored on your device
 
-Formula Learner stores the following information locally to provide its features:
+Formula Nest stores the following information locally to provide its features:
 
 - Your study preferences, including class, board, stream, exam, and selected subjects.
 - Your display preferences, including theme and learning mode.
@@ -36,7 +36,7 @@ We do not sell or rent your learning data or provide it to advertising companies
 
 ## Device services and backups
 
-Your operating system, app store, or device backup service may process installation, diagnostic, or backup information under its own settings and privacy policy. Depending on your device configuration, app data may be included in a device backup or restored later. Formula Learner does not provide its own cloud synchronization service.
+Your operating system, app store, or device backup service may process installation, diagnostic, or backup information under its own settings and privacy policy. Depending on your device configuration, app data may be included in a device backup or restored later. Formula Nest does not provide its own cloud synchronization service.
 
 If you use a browser version, local learning information is stored in that browser's site storage. A server delivering the browser version may receive ordinary connection information, such as an IP address, when serving the app. This policy's offline storage description applies to the learning data handled by the app itself.
 
@@ -44,7 +44,7 @@ If you use a browser version, local learning information is stored in that brows
 
 Learning information remains in local app storage until you remove it or clear that storage. You can remove individual bookmarks and change revision status within the app.
 
-To delete all locally stored app information on Android, use your device's Settings to clear Formula Learner's app storage, or uninstall the app. On iOS, delete the app rather than offloading it. In a browser, clear the site's storage or website data. These actions remove saved preferences and learning history from that installation.
+To delete all locally stored app information on Android, use your device's Settings to clear Formula Nest's app storage, or uninstall the app. On iOS, delete the app rather than offloading it. In a browser, clear the site's storage or website data. These actions remove saved preferences and learning history from that installation.
 
 Device backups and copies you previously shared are controlled separately by the relevant device settings or recipient service. Clearing local storage does not delete those copies. We cannot retrieve, restore, or remotely delete learning data stored only on your device.
 
@@ -54,7 +54,7 @@ The app stores learning information within storage managed by your device or bro
 
 ## Children's privacy
 
-Formula Learner contains educational material that may be used by school students, including children. The current app does not require student accounts, request personal identifiers, or transmit learning history to us. Parents and guardians can manage or delete local app data through the device's settings.
+Formula Nest contains educational material that may be used by school students, including children. The current app does not require student accounts, request personal identifiers, or transmit learning history to us. Parents and guardians can manage or delete local app data through the device's settings.
 
 ## Changes to this policy
 

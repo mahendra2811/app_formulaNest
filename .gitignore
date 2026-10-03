@@ -44,3 +44,10 @@ dist-android/
 test-results/
 playwright-report/
 .env
+
+# Signing credentials and release artifacts
+*.keystore
+credentials.json
+credentials.*.json
+*.aab
+*.apk

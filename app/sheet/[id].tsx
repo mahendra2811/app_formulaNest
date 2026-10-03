@@ -68,7 +68,7 @@ export default function Sheet() {
                           ...(q.data?.items.map(
                             (i) => `${i.title}\n${i.formula}`,
                           ) ?? []),
-                          "Formula Learner",
+                          "Formula Nest",
                         ].join("\n\n"),
                       }),
                     )

@@ -57,7 +57,7 @@ export function contentShareText(
     ...sources,
     item.subjects.map((id) => names[id] ?? id).join(", "),
     item.chapters.map((id) => names[id] ?? id).join(", "),
-    "Formula Learner · Your offline revision companion",
+    "Formula Nest · Your offline revision companion",
   ]
     .filter(Boolean)
     .join("\n\n");

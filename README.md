@@ -1,4 +1,4 @@
-# Formula Learner
+# Formula Nest
 
 An offline educational revision companion built with Expo SDK 57, React Native, strict TypeScript, Expo Router, Zustand, and expo-sqlite. The Phase 1 app now includes all supplied content JSON responses.
 
@@ -32,149 +32,51 @@ The browser acceptance suite uses Chromium (`npx playwright install chromium` if
 
 No environment variables, accounts, API keys, or backend are required to run the app. EAS cloud builds require an Expo account; store submission requires the relevant developer account.
 
-## Android builds and releases
+## Fresh Android app identity
 
-Run these commands from the project root:
+The app is now **Formula Nest**, Android package and iOS bundle ID `com.pooniya.formulanestapp`, Expo slug/scheme `formula-nest-app`, version `1.0.0`, initial Android version code `1`. The old EAS project link has been removed. The existing app features and educational content are retained.
 
-```sh
-cd /home/pooniya/Documents/p_project/a_App/8.formula_learner
-```
+Old local signing keystores have been permanently deleted, including the temporary backup. Generated caches/build exports were moved outside this repository to a timestamped folder under `~/.local/share/formula-nest/legacy-signing-backups/`. The new app uses fresh SQLite and preferences storage names. Old remote EAS credentials and Play listings have not been deleted. They are not linked in the new configuration. Do not import old keys into the new app.
 
-### Account and project setup
+### Create a new Expo project and new upload key
+
+Run from this project directory:
 
 ```sh
 npx eas-cli@latest login
-npx eas-cli@latest whoami
+npx eas-cli@latest init
 npx eas-cli@latest project:info
-```
-
-This repository already has `eas.json` and an EAS project ID in `app.json`. For a new, unconfigured project only, use `npx eas-cli@latest init` followed by `npx eas-cli@latest build:configure`.
-
-The Android package and iOS bundle identifier are currently `com.pooniya.formulanest` (all lowercase). The Android package must match the existing Play Console listing exactly. Changing a package ID does not transfer signing credentials.
-
-### Before each release
-
-```sh
-npm ci
-npm run typecheck
-npm run lint
-npm test
-npm run validate
-npx expo-doctor
 npx expo config --type public
-```
-
-Review the resolved package ID. If releasing a new user-visible version, update `expo.version` in `app.json`. Android version codes are managed remotely by EAS: `eas.json` sets `appVersionSource: remote` and production `autoIncrement: true`.
-
-```sh
-npx eas-cli@latest build:version:get --platform android --profile production
-```
-
-### Build an APK for direct installation
-
-```sh
-npx eas-cli@latest build --platform android --profile preview
-```
-
-Download the APK from the completed build's link and install it on your Android device. This uses the existing `preview` profile and runs without a development server. With Android platform tools installed and a device connected with USB debugging enabled:
-
-```sh
-adb devices
-adb install -r /path/to/app.apk
-```
-
-An installed app with the same package but a different signing key cannot be updated in place. Uninstalling it removes its local study data, so back up anything needed first.
-
-### Build an AAB for Google Play
-
-```sh
-npx eas-cli@latest build --platform android --profile production
-```
-
-Download the `.aab` from the completed build page. Upload it to the intended track in Google Play Console. An AAB cannot be installed directly like an APK. `npm run export:android` only exports JavaScript/assets; it does not produce a signed APK or AAB.
-
-Inspect recent builds and a specific build:
-
-```sh
-npx eas-cli@latest build:list --platform android
-npx eas-cli@latest build:view BUILD_ID
-```
-
-Replace `BUILD_ID` with the ID from the build list. If troubleshooting stale build caches, rebuild with:
-
-```sh
 npx eas-cli@latest build --platform android --profile production --clear-cache
 ```
 
-Clearing the cache does not fix a signing-key mismatch.
+During `init`, create a **new** project named `formula-nest-app`; do not select/link the previous project. It writes a new `extra.eas.projectId` into `app.json`. Verify the resolved Android package is `com.pooniya.formulanestapp`. During the first build, choose **Generate a new Android Keystore**. Do not upload or select an old keystore. EAS creates and stores a new upload key. The production profile builds an AAB with remotely managed credentials and version codes; auto-increment can make the first build code greater than 1, which is valid for a new listing.
 
-### Optional submission through EAS
-
-The first Android upload must be made manually in Google Play Console. Subsequent EAS submissions require a Google service account configured with access to the app. This command uploads a selected build to Google Play; review the build and destination track carefully:
-
-```sh
-npx eas-cli@latest submit --platform android
-```
-
-Build and submit are separate steps. Complete the listing, testing, review, and rollout steps in Play Console as required.
-
-### Signing credentials and upload-key recovery
+After building, securely download a backup of the **new** keystore using:
 
 ```sh
 npx eas-cli@latest credentials --platform android
 ```
 
-Choose `production`, then `Keystore: Manage everything needed to build your project`. Use `Download existing keystore` to back up the selected key. Store its keystore password, key alias, and key password securely outside Git. Public `.der` or `.pem` certificates cannot replace the private keystore for signing builds.
+Select production and the new package, then the keystore download option. Store the file and passwords outside Git. Never share passwords, private keys, or service-account JSON in chat.
 
-Because the package spelling changed, verify the credentials shown for the current lowercase package before building. If necessary, configure it to use the downloaded keystore whose certificate was submitted for the reset; do not generate another key unintentionally.
-
-Signing fingerprints recorded during the 2 October 2026 investigation (the reset status must be checked in Play Console):
-
-| Certificate | SHA-1 |
-| --- | --- |
-| Upload key previously required by Play | `D9:AE:5F:B4:A8:09:9B:65:1C:CA:DA:46:C8:A8:1B:73:69:6C:E0:3C` |
-| Downloaded EAS key used for the replacement PEM | `6B:69:03:20:C7:D7:71:7B:D5:A6:42:26:3F:4E:6A:51:C3:1F:29:81` |
-
-If the original upload key is unavailable, request an upload-key reset in Play Console using the replacement key's public PEM certificate. The following commands require Java's `keytool`; passwords are entered interactively.
-
-Inspect the downloaded keystore:
+For an installable test APK using the same new app credentials:
 
 ```sh
-keytool -list -v -keystore './@mahi0092__formula-learner.jks'
+npx eas-cli@latest build --platform android --profile preview
 ```
 
-Export the replacement upload certificate using this keystore's alias:
+### New Google Play listing
 
-```sh
-keytool -exportcert -rfc \
-  -keystore './@mahi0092__formula-learner.jks' \
-  -alias d61402f876edfbd804de1f1a66f0ed3e \
-  -file "$HOME/Downloads/upload_certificate.pem"
-```
+Create a new app in Play Console, select its name, default language, app type, pricing, and declarations. The package identity comes from the uploaded AAB; Play Console does not generate a package ID. Upload the first AAB manually to the new app's testing track, and use Google-generated app signing when enrolling in Play App Signing. This creates a separate Play app signing key; the EAS keystore is the upload key. Do not request an upload-key reset for the old listing.
 
-Verify the PEM fingerprint:
+Complete the dashboard requirements, store text, screenshots, icon, feature graphic, support contact, hosted privacy-policy URL, app access, ads, data safety, content rating, target audience, and any account-specific testing/verification requirements shown by Google. Review `PRIVACY_POLICY.md` and replace any placeholders before publishing it. Confirm that declarations match the shipped app and intended audience.
 
-```sh
-keytool -printcert -file "$HOME/Downloads/upload_certificate.pem"
-```
+To continue with release preparation, provide the new EAS project ID/build URL, your chosen store name, support email, public privacy-policy URL, and the Play Console requirements or upload errors you see. No Google service account is required for a manual first upload. A new package installs separately and does not migrate the old app's local progress automatically.
 
-Upload `~/Downloads/upload_certificate.pem` through **App signing > Request upload key reset**. Only upload the public PEM certificate. Wait for Google's confirmed activation time, then upload an AAB signed with that same replacement key. A reset changes the accepted upload key, not Google's app signing key. Keep `.jks`, `.keystore`, credential JSON files, and passwords out of Git.
+Changing package/signing identity does not redesign the screens or reset any Google Play policy/account history. Store submission and rollout are separate from building.
 
-### Development restart and iOS build
-
-Restart Metro with a cleared cache when troubleshooting local bundling:
-
-```sh
-npx expo start --clear
-```
-
-For an iOS production build (requires Apple signing credentials and appropriate Apple Developer access):
-
-```sh
-npx eas-cli@latest build --platform ios --profile production
-```
-
-References: [EAS Build setup](https://docs.expo.dev/build/setup/), [APK builds](https://docs.expo.dev/build-reference/apk/), [EAS CLI commands](https://docs.expo.dev/eas/cli/), [Android submission](https://docs.expo.dev/submit/android/), [Play App Signing and upload-key resets](https://support.google.com/googleplay/android-developer/answer/9842756).
+References: [EAS build setup](https://docs.expo.dev/build/setup/), [EAS managed signing credentials](https://docs.expo.dev/app-signing/managed-credentials/), [Create a Play app](https://support.google.com/googleplay/android-developer/answer/9859152), [Play App Signing](https://support.google.com/googleplay/android-developer/answer/9842756).
 
 ## Architecture
 

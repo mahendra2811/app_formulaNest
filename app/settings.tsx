@@ -46,7 +46,7 @@ export default function Settings() {
         <ModeToggle />
       </Section>
       <Card>
-        <Label style={{ fontWeight: "700" }}>Formula Learner · Supplied starter packs</Label>
+        <Label style={{ fontWeight: "700" }}>Formula Nest · Supplied starter packs</Label>
         <Label muted>
           Supplied starter packs and study progress are stored on this device.
           Coverage is partial and varies by class and subject. No account or

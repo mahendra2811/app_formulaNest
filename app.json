@@ -1,22 +1,24 @@
 {
   "expo": {
-    "name": "Formula Learner",
-    "slug": "formula-learner",
+    "name": "Formula Nest",
+    "slug": "formula-nest-app",
     "version": "1.0.0",
-    "scheme": "formula-learner",
+    "scheme": "formula-nest-app",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "icon": "./assets/icon.png",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.pooniya.formulanest"
+      "bundleIdentifier": "com.pooniya.formulanestapp",
+      "buildNumber": "1"
     },
     "android": {
-      "package": "com.pooniya.formulanest",
+      "package": "com.pooniya.formulanestapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundColor": "#eef4f0"
-      }
+      },
+      "versionCode": 1
     },
     "web": {
       "bundler": "metro",
@@ -57,9 +59,6 @@
           "Cross-Origin-Embedder-Policy": "credentialless",
           "Cross-Origin-Opener-Policy": "same-origin"
         }
-      },
-      "eas": {
-        "projectId": "ccea7e8c-ea9b-4860-b475-500d07fcb56e"
       }
     }
   }

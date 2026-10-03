@@ -84,7 +84,7 @@ export default function RootLayout() {
       <DatabaseErrorBoundary>
         <Suspense fallback={<ActivityIndicator style={{ flex: 1 }} />}>
           <SQLiteProvider
-            databaseName="formula-learner.db"
+            databaseName="formula-nest-app.db"
             onInit={(db) => initializeDatabase(db, bundledData)}
             useSuspense
           >
